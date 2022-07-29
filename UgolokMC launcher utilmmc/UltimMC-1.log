@@ -1,0 +1,594 @@
+    0.009 D <> Log initialized.
+    0.009 D "UltimMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.009 D Version                    :  "0.6.13-develop-2852"
+    0.009 D Git commit                 :  "66bb7105db93e0977bb64a59a12b001f780e0566"
+    0.009 D Git refspec                :  "refs/heads/develop"
+    0.009 D Work dir before adjustment :  "D:/vv/multiMC cracked/UltimMC"
+    0.009 D Work dir after adjustment  :  "D:/vv/multiMC cracked/UltimMC"
+    0.009 D Adjusted by                :  "Fallback to binary path D:/vv/multiMC cracked/UltimMC"
+    0.009 D Binary path                :  "D:/vv/multiMC cracked/UltimMC"
+    0.009 D Application root path      :  "D:/vv/multiMC cracked/UltimMC"
+    0.009 D <> Paths set.
+    0.018 D Detected default console font: "Courier" , substitutions: ""
+    0.018 D <> Settings loaded.
+    0.026 D Loading Application Language File for ru ...
+    0.026 D Your language is "ru"
+    0.026 D <> Translations loaded.
+    0.026 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.026 D <> Updater started.
+    0.028 D Started watching  "D:/vv/multiMC cracked/UltimMC/icons"
+    0.028 D Adding  "icons/7abfcb8aed4794842f4b4751ddc2f073 (1).png"
+    0.038 D <> Instance icons intialized.
+    0.039 D <> Icon themes initialized.
+    0.039 D Determining System Theme...
+    0.039 D System theme seems to be: "windowsvista"
+    0.039 D Considering theme from theme factory: "windows"
+    0.039 D Considering theme from theme factory: "windowsxp"
+    0.039 D Considering theme from theme factory: "windowsvista"
+    0.039 D System theme has been determined to be: "WindowsVista"
+    0.039 D Loading theme "custom"
+    0.040 D <> Widget themes initialized.
+    0.040 D Instance path              :  "instances"
+    0.041 D Loading Instances...
+    0.041 D Discovering instances in "D:/vv/multiMC cracked/UltimMC/instances"
+    0.041 D Found instance ID "1 18 2"
+    0.041 D Found instance ID "1 18 21"
+    0.041 D Found instance ID "1.12.2"
+    0.042 D Found instance ID "1.12.21"
+    0.042 D Found instance ID "1.18.1 play.universemc.ru"
+    0.042 D Found instance ID "1.18.11"
+    0.042 D Found instance ID "111"
+    0.042 D Found instance ID "20w14infinite"
+    0.042 D Found instance ID "4k"
+    0.042 D Found instance ID "a1.2.6"
+    0.042 D Found instance ID "cheats 1 15 2"
+    0.042 D Found instance ID "cheats 1.12.2"
+    0.042 D Found instance ID "chts 119"
+    0.042 D Found instance ID "Future"
+    0.042 D Found instance ID "inf-20100618"
+    0.042 D Found instance ID "paqckii add"
+    0.042 D Found instance ID "rd-132211"
+    0.042 D Found instance ID "UU"
+    0.042 D Found instance ID "VVV"
+    0.042 D Found instance ID "азаза"
+    0.042 D Found instance ID "билд сборка"
+    0.042 D Found instance ID "реплей мод 1 18 1"
+    0.042 D Found instance ID "сборка модов 1"
+    0.042 D Will load group list now.
+    0.044 D Group list loaded.
+    0.046 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 2"
+    0.047 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 21"
+    0.048 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.2"
+    0.050 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.21"
+    0.051 D Loaded instance  "1.18.1 play.universemc.ru"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.1 play.universemc.ru"
+    0.053 D Loaded instance  "bleanch hack 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.11"
+    0.054 D Loaded instance  "111"  from  "D:/vv/multiMC cracked/UltimMC/instances/111"
+    0.056 D Loaded instance  "20w14infinite"  from  "D:/vv/multiMC cracked/UltimMC/instances/20w14infinite"
+    0.057 D Loaded instance  "4k"  from  "D:/vv/multiMC cracked/UltimMC/instances/4k"
+    0.058 D Loaded instance  "a1.2.6"  from  "D:/vv/multiMC cracked/UltimMC/instances/a1.2.6"
+    0.059 D Loaded instance  "cheats 1 15 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1 15 2"
+    0.061 D Loaded instance  "multi cheats"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2"
+    0.062 D Loaded instance  "chts 119"  from  "D:/vv/multiMC cracked/UltimMC/instances/chts 119"
+    0.064 D Loaded instance  "Future"  from  "D:/vv/multiMC cracked/UltimMC/instances/Future"
+    0.065 D Loaded instance  "inf-20100618"  from  "D:/vv/multiMC cracked/UltimMC/instances/inf-20100618"
+    0.067 D Loaded instance  "paqckii add"  from  "D:/vv/multiMC cracked/UltimMC/instances/paqckii add"
+    0.068 D Loaded instance  "rd-132211"  from  "D:/vv/multiMC cracked/UltimMC/instances/rd-132211"
+    0.070 D Loaded instance  "UU"  from  "D:/vv/multiMC cracked/UltimMC/instances/UU"
+    0.072 D Loaded instance  "VVV"  from  "D:/vv/multiMC cracked/UltimMC/instances/VVV"
+    0.073 D Loaded instance  "азаза"  from  "D:/vv/multiMC cracked/UltimMC/instances/азаза"
+    0.075 D Loaded instance  "билд сборка"  from  "D:/vv/multiMC cracked/UltimMC/instances/билд сборка"
+    0.076 D Loaded instance  "реплей мод 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/реплей мод 1 18 1"
+    0.078 D Loaded instance  "сборка модов 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/сборка модов 1"
+    0.078 D <> Instances loaded.
+    0.085 D <> Auth server started.
+    0.085 D Loading accounts...
+    0.086 D LOOKUP AUTH_PROVIDER "dummy"
+    0.086 D LOOKUP AUTH_PROVIDER "dummy"
+    0.086 D <> Accounts loaded.
+    0.096 D <> Cache initialized.
+    0.096 D Detecting proxy settings...
+    0.101 D Using no proxy is an option!
+    0.101 D <> Proxy settings done.
+    0.101 D Downloading Translations Index...
+    0.101 D Task "NetJob(Translations Index)" starting for the first time
+    0.106 D <> Icon theme set.
+    0.106 D <> Application theme set.
+    0.106 D <> Initialized analytics with tid "UA-87731965-2"
+    0.123 W QMetaObject::connectSlotsByName: No matching signal for on_actionREDDIT_triggered()
+    0.123 W QMetaObject::connectSlotsByName: No matching signal for on_actionDISCORD_triggered()
+    0.123 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.123 W QMetaObject::connectSlotsByName: No matching signal for on_actionReportBug_triggered()
+    0.137 D Reloading news.
+    0.137 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.137 D Checking for updates.
+    0.137 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.137 D Loading the channel list.
+    0.137 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.137 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.195 D Viewport size "800x600"
+    0.195 D RAM size is 15789 MB
+    0.196 D [Analytics] "ScreenView: Main Window"
+    0.196 D <> Main window shown.
+    0.197 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    0.803 D Downloading  "https://multimc.org/rss.xml"
+    0.803 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    0.804 D Downloading  "https://files.multimc.org/notifications.json"
+    0.832 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    0.833 D Loading Application Language File for ru ...
+    1.134 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    1.134 D Task "NetJob(Update System Channel List)" succeeded
+    1.134 D Successfully loaded UpdateChecker channel list.
+    1.134 D Checking for updates.
+    1.134 D channelEntry =  "stable"
+    1.134 D channelEntry =  "develop"
+    1.134 D is intended update channel:  "develop"
+    1.134 D is current update channel:  "develop"
+    1.134 D channelEntry =  "main"
+    1.134 D m_repoUrl =  "http://files.multimc.org/update/win32/develop/"
+    1.135 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    1.135 D Downloading  "http://files.multimc.org/update/win32/develop/index.json"
+    1.143 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.143 D Task "NetJob(Translations Index)" succeeded
+    1.143 D Got translations index!
+    1.143 D Task "NetJob(Translation for ru)" starting for the first time
+    1.143 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.144 D Loading Application Language File for ru ...
+    1.144 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.144 D Loading Application Language File for ru ...
+    1.144 D Downloading  "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    1.144 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.146 D Loading Application Language File for ru ...
+    1.167 D Download succeeded: "https://files.multimc.org/notifications.json"
+    1.170 D Task "NetJob(Checking for notifications)" succeeded
+    1.229 D Download succeeded: "https://multimc.org/rss.xml"
+    1.229 D Task "NetJob(News RSS Feed)" succeeded
+    1.229 D Finished loading RSS feed.
+    1.230 D Loaded news entry "0.6.16 - The Modpack Apocalypse"
+    1.230 D Loaded news entry "Migration to Microsoft account is required"
+    1.230 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    1.230 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    1.230 D Loaded news entry "0.6.13 - Microsoft account integration"
+    1.230 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    1.230 D Loaded news entry "About Microsoft accounts"
+    1.230 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    1.230 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    1.230 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    1.230 D Loaded news entry "0.6.3 - The Big Sync"
+    1.230 D Loaded news entry "0.6.2 Released!"
+    1.230 D Loaded news entry "0.6.1 Released!"
+    1.230 D Loaded news entry "0.6.0 Released!"
+    1.230 D Loaded news entry "Introducing the Archive"
+    1.230 D Loaded news entry "0.5.1 - Bugfixes."
+    1.230 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    1.230 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.230 D Loaded news entry "0.4.10 - Another wifi fix"
+    1.230 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    1.230 D Loaded news entry "0.4.8 - Worlds and more."
+    1.230 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    1.230 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    1.230 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    1.231 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    1.231 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.231 D Loaded news entry "Support us on Patreon!"
+    1.231 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.231 D Loaded news entry "Announcing MultiMC 6"
+    1.231 D Loaded news entry "0.3 - The big feature update."
+    1.231 D Loaded news entry "First official MultiMC 5 release!"
+    1.231 D Loaded news entry "MultiMC Status Update"
+    1.231 D News loading succeeded.
+    1.267 D Location header: QUrl("https://files.multimc.org/update/win32/develop/index.json")
+    1.268 D Following redirect to  "https://files.multimc.org/update/win32/develop/index.json"
+    1.268 D Downloading  "https://files.multimc.org/update/win32/develop/index.json"
+    1.268 D Download redirected: "https://files.multimc.org/update/win32/develop/index.json"
+    1.355 D Download succeeded: "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    1.355 D Task "NetJob(Translation for ru)" succeeded
+    1.355 D Got translation: "ru"
+    1.355 D Loading Application Language File for ru ...
+    1.355 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.356 D Loading Application Language File for ru ...
+    1.356 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.357 D Loading Application Language File for ru ...
+    1.363 D Download succeeded: "https://files.multimc.org/update/win32/develop/index.json"
+    1.363 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.363 D Finished downloading repo index. Checking for new versions.
+    1.364 D Processing repository version list.
+    1.365 D Found newer version with ID 3524
+    1.366 D Task "NetJob(Changelog)" starting for the first time
+    1.378 D Downloading  "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    2.864 D Download succeeded: "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    2.864 D Task "NetJob(Changelog)" succeeded
+    3.068 D Update will be installed later.
+    4.259 D Task "LaunchController(0x627a990)" starting for the first time
+    4.260 D Task "MojangRefresh(0x627afa8)" starting for the first time
+    4.260 D Task "Yggdrasil(0x55ef850)" starting for the first time
+    4.594 D Read  333  bytes
+    4.594 D Processing request
+    4.594 D Processing authentication response.
+    4.594 D Getting access token.
+    4.594 D Finished reading authentication response.
+    4.594 D Task "Yggdrasil(0x55ef850)" succeeded
+    4.594 D Getting Xbox profile...
+    4.945 W AuthRequest::onRequestError: Error 204
+    4.945 W AuthRequest::onRequestError: Error string:  "Host requires authentication"
+    4.945 W AuthRequest::onRequestError: HTTP status 401 "Unauthorized"
+    4.945 D Parsing Minecraft entitlements...
+    4.945 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+    5.691 D Task "MojangRefresh(0x627afa8)" succeeded
+    5.691 D Writing account list to "accounts.json"
+    5.691 D Building JSON data structure.
+    5.691 D Building account array.
+    5.692 D Writing account list to file.
+    5.693 D Saved account list to "accounts.json"
+    5.762 W QString::arg: Argument missing: "http://localhost:53499" , 53499
+    5.881 D Task "LaunchTask(0x627c260)" starting for the first time
+    5.881 D Task "TextPrint(0x9397848)" starting for the first time
+    5.881 D Task "TextPrint(0x9397848)" succeeded
+    5.881 D Task "TextPrint(0x93973e8)" starting for the first time
+    5.881 D Task "TextPrint(0x93973e8)" succeeded
+    5.881 D Task "TextPrint(0x9397768)" starting for the first time
+    5.881 D Task "TextPrint(0x9397768)" succeeded
+    5.881 D Task "TextPrint(0x93ccab8)" starting for the first time
+    5.881 D Task "TextPrint(0x93ccab8)" succeeded
+    5.881 D Task "CheckJava(0x6230700)" starting for the first time
+    5.882 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+    6.038 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+    6.038 W STDERR ""
+    6.038 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    6.039 D Java checker succeeded.
+    6.043 C "Error changing setting JavaVendor. Setting doesn't exist."
+    6.045 D Task "CheckJava(0x6230700)" succeeded
+    6.045 D Task "CreateGameFolders(0x6302138)" starting for the first time
+    6.045 D Task "CreateGameFolders(0x6302138)" succeeded
+    6.045 D Task "ClaimAccount(0x93caf98)" starting for the first time
+    6.045 D Writing account list to "accounts.json"
+    6.045 D Building JSON data structure.
+    6.045 D Building account array.
+    6.045 D Writing account list to file.
+    6.047 D Saved account list to "accounts.json"
+    6.047 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is now in use.
+    6.047 D Task "ClaimAccount(0x93caf98)" succeeded
+    6.047 D Task "Update(0x6230bc0)" starting for the first time
+    6.047 D Task "MinecraftUpdate(0x622edc0)" starting for the first time
+    6.051 D Task "ComponentUpdateTask(0x6302bb8)" starting for the first time
+    6.051 D Loading components
+    6.055 D Task "NetJob(Получение метафайла: index.json)" starting for the first time
+    6.055 D Remote loading is being run for metadata index
+    6.061 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" starting for the first time
+    6.061 D Remote loading is being run for "LWJGL 3"
+    6.068 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" starting for the first time
+    6.068 D Remote loading is being run for "Minecraft"
+    6.072 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" starting for the first time
+    6.072 D Remote loading is being run for "Intermediary Mappings"
+    6.076 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" starting for the first time
+    6.077 D Remote loading is being run for "Fabric Loader"
+    6.077 D Task "FoldersTask(0x93cbb3c)" starting for the first time
+    6.077 D Task "FoldersTask(0x93cbb3c)" succeeded
+    6.085 D Downloading  "https://meta.multimc.org/v1/index.json"
+    6.086 D Downloading  "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+    6.086 D Downloading  "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+    6.087 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+    6.088 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+    6.413 D Download succeeded: "https://meta.multimc.org/v1/index.json"
+    6.413 D Task "NetJob(Получение метафайла: index.json)" succeeded
+    6.414 D Remote task 0 succeeded
+    6.425 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+    6.425 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" succeeded
+    6.425 D Remote task 1 succeeded
+    6.425 D Component list save is scheduled for "UU"
+    6.431 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+    6.431 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" succeeded
+    6.431 D Remote task 4 succeeded
+    6.435 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+    6.435 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" succeeded
+    6.435 D Remote task 3 succeeded
+    6.446 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+    6.446 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" succeeded
+    6.446 D Remote task 2 succeeded
+    6.446 D Resolving dependencies
+    6.446 D "Req: net.fabricmc.intermediary" Is met.
+    6.446 D "Req: net.minecraft == 1.19" Is met.
+    6.446 D "Req: org.lwjgl3 == 3.3.1" Is met.
+    6.446 D Task "ComponentUpdateTask(0x6302bb8)" succeeded
+    6.446 D Component list update/resolve task succeeded for "UU"
+    6.447 D Task "LibrariesTask(0x622f5cc)" starting for the first time
+    6.447 D "UU" : downloading libraries
+    6.447 D Applying "org.lwjgl3" GOOD
+    6.447 D Applying "net.minecraft" GOOD
+    6.447 D Applying "net.fabricmc.intermediary" GOOD
+    6.447 D Applying "net.fabricmc.fabric-loader" GOOD
+    6.456 D Task "NetJob(Библиотеки для сборки UU)" starting for the first time
+    6.456 D Task "NetJob(Библиотеки для сборки UU)" succeeded
+    6.456 D Task "LibrariesTask(0x622f5cc)" succeeded
+    6.456 D Task "FMLLibrariesTask(0x60b766c)" starting for the first time
+    6.456 D Task "FMLLibrariesTask(0x60b766c)" succeeded
+    6.456 D Task "AssetUpdateTask(0x622ee0c)" starting for the first time
+    6.457 D Asset index SHA1: "b5c7548ddb9e584e84a5f762da5b78211c715a63"
+    6.457 D "UU" : Starting asset index download
+    6.457 D Task "NetJob(Индекс ресурса для UU)" starting for the first time
+    6.458 D Downloading  "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+    6.737 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+    6.737 D Task "NetJob(Индекс ресурса для UU)" succeeded
+    6.738 D "UU" : Finished asset index download
+    6.935 D Task "NetJob(Ресурсы для 1.19)" starting for the first time
+    6.936 D Downloading  "https://resources.download.minecraft.net/0b/0b020fe4f1ad2ea643c9e5d694ddf3b1f5909fa0"
+    6.936 D Downloading  "https://resources.download.minecraft.net/1b/1b813edc51208121e814e711336f3e02837a313d"
+    6.937 D Downloading  "https://resources.download.minecraft.net/e4/e4bf9b6a5c5e2cb5fddad30462d90b30cbe6f3c3"
+    6.937 D Downloading  "https://resources.download.minecraft.net/70/7072dc5265a3d153029bd79867fc3c9401b97ef7"
+    6.937 D Downloading  "https://resources.download.minecraft.net/b5/b52ba92965c676f528296d723d470e5a6bd8f88a"
+    6.937 D Downloading  "https://resources.download.minecraft.net/0d/0df85d902bf41d4e1dc5d89a4aed6564a147da7d"
+    7.474 D Download succeeded: "https://resources.download.minecraft.net/1b/1b813edc51208121e814e711336f3e02837a313d"
+    7.474 D Downloading  "https://resources.download.minecraft.net/25/254504dc2fe08394c27f5d69b69883be3032fc03"
+    7.578 D Download succeeded: "https://resources.download.minecraft.net/e4/e4bf9b6a5c5e2cb5fddad30462d90b30cbe6f3c3"
+    7.578 D Downloading  "https://resources.download.minecraft.net/e3/e309d0d6e7e79fa998675059c14b26405eee4e9a"
+    7.580 D Download succeeded: "https://resources.download.minecraft.net/0b/0b020fe4f1ad2ea643c9e5d694ddf3b1f5909fa0"
+    7.580 D Downloading  "https://resources.download.minecraft.net/ef/efe62e579c79933cbb786931fdc2e841aee71ff4"
+    7.634 D Download succeeded: "https://resources.download.minecraft.net/b5/b52ba92965c676f528296d723d470e5a6bd8f88a"
+    7.634 D Downloading  "https://resources.download.minecraft.net/cc/cc58aea134b5a0264fd0be88f84f81ee77b06ec1"
+    7.874 D Download succeeded: "https://resources.download.minecraft.net/ef/efe62e579c79933cbb786931fdc2e841aee71ff4"
+    7.874 D Downloading  "https://resources.download.minecraft.net/ff/ff0121fa5164d809a26daedfd9d829c95e2f45bd"
+    8.050 D Download succeeded: "https://resources.download.minecraft.net/70/7072dc5265a3d153029bd79867fc3c9401b97ef7"
+    8.050 D Downloading  "https://resources.download.minecraft.net/e1/e11cbaf8cde4cd4b19e3f1d65152e7626b8057ba"
+    8.066 D Download succeeded: "https://resources.download.minecraft.net/e3/e309d0d6e7e79fa998675059c14b26405eee4e9a"
+    8.066 D Downloading  "https://resources.download.minecraft.net/37/371c7d6c9505559635ec9ec8b8eb50929daa2bf2"
+    8.089 D Download succeeded: "https://resources.download.minecraft.net/0d/0df85d902bf41d4e1dc5d89a4aed6564a147da7d"
+    8.089 D Downloading  "https://resources.download.minecraft.net/18/1806fe18b9047a6ea18291338899ab89774146ed"
+    8.151 D Download succeeded: "https://resources.download.minecraft.net/ff/ff0121fa5164d809a26daedfd9d829c95e2f45bd"
+    8.151 D Downloading  "https://resources.download.minecraft.net/40/401a0d75bdb7424f72a5ee50856f5349a857398f"
+    8.215 D Download succeeded: "https://resources.download.minecraft.net/cc/cc58aea134b5a0264fd0be88f84f81ee77b06ec1"
+    8.215 D Downloading  "https://resources.download.minecraft.net/a6/a6681282395433debb967c728a9dc07eb4e30566"
+    8.313 D Download succeeded: "https://resources.download.minecraft.net/18/1806fe18b9047a6ea18291338899ab89774146ed"
+    8.313 D Downloading  "https://resources.download.minecraft.net/24/242d4733a2d41e9eeb0983d8daac3fcd80aa7946"
+    8.360 D Download succeeded: "https://resources.download.minecraft.net/25/254504dc2fe08394c27f5d69b69883be3032fc03"
+    8.360 D Downloading  "https://resources.download.minecraft.net/84/84473e1bef034f6bf32f07ae2368d936aea684c1"
+    8.439 D Download succeeded: "https://resources.download.minecraft.net/40/401a0d75bdb7424f72a5ee50856f5349a857398f"
+    8.439 D Downloading  "https://resources.download.minecraft.net/e2/e24eb087f96714f8a6a78f8a5f074e7fea11738a"
+    8.489 D Download succeeded: "https://resources.download.minecraft.net/37/371c7d6c9505559635ec9ec8b8eb50929daa2bf2"
+    8.489 D Downloading  "https://resources.download.minecraft.net/48/482e0dae05abfa35ab5cb076e41fda77b4fb9a08"
+    8.494 D Download succeeded: "https://resources.download.minecraft.net/e1/e11cbaf8cde4cd4b19e3f1d65152e7626b8057ba"
+    8.495 D Downloading  "https://resources.download.minecraft.net/46/462f5ed830df2b167bfe900a8ec7a90eff82ed98"
+    8.843 D Download succeeded: "https://resources.download.minecraft.net/e2/e24eb087f96714f8a6a78f8a5f074e7fea11738a"
+    8.844 D Downloading  "https://resources.download.minecraft.net/3e/3e2de0b3eded49fce833c0972487360de54ae100"
+    8.845 D Download succeeded: "https://resources.download.minecraft.net/84/84473e1bef034f6bf32f07ae2368d936aea684c1"
+    8.845 D Downloading  "https://resources.download.minecraft.net/fc/fcb6f199e8112c509d15211657dcffd045b7388a"
+    8.849 D Download succeeded: "https://resources.download.minecraft.net/a6/a6681282395433debb967c728a9dc07eb4e30566"
+    8.850 D Downloading  "https://resources.download.minecraft.net/30/307d6e4a1efd08774a973652c6411c0ee54228df"
+    8.851 D Download succeeded: "https://resources.download.minecraft.net/24/242d4733a2d41e9eeb0983d8daac3fcd80aa7946"
+    8.851 D Downloading  "https://resources.download.minecraft.net/8b/8be4f2099088fe965aef23bbd4f9ec15b9bba7d4"
+    8.947 D Download succeeded: "https://resources.download.minecraft.net/48/482e0dae05abfa35ab5cb076e41fda77b4fb9a08"
+    8.947 D Downloading  "https://resources.download.minecraft.net/b4/b4c0710774b9300b223cd19fae9f2c98a098a161"
+    9.012 D Download succeeded: "https://resources.download.minecraft.net/46/462f5ed830df2b167bfe900a8ec7a90eff82ed98"
+    9.013 D Downloading  "https://resources.download.minecraft.net/65/651f5f29bea312caa181b9cae8f8e1dc395458ef"
+    9.083 D Download succeeded: "https://resources.download.minecraft.net/8b/8be4f2099088fe965aef23bbd4f9ec15b9bba7d4"
+    9.083 D Downloading  "https://resources.download.minecraft.net/b6/b67d402abefb61146281ef710517d88250838f79"
+    9.101 D Download succeeded: "https://resources.download.minecraft.net/3e/3e2de0b3eded49fce833c0972487360de54ae100"
+    9.101 D Downloading  "https://resources.download.minecraft.net/0e/0e87e19b100653e721278abd2e587118cee2996d"
+    9.289 D Download succeeded: "https://resources.download.minecraft.net/30/307d6e4a1efd08774a973652c6411c0ee54228df"
+    9.290 D Downloading  "https://resources.download.minecraft.net/8f/8f2d64c02f09b76a44b734654bb5a9f7db9ef9de"
+    9.353 D Download succeeded: "https://resources.download.minecraft.net/b6/b67d402abefb61146281ef710517d88250838f79"
+    9.353 D Downloading  "https://resources.download.minecraft.net/1e/1e3ca4cdc32fcd65ea8b3b6a60ed6b1619e33756"
+    9.358 D Download succeeded: "https://resources.download.minecraft.net/b4/b4c0710774b9300b223cd19fae9f2c98a098a161"
+    9.359 D Downloading  "https://resources.download.minecraft.net/2f/2f8a3342fe73a2a02561a520426a19b0ea9d3773"
+    9.387 D Download succeeded: "https://resources.download.minecraft.net/0e/0e87e19b100653e721278abd2e587118cee2996d"
+    9.387 D Downloading  "https://resources.download.minecraft.net/92/921cd0336c82a9a5653bb550338c33d39ce48d38"
+    9.425 D Download succeeded: "https://resources.download.minecraft.net/fc/fcb6f199e8112c509d15211657dcffd045b7388a"
+    9.425 D Downloading  "https://resources.download.minecraft.net/bb/bb88451252ad2c4623e7885dc532e761d7784b07"
+    9.440 D Download succeeded: "https://resources.download.minecraft.net/65/651f5f29bea312caa181b9cae8f8e1dc395458ef"
+    9.440 D Downloading  "https://resources.download.minecraft.net/0e/0e33cf22a997f5730581e0bc24c4deb4da3467cc"
+    9.562 D Download succeeded: "https://resources.download.minecraft.net/1e/1e3ca4cdc32fcd65ea8b3b6a60ed6b1619e33756"
+    9.563 D Downloading  "https://resources.download.minecraft.net/a8/a8ce865101de052c3d06a70554a6f5c2ccda1d76"
+    9.656 D Download succeeded: "https://resources.download.minecraft.net/92/921cd0336c82a9a5653bb550338c33d39ce48d38"
+    9.657 D Downloading  "https://resources.download.minecraft.net/3a/3a4d627d5e2f493ec45e8b84c5f8f27ef1412f97"
+    9.748 D Download succeeded: "https://resources.download.minecraft.net/8f/8f2d64c02f09b76a44b734654bb5a9f7db9ef9de"
+    9.748 D Downloading  "https://resources.download.minecraft.net/94/94a86a5f34fc65de4fa095994753452e7e425515"
+    9.781 D Download succeeded: "https://resources.download.minecraft.net/2f/2f8a3342fe73a2a02561a520426a19b0ea9d3773"
+    9.781 D Downloading  "https://resources.download.minecraft.net/e9/e95ac93e2ccad67cf6ceb7a29e9df80df20047d0"
+    9.821 D Download succeeded: "https://resources.download.minecraft.net/a8/a8ce865101de052c3d06a70554a6f5c2ccda1d76"
+    9.821 D Downloading  "https://resources.download.minecraft.net/bd/bd0b7c40697973acb9e7085cec3f5db56b8baed7"
+    9.838 D Download succeeded: "https://resources.download.minecraft.net/bb/bb88451252ad2c4623e7885dc532e761d7784b07"
+    9.838 D Downloading  "https://resources.download.minecraft.net/e4/e4ed23a528f5e74e66d68e919fd5b8d440b356ac"
+    9.860 D Download succeeded: "https://resources.download.minecraft.net/0e/0e33cf22a997f5730581e0bc24c4deb4da3467cc"
+    9.861 D Downloading  "https://resources.download.minecraft.net/a2/a2acf02b5f04ec2aa9ef963dd212cfecd9f6106f"
+   10.051 D Download succeeded: "https://resources.download.minecraft.net/bd/bd0b7c40697973acb9e7085cec3f5db56b8baed7"
+   10.052 D Downloading  "https://resources.download.minecraft.net/ba/ba671de1609e50d79f20a6b2e377a6b13b0d3381"
+   10.161 D Download succeeded: "https://resources.download.minecraft.net/3a/3a4d627d5e2f493ec45e8b84c5f8f27ef1412f97"
+   10.161 D Downloading  "https://resources.download.minecraft.net/a6/a6c88b409d9992e3639a69da106c5d7737d99c6b"
+   10.178 D Download succeeded: "https://resources.download.minecraft.net/94/94a86a5f34fc65de4fa095994753452e7e425515"
+   10.178 D Downloading  "https://resources.download.minecraft.net/4a/4a0f9a9664cfc91ebc50210a2e8e5089567100ad"
+   10.217 D Download succeeded: "https://resources.download.minecraft.net/e9/e95ac93e2ccad67cf6ceb7a29e9df80df20047d0"
+   10.217 D Downloading  "https://resources.download.minecraft.net/1d/1d591741abd23692670d91fa40a3b045f825b140"
+   10.236 D Download succeeded: "https://resources.download.minecraft.net/e4/e4ed23a528f5e74e66d68e919fd5b8d440b356ac"
+   10.237 D Downloading  "https://resources.download.minecraft.net/dd/dd7ce95a7e8196b0ea00eb1dd4a5d8d06c681f0b"
+   10.310 D Download succeeded: "https://resources.download.minecraft.net/ba/ba671de1609e50d79f20a6b2e377a6b13b0d3381"
+   10.310 D Downloading  "https://resources.download.minecraft.net/a0/a0e4194e0ca59bc6a48c5de70433b6730bb28bc9"
+   10.365 D Download succeeded: "https://resources.download.minecraft.net/a2/a2acf02b5f04ec2aa9ef963dd212cfecd9f6106f"
+   10.365 D Downloading  "https://resources.download.minecraft.net/93/93e6f789c53f302f630535e41606482ca6345875"
+   10.408 D Download succeeded: "https://resources.download.minecraft.net/a6/a6c88b409d9992e3639a69da106c5d7737d99c6b"
+   10.408 D Downloading  "https://resources.download.minecraft.net/6a/6a0137f2066cbda88b8a68ab1912c4b642eaa90d"
+   10.610 D Download succeeded: "https://resources.download.minecraft.net/4a/4a0f9a9664cfc91ebc50210a2e8e5089567100ad"
+   10.610 D Downloading  "https://resources.download.minecraft.net/77/77a39c0ad76fba8bf86b0e50ebcd9535b28cc5c3"
+   10.657 D Download succeeded: "https://resources.download.minecraft.net/dd/dd7ce95a7e8196b0ea00eb1dd4a5d8d06c681f0b"
+   10.657 D Downloading  "https://resources.download.minecraft.net/1d/1d9deed320beb5ae7c197c88d3fdbac2e6bbcf45"
+   10.712 D Download succeeded: "https://resources.download.minecraft.net/a0/a0e4194e0ca59bc6a48c5de70433b6730bb28bc9"
+   10.712 D Downloading  "https://resources.download.minecraft.net/c4/c4ced346b9973b5cfae5072abddb5a4b57e8242b"
+   10.721 D Download succeeded: "https://resources.download.minecraft.net/1d/1d591741abd23692670d91fa40a3b045f825b140"
+   10.721 D Downloading  "https://resources.download.minecraft.net/88/88b7f0d38deed853043fff7cf54a63a3b2f8a952"
+   10.723 D Download succeeded: "https://resources.download.minecraft.net/6a/6a0137f2066cbda88b8a68ab1912c4b642eaa90d"
+   10.723 D Downloading  "https://resources.download.minecraft.net/a2/a2f708005e60d9474297080b03f13d43a54dd304"
+   10.940 D Download succeeded: "https://resources.download.minecraft.net/c4/c4ced346b9973b5cfae5072abddb5a4b57e8242b"
+   10.941 D Downloading  "https://resources.download.minecraft.net/82/824843538fb4b3cce304fc9eb94f3b14bb33ad8f"
+   11.013 D Download succeeded: "https://resources.download.minecraft.net/88/88b7f0d38deed853043fff7cf54a63a3b2f8a952"
+   11.013 D Downloading  "https://resources.download.minecraft.net/03/038027ee519b0c3d65f7528f6756fae1319879c4"
+   11.051 D Download succeeded: "https://resources.download.minecraft.net/77/77a39c0ad76fba8bf86b0e50ebcd9535b28cc5c3"
+   11.051 D Downloading  "https://resources.download.minecraft.net/98/98820b3f4ad1407c3506c599bd43f6658c73363d"
+   11.099 D Download succeeded: "https://resources.download.minecraft.net/a2/a2f708005e60d9474297080b03f13d43a54dd304"
+   11.099 D Downloading  "https://resources.download.minecraft.net/e6/e6df01c16130dde5ab9374a55d2ac2fc5e63508f"
+   11.274 D Download succeeded: "https://resources.download.minecraft.net/03/038027ee519b0c3d65f7528f6756fae1319879c4"
+   11.274 D Downloading  "https://resources.download.minecraft.net/85/85f44d406e31a9fb22c5d986f4fe3720235f5009"
+   11.310 D Download succeeded: "https://resources.download.minecraft.net/82/824843538fb4b3cce304fc9eb94f3b14bb33ad8f"
+   11.310 D Downloading  "https://resources.download.minecraft.net/b2/b2ce09b046f779b42eb76947cd27f0d9af178c98"
+   11.312 D Download succeeded: "https://resources.download.minecraft.net/93/93e6f789c53f302f630535e41606482ca6345875"
+   11.312 D Downloading  "https://resources.download.minecraft.net/4d/4daace531b6812f8851694985a7a3ab58e63a6ae"
+   11.425 D Component list save performed now for "UU"
+   11.434 D Download succeeded: "https://resources.download.minecraft.net/1d/1d9deed320beb5ae7c197c88d3fdbac2e6bbcf45"
+   11.434 D Downloading  "https://resources.download.minecraft.net/a4/a4501a9b46f2061a4d06b8240bfa5e3de87813ca"
+   11.681 D Download succeeded: "https://resources.download.minecraft.net/b2/b2ce09b046f779b42eb76947cd27f0d9af178c98"
+   11.681 D Downloading  "https://resources.download.minecraft.net/3b/3bede7c774e5c68112a864efb0348c784467e664"
+   11.893 D Download succeeded: "https://resources.download.minecraft.net/4d/4daace531b6812f8851694985a7a3ab58e63a6ae"
+   11.893 D Downloading  "https://resources.download.minecraft.net/a7/a785aacad59fc732793521e922e210b26a31285f"
+   11.894 D Download succeeded: "https://resources.download.minecraft.net/85/85f44d406e31a9fb22c5d986f4fe3720235f5009"
+   11.894 D Downloading  "https://resources.download.minecraft.net/39/39c26ce604c95ed9f8fe7d5cf48b731f2c56c93f"
+   11.901 D Download succeeded: "https://resources.download.minecraft.net/e6/e6df01c16130dde5ab9374a55d2ac2fc5e63508f"
+   11.901 D Downloading  "https://resources.download.minecraft.net/a7/a785c246de55dfc8489419d2dae2734d7b5edafc"
+   11.911 D Download succeeded: "https://resources.download.minecraft.net/98/98820b3f4ad1407c3506c599bd43f6658c73363d"
+   11.912 D Downloading  "https://resources.download.minecraft.net/d3/d3818470f46f8ed8247c88073dd3982cb3dcdc2d"
+   11.913 D Download succeeded: "https://resources.download.minecraft.net/a4/a4501a9b46f2061a4d06b8240bfa5e3de87813ca"
+   11.913 D Downloading  "https://resources.download.minecraft.net/93/930266f62bd2c2adedb91981abfa76d77dd98959"
+   11.933 D Download succeeded: "https://resources.download.minecraft.net/3b/3bede7c774e5c68112a864efb0348c784467e664"
+   11.933 D Downloading  "https://resources.download.minecraft.net/6c/6c05e84d447dcc4ecbc048dd0f96dace13856253"
+   12.184 D Download succeeded: "https://resources.download.minecraft.net/6c/6c05e84d447dcc4ecbc048dd0f96dace13856253"
+   12.184 D Downloading  "https://resources.download.minecraft.net/3c/3c6bcc08414f2126ec7de749b6173666941391ce"
+   12.308 D Download succeeded: "https://resources.download.minecraft.net/a7/a785aacad59fc732793521e922e210b26a31285f"
+   12.308 D Downloading  "https://resources.download.minecraft.net/0a/0a0a0d85a932b0b552ccf80fdb0495b929aa2e0f"
+   12.338 D Download succeeded: "https://resources.download.minecraft.net/a7/a785c246de55dfc8489419d2dae2734d7b5edafc"
+   12.338 D Downloading  "https://resources.download.minecraft.net/6c/6cd8014b6fab6d8462685c6817ae5474b7997be3"
+   12.371 D Download succeeded: "https://resources.download.minecraft.net/d3/d3818470f46f8ed8247c88073dd3982cb3dcdc2d"
+   12.371 D Downloading  "https://resources.download.minecraft.net/34/344b9f7c80408973bbbc6c30f753106d19acda83"
+   12.379 D Download succeeded: "https://resources.download.minecraft.net/93/930266f62bd2c2adedb91981abfa76d77dd98959"
+   12.379 D Downloading  "https://resources.download.minecraft.net/88/8897f2c75ab00029a05d725dd8a62a0196812099"
+   12.475 D Download succeeded: "https://resources.download.minecraft.net/39/39c26ce604c95ed9f8fe7d5cf48b731f2c56c93f"
+   12.475 D Downloading  "https://resources.download.minecraft.net/93/93833205f6409e0f2badba8ee7531ad2f60e5c9f"
+   12.631 D Download succeeded: "https://resources.download.minecraft.net/3c/3c6bcc08414f2126ec7de749b6173666941391ce"
+   12.631 D Downloading  "https://resources.download.minecraft.net/69/698c328d46df55c7f00f7024fbeaa148c7155e39"
+   12.798 D Download succeeded: "https://resources.download.minecraft.net/34/344b9f7c80408973bbbc6c30f753106d19acda83"
+   12.798 D Downloading  "https://resources.download.minecraft.net/7e/7e07a5a7baa15361ed1bbfdda3396a2d0c72313e"
+   12.801 D Download succeeded: "https://resources.download.minecraft.net/88/8897f2c75ab00029a05d725dd8a62a0196812099"
+   12.802 D Downloading  "https://resources.download.minecraft.net/6e/6e0978e8e46a3cf0e26a8609fc88319792ba7090"
+   12.806 D Download succeeded: "https://resources.download.minecraft.net/6c/6cd8014b6fab6d8462685c6817ae5474b7997be3"
+   12.807 D Downloading  "https://resources.download.minecraft.net/4a/4a60d4b09e51139ce37375bf5ad0fa787670d5b5"
+   12.862 D Download succeeded: "https://resources.download.minecraft.net/69/698c328d46df55c7f00f7024fbeaa148c7155e39"
+   12.863 D Downloading  "https://resources.download.minecraft.net/fd/fda83ee9a52df49ca9ec266aa2e49276cebc0c17"
+   12.873 D Download succeeded: "https://resources.download.minecraft.net/0a/0a0a0d85a932b0b552ccf80fdb0495b929aa2e0f"
+   12.873 D Downloading  "https://resources.download.minecraft.net/bf/bf011f6549dfb06b257f9e2c6470ed20bbc05bb1"
+   12.923 D Download succeeded: "https://resources.download.minecraft.net/93/93833205f6409e0f2badba8ee7531ad2f60e5c9f"
+   12.923 D Downloading  "https://resources.download.minecraft.net/c6/c605c7cfccbb100532f0bf8b0992cb9e869ccb33"
+   13.079 D Download succeeded: "https://resources.download.minecraft.net/fd/fda83ee9a52df49ca9ec266aa2e49276cebc0c17"
+   13.079 D Downloading  "https://resources.download.minecraft.net/ce/ce78ab11fd56047f589fbbcae839a7fa83c0e71e"
+   13.192 D Download succeeded: "https://resources.download.minecraft.net/7e/7e07a5a7baa15361ed1bbfdda3396a2d0c72313e"
+   13.192 D Downloading  "https://resources.download.minecraft.net/7e/7e4fa1f1196dc4248cfeb7db7dfa4c564f9a677b"
+   13.209 D Download succeeded: "https://resources.download.minecraft.net/bf/bf011f6549dfb06b257f9e2c6470ed20bbc05bb1"
+   13.209 D Downloading  "https://resources.download.minecraft.net/18/187e788a0df54df369abc778b1862814da3317e9"
+   13.220 D Download succeeded: "https://resources.download.minecraft.net/6e/6e0978e8e46a3cf0e26a8609fc88319792ba7090"
+   13.220 D Downloading  "https://resources.download.minecraft.net/c3/c3cdf990906d3a518825b385eae3932f352ee1ba"
+   13.242 D Download succeeded: "https://resources.download.minecraft.net/4a/4a60d4b09e51139ce37375bf5ad0fa787670d5b5"
+   13.242 D Downloading  "https://resources.download.minecraft.net/b7/b76b10a217160feb83a5b69f1a70e935dbbdf6d9"
+   13.578 D Download succeeded: "https://resources.download.minecraft.net/ce/ce78ab11fd56047f589fbbcae839a7fa83c0e71e"
+   13.578 D Downloading  "https://resources.download.minecraft.net/43/430ce60ee7b4872a2f77bf2e8626889edd0faaf0"
+   13.588 D Download succeeded: "https://resources.download.minecraft.net/18/187e788a0df54df369abc778b1862814da3317e9"
+   13.588 D Downloading  "https://resources.download.minecraft.net/ce/ce9f50e4acc8ea283af04375c5892a2ce72fd69a"
+   13.687 D Download succeeded: "https://resources.download.minecraft.net/c6/c605c7cfccbb100532f0bf8b0992cb9e869ccb33"
+   13.687 D Downloading  "https://resources.download.minecraft.net/7e/7ea6c72701a4e5869638c628640cd8b478d651a3"
+   13.707 D Download succeeded: "https://resources.download.minecraft.net/b7/b76b10a217160feb83a5b69f1a70e935dbbdf6d9"
+   13.707 D Downloading  "https://resources.download.minecraft.net/ed/ed480c05ad0e631ad9276046c3b333bcfe64ae2e"
+   13.712 D Download succeeded: "https://resources.download.minecraft.net/c3/c3cdf990906d3a518825b385eae3932f352ee1ba"
+   13.713 D Downloading  "https://resources.download.minecraft.net/17/17580d5831792d168d540c93c2214b2b0f655306"
+   13.793 D Download succeeded: "https://resources.download.minecraft.net/43/430ce60ee7b4872a2f77bf2e8626889edd0faaf0"
+   13.793 D Downloading  "https://resources.download.minecraft.net/fb/fb082494dbcf62708f038a2278a824265865e70d"
+   13.919 D Download succeeded: "https://resources.download.minecraft.net/ce/ce9f50e4acc8ea283af04375c5892a2ce72fd69a"
+   13.920 D Downloading  "https://resources.download.minecraft.net/2b/2b29b342e8718606a4aa5925a5c9e70d26c421dd"
+   14.101 D Download succeeded: "https://resources.download.minecraft.net/fb/fb082494dbcf62708f038a2278a824265865e70d"
+   14.101 D Downloading  "https://resources.download.minecraft.net/ea/ea78c47ab6f42bcc8b9b67d46e4a884443bd9c3e"
+   14.117 D Download succeeded: "https://resources.download.minecraft.net/17/17580d5831792d168d540c93c2214b2b0f655306"
+   14.117 D Downloading  "https://resources.download.minecraft.net/1b/1ba1a1efb91b35d2e1c95497ed20cd4234885d57"
+   14.129 D Download succeeded: "https://resources.download.minecraft.net/7e/7e4fa1f1196dc4248cfeb7db7dfa4c564f9a677b"
+   14.129 D Downloading  "https://resources.download.minecraft.net/84/841cb256567d66d6161e9b3a2e12d36c5d5a728a"
+   14.133 D Download succeeded: "https://resources.download.minecraft.net/ed/ed480c05ad0e631ad9276046c3b333bcfe64ae2e"
+   14.133 D Downloading  "https://resources.download.minecraft.net/19/19a8be84bb7a1a942eb9270f815276c561a78e2b"
+   14.595 D Download succeeded: "https://resources.download.minecraft.net/1b/1ba1a1efb91b35d2e1c95497ed20cd4234885d57"
+   14.595 D Downloading  "https://resources.download.minecraft.net/09/0938fe592ed985ab730058ffe93583bf94dccc3e"
+   14.610 D Download succeeded: "https://resources.download.minecraft.net/84/841cb256567d66d6161e9b3a2e12d36c5d5a728a"
+   14.610 D Downloading  "https://resources.download.minecraft.net/c4/c4849cc18984533aae033076fb9be298577d306e"
+   14.616 D Download succeeded: "https://resources.download.minecraft.net/2b/2b29b342e8718606a4aa5925a5c9e70d26c421dd"
+   14.616 D Downloading  "https://resources.download.minecraft.net/25/256d26375dc8b41b8e6acd94308acbac4d73dc7a"
+   14.627 D Download succeeded: "https://resources.download.minecraft.net/ea/ea78c47ab6f42bcc8b9b67d46e4a884443bd9c3e"
+   14.627 D Downloading  "https://resources.download.minecraft.net/66/66b09611bc77f1894c265f0394a9dc43243668f1"
+   14.639 D Download succeeded: "https://resources.download.minecraft.net/19/19a8be84bb7a1a942eb9270f815276c561a78e2b"
+   14.640 D Downloading  "https://resources.download.minecraft.net/80/80f43b48bcb7c9f305e05cfbfead38aa316ad9e8"
+   14.642 D Download succeeded: "https://resources.download.minecraft.net/7e/7ea6c72701a4e5869638c628640cd8b478d651a3"
+   14.642 D Downloading  "https://resources.download.minecraft.net/cb/cb5206c27cbed7a952896ff4a297cbdfc45602d9"
+   14.872 D Download succeeded: "https://resources.download.minecraft.net/66/66b09611bc77f1894c265f0394a9dc43243668f1"
+   14.872 D Downloading  "https://resources.download.minecraft.net/34/347a2a8e627c19dd3da78c1f269b1f05d26c67fc"
+   15.134 D Download succeeded: "https://resources.download.minecraft.net/09/0938fe592ed985ab730058ffe93583bf94dccc3e"
+   15.135 D Downloading  "https://resources.download.minecraft.net/45/45aaf3f74d105dc8fa2bb78cb6f667dab84db003"
+   15.204 D Download succeeded: "https://resources.download.minecraft.net/80/80f43b48bcb7c9f305e05cfbfead38aa316ad9e8"
+   15.205 D Downloading  "https://resources.download.minecraft.net/a6/a68eabebe9c731a51708e9208b436d6f7a38c934"
+   15.288 D Download succeeded: "https://resources.download.minecraft.net/cb/cb5206c27cbed7a952896ff4a297cbdfc45602d9"
+   15.288 D Downloading  "https://resources.download.minecraft.net/2b/2b9d91fc28c1beb2928c7a9eca8ac32788ad4de1"
+   15.302 D Download succeeded: "https://resources.download.minecraft.net/25/256d26375dc8b41b8e6acd94308acbac4d73dc7a"
+   15.302 D Downloading  "https://resources.download.minecraft.net/dd/dd6059720a69e4b87726234c1e75221d360d8492"
+   15.347 D Download succeeded: "https://resources.download.minecraft.net/34/347a2a8e627c19dd3da78c1f269b1f05d26c67fc"
+   15.348 D Downloading  "https://resources.download.minecraft.net/44/44c7b4989e0cc6664feb6d90299558ef77e095ca"
+   15.391 D Download succeeded: "https://resources.download.minecraft.net/c4/c4849cc18984533aae033076fb9be298577d306e"
+   15.391 D Downloading  "https://resources.download.minecraft.net/cc/cc4d0cc21979c26bc8781f914c3999a139333679"
+   15.463 D Download succeeded: "https://resources.download.minecraft.net/45/45aaf3f74d105dc8fa2bb78cb6f667dab84db003"
+   15.463 D Downloading  "https://resources.download.minecraft.net/de/de06c81b67d3355b8aa96d6fa18ed62e755332df"
+   15.484 D Download succeeded: "https://resources.download.minecraft.net/cc/cc4d0cc21979c26bc8781f914c3999a139333679"
+   15.484 D Downloading  "https://resources.download.minecraft.net/71/71546502e698969289b5d5ee1cc288a5a39b296d"
+   15.541 D Download succeeded: "https://resources.download.minecraft.net/de/de06c81b67d3355b8aa96d6fa18ed62e755332df"
+   15.542 D Downloading  "https://resources.download.minecraft.net/d8/d8bfb9e7bbde3ede73151be90b157c650ffddd27"
+   15.551 D Download succeeded: "https://resources.download.minecraft.net/71/71546502e698969289b5d5ee1cc288a5a39b296d"
+   15.551 D Downloading  "https://resources.download.minecraft.net/9d/9d5c307214bdb7541e31ba8cc622897082df7847"
+   15.611 D Download succeeded: "https://resources.download.minecraft.net/d8/d8bfb9e7bbde3ede73151be90b157c650ffddd27"
+   15.612 D Downloading  "https://resources.download.minecraft.net/43/4387ec6c840cc76e7719f4d3bfaf495434db5111"
+   15.641 D Download succeeded: "https://resources.download.minecraft.net/dd/dd6059720a69e4b87726234c1e75221d360d8492"
+   15.641 D Downloading  "https://resources.download.minecraft.net/85/859074dbeed348b9b730cf5af74a05692d0307a1"
+   15.695 D Download succeeded: "https://resources.download.minecraft.net/a6/a68eabebe9c731a51708e9208b436d6f7a38c934"
+   15.708 D Download succeeded: "https://resources.download.minecraft.net/9d/9d5c307214bdb7541e31ba8cc622897082df7847"
+   15.718 D Download succeeded: "https://resources.download.minecraft.net/85/859074dbeed348b9b730cf5af74a05692d0307a1"
+   15.728 D Download succeeded: "https://resources.download.minecraft.net/43/4387ec6c840cc76e7719f4d3bfaf495434db5111"
+   15.740 D Download succeeded: "https://resources.download.minecraft.net/44/44c7b4989e0cc6664feb6d90299558ef77e095ca"
+   15.808 D Download succeeded: "https://resources.download.minecraft.net/2b/2b9d91fc28c1beb2928c7a9eca8ac32788ad4de1"
+   15.808 D Task "NetJob(Ресурсы для 1.19)" succeeded
+   15.808 D Task "AssetUpdateTask(0x622ee0c)" succeeded
+   15.808 D Task "MinecraftUpdate(0x622edc0)" succeeded
+   15.808 D Task "Update(0x6230bc0)" succeeded
+   15.809 D Task "ModMinecraftJar(0x6301ce8)" starting for the first time
+   15.809 D Task "ModMinecraftJar(0x6301ce8)" succeeded
+   15.809 D Task "ScanModFolders(0x6301e38)" starting for the first time
+   15.815 D Task "ScanModFolders(0x6301e38)" succeeded
+   15.815 D Task "PrintInstanceInfo(0x6230c40)" starting for the first time
+   15.827 D Task "PrintInstanceInfo(0x6230c40)" succeeded
+   15.827 D Task "ExtractNatives(0x6301ec8)" starting for the first time
+   15.897 D Task "ExtractNatives(0x6301ec8)" succeeded
+   15.897 D Task "ReconstructAssets(0x6301ef8)" starting for the first time
+   15.898 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.19"
+   15.909 D Task "ReconstructAssets(0x6301ef8)" succeeded
+   15.909 D Task "VerifyJavaInstall(0x6302258)" starting for the first time
+   15.909 D Task "VerifyJavaInstall(0x6302258)" succeeded
+   15.909 D Task "InjectAuthlib(0x60b5f50)" starting for the first time
+   15.909 D Task "NetJob(Injector versions info download)" starting for the first time
+   15.910 D Downloading  "https://authlib-injector.yushi.moe/artifact/latest.json"
+   16.382 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/latest.json"
+   16.382 D Task "NetJob(Injector versions info download)" succeeded
+   16.387 D Authlib injector version: "authlib-injector-1.1.47.jar"
+   16.387 D Task "NetJob(Injector download)" starting for the first time
+   16.388 D Downloading  "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+   16.542 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+   16.542 D Task "NetJob(Injector download)" succeeded
+   16.542 D Injecting  "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:53499"
+   16.542 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:53499"
+   16.542 D Task "InjectAuthlib(0x60b5f50)" succeeded
+   16.542 D Task "LauncherPartLaunch(0x627a788)" starting for the first time
+   16.554 D "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:53499 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UltimMC/instances/UU/natives -cp D:/vv/multiMC cracked/UltimMC/jars/NewLaunch.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UltimMC/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar org.multimc.EntryPoint"
+   16.892 D Read  154  bytes
+   16.892 D Processing request
+   30.109 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=29913"
+   30.452 D [Analytics] "Message sent"
+ 1724.349 D Task "LauncherPartLaunch(0x627a788)" succeeded
+ 1724.349 D Writing account list to "accounts.json"
+ 1724.349 D Building JSON data structure.
+ 1724.349 D Building account array.
+ 1724.349 D Writing account list to file.
+ 1724.349 D Saved account list to "accounts.json"
+ 1724.349 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is no longer in use.
+ 1724.349 D Task "LaunchTask(0x627c260)" succeeded
+ 1724.349 D Task "LaunchController(0x627a990)" succeeded

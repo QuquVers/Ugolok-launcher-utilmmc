@@ -1,0 +1,198 @@
+    0.009 D <> Log initialized.
+    0.010 D "UltimMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.010 D Version                    :  "0.6.13-develop-2852"
+    0.010 D Git commit                 :  "66bb7105db93e0977bb64a59a12b001f780e0566"
+    0.010 D Git refspec                :  "refs/heads/develop"
+    0.010 D Work dir before adjustment :  "D:/vv/multiMC cracked/UltimMC"
+    0.010 D Work dir after adjustment  :  "D:/vv/multiMC cracked/UltimMC"
+    0.010 D Adjusted by                :  "Fallback to binary path D:/vv/multiMC cracked/UltimMC"
+    0.010 D Binary path                :  "D:/vv/multiMC cracked/UltimMC"
+    0.010 D Application root path      :  "D:/vv/multiMC cracked/UltimMC"
+    0.010 D <> Paths set.
+    0.013 D Detected default console font: "Courier" , substitutions: ""
+    0.014 D <> Settings loaded.
+    0.027 D Loading Application Language File for ru ...
+    0.027 D Your language is "ru"
+    0.027 D <> Translations loaded.
+    0.027 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.027 D <> Updater started.
+    0.028 D Started watching  "D:/vv/multiMC cracked/UltimMC/icons"
+    0.029 D Adding  "icons/7abfcb8aed4794842f4b4751ddc2f073 (1).png"
+    0.040 D <> Instance icons intialized.
+    0.040 D <> Icon themes initialized.
+    0.040 D Determining System Theme...
+    0.040 D System theme seems to be: "windowsvista"
+    0.040 D Considering theme from theme factory: "windows"
+    0.040 D Considering theme from theme factory: "windowsxp"
+    0.040 D Considering theme from theme factory: "windowsvista"
+    0.040 D System theme has been determined to be: "WindowsVista"
+    0.040 D Loading theme "custom"
+    0.046 D <> Widget themes initialized.
+    0.046 D Instance path              :  "instances"
+    0.047 D Loading Instances...
+    0.047 D Discovering instances in "D:/vv/multiMC cracked/UltimMC/instances"
+    0.048 D Found instance ID "1 18 2"
+    0.048 D Found instance ID "1 18 21"
+    0.048 D Found instance ID "1.12.2"
+    0.048 D Found instance ID "1.12.21"
+    0.048 D Found instance ID "1.18.1 play.universemc.ru"
+    0.048 D Found instance ID "1.18.11"
+    0.048 D Found instance ID "111"
+    0.048 D Found instance ID "20w14infinite"
+    0.048 D Found instance ID "4k"
+    0.048 D Found instance ID "a1.2.6"
+    0.048 D Found instance ID "cheats 1 15 2"
+    0.048 D Found instance ID "cheats 1.12.2"
+    0.048 D Found instance ID "chts 119"
+    0.048 D Found instance ID "Future"
+    0.048 D Found instance ID "inf-20100618"
+    0.048 D Found instance ID "paqckii add"
+    0.048 D Found instance ID "rd-132211"
+    0.049 D Found instance ID "UU"
+    0.049 D Found instance ID "VVV"
+    0.049 D Found instance ID "азаза"
+    0.049 D Found instance ID "билд сборка"
+    0.049 D Found instance ID "реплей мод 1 18 1"
+    0.049 D Found instance ID "сборка модов 1"
+    0.049 D Will load group list now.
+    0.053 D Group list loaded.
+    0.056 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 2"
+    0.058 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 21"
+    0.060 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.2"
+    0.062 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.21"
+    0.065 D Loaded instance  "1.18.1 play.universemc.ru"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.1 play.universemc.ru"
+    0.067 D Loaded instance  "bleanch hack 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.11"
+    0.070 D Loaded instance  "111"  from  "D:/vv/multiMC cracked/UltimMC/instances/111"
+    0.072 D Loaded instance  "20w14infinite"  from  "D:/vv/multiMC cracked/UltimMC/instances/20w14infinite"
+    0.074 D Loaded instance  "4k"  from  "D:/vv/multiMC cracked/UltimMC/instances/4k"
+    0.076 D Loaded instance  "a1.2.6"  from  "D:/vv/multiMC cracked/UltimMC/instances/a1.2.6"
+    0.078 D Loaded instance  "cheats 1 15 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1 15 2"
+    0.080 D Loaded instance  "multi cheats"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2"
+    0.082 D Loaded instance  "chts 119"  from  "D:/vv/multiMC cracked/UltimMC/instances/chts 119"
+    0.085 D Loaded instance  "Future"  from  "D:/vv/multiMC cracked/UltimMC/instances/Future"
+    0.087 D Loaded instance  "inf-20100618"  from  "D:/vv/multiMC cracked/UltimMC/instances/inf-20100618"
+    0.089 D Loaded instance  "paqckii add"  from  "D:/vv/multiMC cracked/UltimMC/instances/paqckii add"
+    0.091 D Loaded instance  "rd-132211"  from  "D:/vv/multiMC cracked/UltimMC/instances/rd-132211"
+    0.092 D Loaded instance  "UU"  from  "D:/vv/multiMC cracked/UltimMC/instances/UU"
+    0.095 D Loaded instance  "VVV"  from  "D:/vv/multiMC cracked/UltimMC/instances/VVV"
+    0.097 D Loaded instance  "азаза"  from  "D:/vv/multiMC cracked/UltimMC/instances/азаза"
+    0.099 D Loaded instance  "билд сборка"  from  "D:/vv/multiMC cracked/UltimMC/instances/билд сборка"
+    0.102 D Loaded instance  "реплей мод 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/реплей мод 1 18 1"
+    0.105 D Loaded instance  "сборка модов 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/сборка модов 1"
+    0.105 D <> Instances loaded.
+    0.109 D <> Auth server started.
+    0.109 D Loading accounts...
+    0.113 D LOOKUP AUTH_PROVIDER "dummy"
+    0.114 D LOOKUP AUTH_PROVIDER "dummy"
+    0.114 D <> Accounts loaded.
+    0.124 D <> Cache initialized.
+    0.124 D Detecting proxy settings...
+    0.129 D Using no proxy is an option!
+    0.129 D <> Proxy settings done.
+    0.129 D Downloading Translations Index...
+    0.129 D Task "NetJob(Translations Index)" starting for the first time
+    0.133 D <> Icon theme set.
+    0.134 D <> Application theme set.
+    0.134 D <> Initialized analytics with tid "UA-87731965-2"
+    0.150 W QMetaObject::connectSlotsByName: No matching signal for on_actionREDDIT_triggered()
+    0.150 W QMetaObject::connectSlotsByName: No matching signal for on_actionDISCORD_triggered()
+    0.150 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.150 W QMetaObject::connectSlotsByName: No matching signal for on_actionReportBug_triggered()
+    0.164 D Reloading news.
+    0.164 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.165 D Checking for updates.
+    0.165 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.165 D Loading the channel list.
+    0.165 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.165 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.235 D Viewport size "800x600"
+    0.235 D RAM size is 15789 MB
+    0.235 D [Analytics] "ScreenView: Main Window"
+    0.235 D <> Main window shown.
+    0.236 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    0.832 D Downloading  "https://multimc.org/rss.xml"
+    0.833 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    0.834 D Downloading  "https://files.multimc.org/notifications.json"
+    0.864 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    0.866 D Loading Application Language File for ru ...
+    2.666 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    2.666 D Task "NetJob(Translations Index)" succeeded
+    2.666 D Got translations index!
+    2.666 D Task "NetJob(Translation for ru)" starting for the first time
+    2.667 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.667 D Loading Application Language File for ru ...
+    2.668 D Downloading  "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    2.668 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.669 D Loading Application Language File for ru ...
+    2.732 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    2.733 D Task "NetJob(Update System Channel List)" succeeded
+    2.733 D Successfully loaded UpdateChecker channel list.
+    2.733 D Checking for updates.
+    2.733 D channelEntry =  "stable"
+    2.733 D channelEntry =  "develop"
+    2.733 D is intended update channel:  "develop"
+    2.733 D is current update channel:  "develop"
+    2.733 D channelEntry =  "main"
+    2.733 D m_repoUrl =  "http://files.multimc.org/update/win32/develop/"
+    2.733 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    2.733 D Downloading  "http://files.multimc.org/update/win32/develop/index.json"
+    2.833 D Download succeeded: "https://files.multimc.org/notifications.json"
+    2.835 D Task "NetJob(Checking for notifications)" succeeded
+    2.903 D Download succeeded: "https://multimc.org/rss.xml"
+    2.903 D Task "NetJob(News RSS Feed)" succeeded
+    2.903 D Finished loading RSS feed.
+    2.904 D Loaded news entry "0.6.16 - The Modpack Apocalypse"
+    2.904 D Loaded news entry "Migration to Microsoft account is required"
+    2.904 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    2.904 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    2.905 D Loaded news entry "0.6.13 - Microsoft account integration"
+    2.905 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    2.905 D Loaded news entry "About Microsoft accounts"
+    2.905 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    2.905 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    2.905 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    2.905 D Loaded news entry "0.6.3 - The Big Sync"
+    2.905 D Loaded news entry "0.6.2 Released!"
+    2.905 D Loaded news entry "0.6.1 Released!"
+    2.905 D Loaded news entry "0.6.0 Released!"
+    2.905 D Loaded news entry "Introducing the Archive"
+    2.905 D Loaded news entry "0.5.1 - Bugfixes."
+    2.905 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    2.905 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    2.905 D Loaded news entry "0.4.10 - Another wifi fix"
+    2.905 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    2.905 D Loaded news entry "0.4.8 - Worlds and more."
+    2.905 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    2.905 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    2.905 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    2.905 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    2.905 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    2.905 D Loaded news entry "Support us on Patreon!"
+    2.905 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    2.905 D Loaded news entry "Announcing MultiMC 6"
+    2.905 D Loaded news entry "0.3 - The big feature update."
+    2.905 D Loaded news entry "First official MultiMC 5 release!"
+    2.905 D Loaded news entry "MultiMC Status Update"
+    2.905 D News loading succeeded.
+    2.906 D Download succeeded: "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    2.906 D Task "NetJob(Translation for ru)" succeeded
+    2.906 D Got translation: "ru"
+    2.907 D Loading Application Language File for ru ...
+    2.907 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.908 D Loading Application Language File for ru ...
+    3.076 D Location header: QUrl("https://files.multimc.org/update/win32/develop/index.json")
+    3.076 D Following redirect to  "https://files.multimc.org/update/win32/develop/index.json"
+    3.076 D Downloading  "https://files.multimc.org/update/win32/develop/index.json"
+    3.076 D Download redirected: "https://files.multimc.org/update/win32/develop/index.json"
+    3.269 D Download succeeded: "https://files.multimc.org/update/win32/develop/index.json"
+    3.269 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    3.269 D Finished downloading repo index. Checking for new versions.
+    3.270 D Processing repository version list.
+    3.271 D Found newer version with ID 3524
+    3.272 D Task "NetJob(Changelog)" starting for the first time
+    3.282 D Downloading  "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    7.280 D Download succeeded: "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    7.280 D Task "NetJob(Changelog)" succeeded
+   30.125 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=29890"
+   30.701 D [Analytics] "Message sent"
+ 1923.411 D Update will be installed later.

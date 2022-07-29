@@ -1,0 +1,58 @@
+{
+    "accounts": [
+        {
+            "active": true,
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "profile": {
+                "capes": [
+                ],
+                "id": "2f9f8bea53064f99aa5f1767835d79e9",
+                "name": "Jefferson",
+                "skin": {
+                    "data": "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",
+                    "id": "",
+                    "url": "",
+                    "variant": ""
+                }
+            },
+            "type": "dummy",
+            "ygg": {
+                "extra": {
+                    "clientToken": "2f9f8bea53064f99aa5f1767835d79e9",
+                    "userName": "Jefferson"
+                },
+                "token": "Jefferson"
+            }
+        },
+        {
+            "entitlement": {
+                "canPlayMinecraft": true,
+                "ownsMinecraft": true
+            },
+            "profile": {
+                "capes": [
+                ],
+                "id": "5fb04e0d49cd42f59b3149262ecf2532",
+                "name": "QuquVer__",
+                "skin": {
+                    "data": "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",
+                    "id": "",
+                    "url": "",
+                    "variant": ""
+                }
+            },
+            "type": "dummy",
+            "ygg": {
+                "extra": {
+                    "clientToken": "5fb04e0d49cd42f59b3149262ecf2532",
+                    "userName": "QuquVer__"
+                },
+                "token": "QuquVer__"
+            }
+        }
+    ],
+    "formatVersion": 3
+}

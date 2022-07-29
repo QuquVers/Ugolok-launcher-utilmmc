@@ -1,0 +1,717 @@
+    0.012 D <> Log initialized.
+    0.012 D "UltimMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.012 D Version                    :  "0.6.13-develop-2852"
+    0.012 D Git commit                 :  "66bb7105db93e0977bb64a59a12b001f780e0566"
+    0.012 D Git refspec                :  "refs/heads/develop"
+    0.012 D Work dir before adjustment :  "D:/vv/multiMC cracked/UltimMC"
+    0.012 D Work dir after adjustment  :  "D:/vv/multiMC cracked/UltimMC"
+    0.012 D Adjusted by                :  "Fallback to binary path D:/vv/multiMC cracked/UltimMC"
+    0.012 D Binary path                :  "D:/vv/multiMC cracked/UltimMC"
+    0.012 D Application root path      :  "D:/vv/multiMC cracked/UltimMC"
+    0.012 D <> Paths set.
+    0.024 D Detected default console font: "Courier" , substitutions: ""
+    0.024 D <> Settings loaded.
+    0.028 D Loading Application Language File for ru ...
+    0.028 D Your language is "ru"
+    0.028 D <> Translations loaded.
+    0.028 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.032 D <> Updater started.
+    0.032 D Started watching  "D:/vv/multiMC cracked/UltimMC/icons"
+    0.032 D Adding  "icons/7abfcb8aed4794842f4b4751ddc2f073 (1).png"
+    0.128 D <> Instance icons intialized.
+    0.128 D <> Icon themes initialized.
+    0.128 D Determining System Theme...
+    0.128 D System theme seems to be: "windowsvista"
+    0.128 D Considering theme from theme factory: "windows"
+    0.128 D Considering theme from theme factory: "windowsxp"
+    0.128 D Considering theme from theme factory: "windowsvista"
+    0.128 D System theme has been determined to be: "WindowsVista"
+    0.128 D Loading theme "custom"
+    0.132 D <> Widget themes initialized.
+    0.132 D Instance path              :  "instances"
+    0.132 D Loading Instances...
+    0.132 D Discovering instances in "D:/vv/multiMC cracked/UltimMC/instances"
+    0.132 D Found instance ID "1 18 2"
+    0.132 D Found instance ID "1 18 21"
+    0.132 D Found instance ID "1.12.2"
+    0.132 D Found instance ID "1.12.21"
+    0.132 D Found instance ID "1.18.1 play.universemc.ru"
+    0.132 D Found instance ID "1.18.11"
+    0.132 D Found instance ID "111"
+    0.132 D Found instance ID "20w14infinite"
+    0.132 D Found instance ID "4k"
+    0.132 D Found instance ID "a1.2.6"
+    0.132 D Found instance ID "cheats 1 15 2"
+    0.132 D Found instance ID "cheats 1.12.2"
+    0.136 D Found instance ID "chts 119"
+    0.136 D Found instance ID "Future"
+    0.136 D Found instance ID "inf-20100618"
+    0.136 D Found instance ID "paqckii add"
+    0.136 D Found instance ID "rd-132211"
+    0.136 D Found instance ID "UU"
+    0.136 D Found instance ID "VVV"
+    0.136 D Found instance ID "азаза"
+    0.136 D Found instance ID "билд сборка"
+    0.136 D Found instance ID "реплей мод 1 18 1"
+    0.136 D Found instance ID "сборка модов 1"
+    0.136 D Will load group list now.
+    0.136 D Group list loaded.
+    0.136 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 2"
+    0.140 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 21"
+    0.140 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.2"
+    0.140 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.21"
+    0.144 D Loaded instance  "1.18.1 play.universemc.ru"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.1 play.universemc.ru"
+    0.144 D Loaded instance  "bleanch hack 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.11"
+    0.144 D Loaded instance  "111"  from  "D:/vv/multiMC cracked/UltimMC/instances/111"
+    0.148 D Loaded instance  "20w14infinite"  from  "D:/vv/multiMC cracked/UltimMC/instances/20w14infinite"
+    0.148 D Loaded instance  "4k"  from  "D:/vv/multiMC cracked/UltimMC/instances/4k"
+    0.148 D Loaded instance  "a1.2.6"  from  "D:/vv/multiMC cracked/UltimMC/instances/a1.2.6"
+    0.152 D Loaded instance  "cheats 1 15 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1 15 2"
+    0.152 D Loaded instance  "multi cheats"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2"
+    0.152 D Loaded instance  "chts 119"  from  "D:/vv/multiMC cracked/UltimMC/instances/chts 119"
+    0.156 D Loaded instance  "Future"  from  "D:/vv/multiMC cracked/UltimMC/instances/Future"
+    0.156 D Loaded instance  "inf-20100618"  from  "D:/vv/multiMC cracked/UltimMC/instances/inf-20100618"
+    0.156 D Loaded instance  "paqckii add"  from  "D:/vv/multiMC cracked/UltimMC/instances/paqckii add"
+    0.156 D Loaded instance  "rd-132211"  from  "D:/vv/multiMC cracked/UltimMC/instances/rd-132211"
+    0.160 D Loaded instance  "UU"  from  "D:/vv/multiMC cracked/UltimMC/instances/UU"
+    0.160 D Loaded instance  "VVV"  from  "D:/vv/multiMC cracked/UltimMC/instances/VVV"
+    0.160 D Loaded instance  "азаза"  from  "D:/vv/multiMC cracked/UltimMC/instances/азаза"
+    0.164 D Loaded instance  "билд сборка"  from  "D:/vv/multiMC cracked/UltimMC/instances/билд сборка"
+    0.164 D Loaded instance  "реплей мод 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/реплей мод 1 18 1"
+    0.164 D Loaded instance  "сборка модов 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/сборка модов 1"
+    0.164 D <> Instances loaded.
+    0.172 D <> Auth server started.
+    0.172 D Loading accounts...
+    0.172 D LOOKUP AUTH_PROVIDER "dummy"
+    0.172 D LOOKUP AUTH_PROVIDER "dummy"
+    0.172 D <> Accounts loaded.
+    0.176 D <> Cache initialized.
+    0.176 D Detecting proxy settings...
+    0.184 D Using no proxy is an option!
+    0.184 D <> Proxy settings done.
+    0.184 D Downloading Translations Index...
+    0.184 D Task "NetJob(Translations Index)" starting for the first time
+    0.192 D <> Icon theme set.
+    0.192 D <> Application theme set.
+    0.192 D <> Initialized analytics with tid "UA-87731965-2"
+    0.224 W QMetaObject::connectSlotsByName: No matching signal for on_actionREDDIT_triggered()
+    0.224 W QMetaObject::connectSlotsByName: No matching signal for on_actionDISCORD_triggered()
+    0.224 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.224 W QMetaObject::connectSlotsByName: No matching signal for on_actionReportBug_triggered()
+    0.248 D Reloading news.
+    0.248 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.248 D Checking for updates.
+    0.248 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.248 D Loading the channel list.
+    0.248 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.248 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.350 D Viewport size "800x600"
+    0.350 D RAM size is 15789 MB
+    0.350 D [Analytics] "ScreenView: Main Window"
+    0.350 D <> Main window shown.
+    0.354 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    1.402 D Downloading  "https://multimc.org/rss.xml"
+    1.402 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    1.402 D Downloading  "https://files.multimc.org/notifications.json"
+    2.333 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.333 D Loading Application Language File for ru ...
+    2.333 C Failed  "https://files.multimc.org/translations/index_v2.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.333 D Download failed in previous step: "https://files.multimc.org/translations/index_v2.json"
+    2.337 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.337 C Failed  "https://multimc.org/rss.xml"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.337 D Download failed in previous step: "https://multimc.org/rss.xml"
+    2.337 D Downloading  "https://multimc.org/rss.xml"
+    2.337 C Failed  "https://files.multimc.org/update/win32/channels.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.337 D Download failed in previous step: "https://files.multimc.org/update/win32/channels.json"
+    2.337 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    2.337 C Failed  "https://files.multimc.org/notifications.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.337 D Download failed in previous step: "https://files.multimc.org/notifications.json"
+    2.337 D Downloading  "https://files.multimc.org/notifications.json"
+    2.345 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.345 D Loading Application Language File for ru ...
+    2.345 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.349 D Loading Application Language File for ru ...
+    2.349 C Failed  "https://files.multimc.org/translations/index_v2.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.349 D Download failed in previous step: "https://files.multimc.org/translations/index_v2.json"
+    2.349 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.349 C Failed  "https://multimc.org/rss.xml"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.349 D Download failed in previous step: "https://multimc.org/rss.xml"
+    2.349 D Downloading  "https://multimc.org/rss.xml"
+    2.349 C Failed  "https://files.multimc.org/update/win32/channels.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.349 D Download failed in previous step: "https://files.multimc.org/update/win32/channels.json"
+    2.349 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    2.349 C Failed  "https://files.multimc.org/notifications.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.349 D Download failed in previous step: "https://files.multimc.org/notifications.json"
+    2.349 D Downloading  "https://files.multimc.org/notifications.json"
+    2.361 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.361 D Loading Application Language File for ru ...
+    2.361 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.361 D Loading Application Language File for ru ...
+    2.361 C Failed  "https://multimc.org/rss.xml"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.361 D Download failed in previous step: "https://multimc.org/rss.xml"
+    2.361 D Downloading  "https://multimc.org/rss.xml"
+    2.361 C Failed  "https://files.multimc.org/translations/index_v2.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.361 D Download failed in previous step: "https://files.multimc.org/translations/index_v2.json"
+    2.365 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    2.365 C Failed  "https://files.multimc.org/update/win32/channels.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.365 D Download failed in previous step: "https://files.multimc.org/update/win32/channels.json"
+    2.365 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    2.365 C Failed  "https://files.multimc.org/notifications.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.365 D Download failed in previous step: "https://files.multimc.org/notifications.json"
+    2.365 D Downloading  "https://files.multimc.org/notifications.json"
+    2.365 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.365 D Loading Application Language File for ru ...
+    2.365 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.369 D Loading Application Language File for ru ...
+    2.369 C Failed  "https://multimc.org/rss.xml"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.369 D Download failed in previous step: "https://multimc.org/rss.xml"
+    2.369 C Task "NetJob(News RSS Feed)" failed:  "Не удалось обработать рабочую задачу 'News RSS Feed':\nhttps://multimc.org/rss.xml"
+    2.369 D Failed to load news: "Не удалось загрузить RSS-ленту новостей:\nНе удалось обработать рабочую задачу 'News RSS Feed':\nhttps://multimc.org/rss.xml"
+    2.369 C Failed  "https://files.multimc.org/translations/index_v2.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.369 D Download failed in previous step: "https://files.multimc.org/translations/index_v2.json"
+    2.369 C Task "NetJob(Translations Index)" failed:  "Не удалось обработать рабочую задачу 'Translations Index':\nhttps://files.multimc.org/translations/index_v2.json"
+    2.369 C Translations Index Download Failed: "Не удалось обработать рабочую задачу 'Translations Index':\nhttps://files.multimc.org/translations/index_v2.json"
+    2.369 C Failed  "https://files.multimc.org/update/win32/channels.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.369 D Download failed in previous step: "https://files.multimc.org/update/win32/channels.json"
+    2.369 C Task "NetJob(Update System Channel List)" failed:  "Не удалось обработать рабочую задачу 'Update System Channel List':\nhttps://files.multimc.org/update/win32/channels.json"
+    2.369 C "Failed to download channel list: Не удалось обработать рабочую задачу 'Update System Channel List':\nhttps://files.multimc.org/update/win32/channels.json"
+    2.377 C Failed  "https://files.multimc.org/notifications.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    2.377 D Download failed in previous step: "https://files.multimc.org/notifications.json"
+    2.377 C Task "NetJob(Checking for notifications)" failed:  "Не удалось обработать рабочую задачу 'Checking for notifications':\nhttps://files.multimc.org/notifications.json"
+    8.114 D Task "ComponentUpdateTask(0x6801618)" starting for the first time
+    8.114 D Loading components
+    8.122 D Task "NetJob(Получение метафайла: index.json)" starting for the first time
+    8.122 D Remote loading is being run for metadata index
+    8.130 D Component list save is scheduled for "multi cheats"
+    8.150 D Task "NetJob(Получение метафайла: net.minecraftforge/14.23.5.2859.json)" starting for the first time
+    8.150 D Remote loading is being run for "Forge"
+    8.158 D Task "NetJob(Получение метафайла: org.lwjgl/index.json)" starting for the first time
+    8.158 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.170 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.174 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.178 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.182 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.186 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+    8.290 D Applying "org.lwjgl" GOOD
+    8.290 D Applying "net.minecraft" GOOD
+    8.290 D Applying "net.minecraftforge" GOOD
+    8.374 D Downloading  "https://meta.multimc.org/v1/index.json"
+    8.374 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.378 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.406 C Failed  "https://meta.multimc.org/v1/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.406 D Download failed in previous step: "https://meta.multimc.org/v1/index.json"
+    8.406 D Downloading  "https://meta.multimc.org/v1/index.json"
+    8.406 C Failed  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.406 D Download failed in previous step: "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.406 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.406 C Failed  "https://meta.multimc.org/v1/org.lwjgl/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.406 D Download failed in previous step: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.410 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.410 C Failed  "https://meta.multimc.org/v1/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.410 D Download failed in previous step: "https://meta.multimc.org/v1/index.json"
+    8.410 D Downloading  "https://meta.multimc.org/v1/index.json"
+    8.410 C Failed  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.410 D Download failed in previous step: "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.410 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.410 C Failed  "https://meta.multimc.org/v1/org.lwjgl/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.410 D Download failed in previous step: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.414 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.414 C Failed  "https://meta.multimc.org/v1/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.414 D Download failed in previous step: "https://meta.multimc.org/v1/index.json"
+    8.414 D Downloading  "https://meta.multimc.org/v1/index.json"
+    8.414 C Failed  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.414 D Download failed in previous step: "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.414 D Downloading  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.414 C Failed  "https://meta.multimc.org/v1/org.lwjgl/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.414 D Download failed in previous step: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.414 D Downloading  "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.418 C Failed  "https://meta.multimc.org/v1/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.418 D Download failed in previous step: "https://meta.multimc.org/v1/index.json"
+    8.418 C Task "NetJob(Получение метафайла: index.json)" failed:  "Не удалось обработать рабочую задачу 'Получение метафайла: index.json':\nhttps://meta.multimc.org/v1/index.json"
+    8.418 D Remote task 0 failed:  "Не удалось обработать рабочую задачу 'Получение метафайла: index.json':\nhttps://meta.multimc.org/v1/index.json"
+    8.418 C Failed  "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.418 D Download failed in previous step: "https://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.418 C Task "NetJob(Получение метафайла: net.minecraftforge/14.23.5.2859.json)" failed:  "Не удалось обработать рабочую задачу 'Получение метафайла: net.minecraftforge/14.23.5.2859.json':\nhttps://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.418 D Remote task 1 failed:  "Не удалось обработать рабочую задачу 'Получение метафайла: net.minecraftforge/14.23.5.2859.json':\nhttps://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.418 C Task "ComponentUpdateTask(0x6801618)" failed:  "Ошибка задачи обновления метаданных компонента при загрузке с удаленного сервера:\nНе удалось обработать рабочую задачу 'Получение метафайла: index.json':\nhttps://meta.multimc.org/v1/index.json\nНе удалось обработать рабочую задачу 'Получение метафайла: net.minecraftforge/14.23.5.2859.json':\nhttps://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.418 D Component list update/resolve task failed for "multi cheats" Reason: "Ошибка задачи обновления метаданных компонента при загрузке с удаленного сервера:\nНе удалось обработать рабочую задачу 'Получение метафайла: index.json':\nhttps://meta.multimc.org/v1/index.json\nНе удалось обработать рабочую задачу 'Получение метафайла: net.minecraftforge/14.23.5.2859.json':\nhttps://meta.multimc.org/v1/net.minecraftforge/14.23.5.2859.json"
+    8.418 C Failed  "https://meta.multimc.org/v1/org.lwjgl/index.json"  with reason  QNetworkReply::NetworkError(HostNotFoundError)
+    8.418 D Download failed in previous step: "https://meta.multimc.org/v1/org.lwjgl/index.json"
+    8.418 C Task "NetJob(Получение метафайла: org.lwjgl/index.json)" failed:  "Не удалось обработать рабочую задачу 'Получение метафайла: org.lwjgl/index.json':\nhttps://meta.multimc.org/v1/org.lwjgl/index.json"
+   11.081 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/resourcepacks"
+   11.101 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/resourcepacks"
+   11.105 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   13.121 D Component list save performed now for "multi cheats"
+   25.624 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   28.817 D Task "ComponentUpdateTask(0x9d90918)" starting for the first time
+   28.817 D Loading components
+   28.817 D Index is already loaded
+   28.817 D Component list save is scheduled for "multi cheats"
+   28.817 D Resolving dependencies
+   28.817 D "Req: net.minecraft == 1.12.2" Is met.
+   28.817 D "Req: org.lwjgl" Is met.
+   28.817 D Task "ComponentUpdateTask(0x9d90918)" succeeded
+   28.817 D Component list update/resolve task succeeded for "multi cheats"
+   28.817 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.817 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.817 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.817 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.817 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.832 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   28.895 D Applying "org.lwjgl" GOOD
+   28.895 D Applying "net.minecraft" GOOD
+   28.895 D Applying "net.minecraftforge" GOOD
+   30.183 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=29833"
+   30.183 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+   33.812 D Component list save performed now for "multi cheats"
+   37.402 D Opening directory "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft"
+   60.181 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=59831"
+   60.182 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+   75.676 D Task "LaunchController(0xcbcb870)" starting for the first time
+   75.676 D Task "MojangRefresh(0xcbcbbb0)" starting for the first time
+   75.676 D Task "Yggdrasil(0x9b10910)" starting for the first time
+   76.010 D Read  333  bytes
+   76.010 D Processing request
+   76.014 D Processing authentication response.
+   76.014 D Getting access token.
+   76.014 D Finished reading authentication response.
+   76.014 D Task "Yggdrasil(0x9b10910)" succeeded
+   76.014 D Getting Xbox profile...
+   76.014 W AuthRequest::onRequestError: Error 3
+   76.014 W AuthRequest::onRequestError: Error string:  "Host api.minecraftservices.com not found"
+   76.014 W AuthRequest::onRequestError: HTTP status 0 ""
+   76.014 D Parsing Minecraft entitlements...
+   76.014 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+   76.018 W AuthRequest::onRequestError: Error 3
+   76.018 W AuthRequest::onRequestError: Error string:  "Host crafatar.com not found"
+   76.018 W AuthRequest::onRequestError: HTTP status 0 ""
+   76.018 D Task "MojangRefresh(0xcbcbbb0)" succeeded
+   76.018 D Writing account list to "accounts.json"
+   76.018 D Building JSON data structure.
+   76.018 D Building account array.
+   76.018 D Writing account list to file.
+   76.022 D Saved account list to "accounts.json"
+   76.150 W QString::arg: Argument missing: "http://localhost:56889" , 56889
+   76.154 D Task "LaunchTask(0x9fe7c58)" starting for the first time
+   76.154 D Task "TextPrint(0x6891b78)" starting for the first time
+   76.154 D Task "TextPrint(0x6891b78)" succeeded
+   76.154 D Task "TextPrint(0x6891328)" starting for the first time
+   76.154 D Task "TextPrint(0x6891328)" succeeded
+   76.154 D Task "TextPrint(0x6891a60)" starting for the first time
+   76.154 D Task "TextPrint(0x6891a60)" succeeded
+   76.154 D Task "TextPrint(0x688f9c8)" starting for the first time
+   76.154 D Task "TextPrint(0x688f9c8)" succeeded
+   76.154 D Task "CheckJava(0x686bb60)" starting for the first time
+   76.158 C Task "CheckJava(0x686bb60)" failed:  "Java path is not valid."
+   76.166 C Task "LaunchTask(0x9fe7c58)" failed:  "Java path is not valid."
+   76.170 D Task "ComponentUpdateTask(0x9d8cf88)" starting for the first time
+   76.170 D Loading components
+   76.170 D Index is already loaded
+   76.174 D Component list save is scheduled for "multi cheats"
+   76.174 D Resolving dependencies
+   76.174 D "Req: net.minecraft == 1.12.2" Is met.
+   76.174 D "Req: org.lwjgl" Is met.
+   76.174 D Task "ComponentUpdateTask(0x9d8cf88)" succeeded
+   76.174 D Component list update/resolve task succeeded for "multi cheats"
+   76.174 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.178 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.182 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.186 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.190 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.194 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   76.306 D Applying "org.lwjgl" GOOD
+   76.306 D Applying "net.minecraft" GOOD
+   76.306 D Applying "net.minecraftforge" GOOD
+   76.354 C Task "LaunchController(0xcbcb870)" failed:  "Java path is not valid."
+   81.166 D Component list save performed now for "multi cheats"
+   81.681 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   82.511 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   85.553 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   86.950 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+   88.662 D Task "LaunchController(0x66c2dc0)" starting for the first time
+   89.808 W QString::arg: Argument missing: "http://localhost:56889" , 56889
+   89.808 D Task "LaunchTask(0xcb13408)" starting for the first time
+   89.808 D Task "TextPrint(0x688e0a0)" starting for the first time
+   89.808 D Task "TextPrint(0x688e0a0)" succeeded
+   89.808 D Task "TextPrint(0x68945b0)" starting for the first time
+   89.808 D Task "TextPrint(0x68945b0)" succeeded
+   89.808 D Task "TextPrint(0x9fee780)" starting for the first time
+   89.808 D Task "TextPrint(0x9fee780)" succeeded
+   89.808 D Task "CheckJava(0x686ada0)" starting for the first time
+   89.823 C Task "CheckJava(0x686ada0)" failed:  "Java path is not valid."
+   89.823 C Task "LaunchTask(0xcb13408)" failed:  "Java path is not valid."
+   89.823 C Task "LaunchController(0x66c2dc0)" failed:  "Java path is not valid."
+   90.184 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=89834"
+   90.184 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+   94.156 D Task "JavaListLoadTask(0x687fa28)" starting for the first time
+   94.156 D Probing the following Java paths: 
+   94.156 D   "C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe"
+   94.156 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+   94.156 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+   94.156 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+   94.156 D   "C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe"
+   94.156 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+   94.156 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+   94.156 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+   94.156 D   "javaw"
+   94.156 D Task "JavaCheckerJob(0x676aac0)" starting for the first time
+   94.156 D "Java detection"  started.
+   94.156 D "Running java checker: C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.206 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.206 D Java checker has failed to start.
+   94.206 D Process environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D Native environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D "Java detection" progress: 1 / 9
+   94.206 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.206 D Java checker has failed to start.
+   94.206 D Process environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D Native environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D "Java detection" progress: 2 / 9
+   94.206 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.206 D Java checker has failed to start.
+   94.206 D Process environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D Native environment:
+   94.206 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.206 D "Java detection" progress: 3 / 9
+   94.206 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.235 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.235 D Java checker has failed to start.
+   94.235 D Process environment:
+   94.235 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.235 D Native environment:
+   94.235 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.235 D "Java detection" progress: 4 / 9
+   94.235 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.250 D Java checker has failed to start.
+   94.250 D Process environment:
+   94.250 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.250 D Native environment:
+   94.250 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.250 D "Java detection" progress: 5 / 9
+   94.250 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.250 D Java checker has failed to start.
+   94.250 D Process environment:
+   94.250 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.250 D Native environment:
+   94.250 D ("TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "CommonProgramW6432=C:\\Program Files\\Common Files", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "PROCESSOR_REVISION=6001", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "PROCESSOR_ARCHITECTURE=x86", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "PUBLIC=C:\\Users\\Public", "windir=C:\\WINDOWS", "HOMEPATH=\\Users\\ASUS ROG 2021", "PROCESSOR_LEVEL=23", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "SESSIONNAME=Console", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "SystemDrive=C:", "ProgramData=C:\\ProgramData", "SystemRoot=C:\\WINDOWS", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "ProgramFiles(x86)=C:\\Program Files (x86)", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "=::=::\\", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "PROCESSOR_ARCHITEW6432=AMD64", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "NUMBER_OF_PROCESSORS=16", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ProgramFiles=C:\\Program Files (x86)", "ALLUSERSPROFILE=C:\\ProgramData", "OS=Windows_NT", "ProgramW6432=C:\\Program Files", "CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "FPS_BROWSER_USER_PROFILE_STRING=Default", "COMPUTERNAME=DESKTOP-KRHAPDJ", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "HOMEDRIVE=C:", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp")
+   94.250 D "Java detection" progress: 6 / 9
+   94.250 D "Running java checker: javaw-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   94.423 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+   94.423 W STDERR ""
+   94.423 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   94.423 D Java checker succeeded.
+   94.423 D "Java detection" progress: 7 / 9
+   94.517 D STDOUT "os.arch=amd64\njava.version=1.8.0_51\njava.vendor=Oracle Corporation\n"
+   94.517 W STDERR ""
+   94.517 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   94.517 D Java checker succeeded.
+   94.517 D "Java detection" progress: 8 / 9
+   94.533 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+   94.533 W STDERR ""
+   94.533 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   94.533 D Java checker succeeded.
+   94.533 D "Java detection" progress: 9 / 9
+   94.533 D Task "JavaCheckerJob(0x676aac0)" succeeded
+   94.533 D Found the following valid Java installations:
+   94.533 D   "1.8.0_51" "64" "C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe"
+   94.533 D   "17.0.3.1" "64" "C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe"
+   94.533 D   "17.0.3.1" "64" "javaw"
+   94.533 D Task "JavaListLoadTask(0x687fa28)" succeeded
+   96.684 C "Error changing setting PermGenVisible. Setting doesn't exist."
+  104.415 D Task "LaunchController(0x66c32a0)" starting for the first time
+  105.876 W QString::arg: Argument missing: "http://localhost:56889" , 56889
+  105.876 D Task "LaunchTask(0xcb12ff8)" starting for the first time
+  105.876 D Task "TextPrint(0x9d2e088)" starting for the first time
+  105.876 D Task "TextPrint(0x9d2e088)" succeeded
+  105.876 D Task "TextPrint(0x9d2e018)" starting for the first time
+  105.876 D Task "TextPrint(0x9d2e018)" succeeded
+  105.876 D Task "TextPrint(0x9d2c6f0)" starting for the first time
+  105.876 D Task "TextPrint(0x9d2c6f0)" succeeded
+  105.876 D Task "CheckJava(0xa0ec690)" starting for the first time
+  105.876 D "Running java checker: C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+  106.043 D STDOUT "os.arch=amd64\njava.version=1.8.0_51\njava.vendor=Oracle Corporation\n"
+  106.043 W STDERR ""
+  106.043 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  106.043 D Java checker succeeded.
+  106.059 C "Error changing setting JavaVendor. Setting doesn't exist."
+  106.059 D Task "CheckJava(0xa0ec690)" succeeded
+  106.059 D Task "CreateGameFolders(0x9ce0cc0)" starting for the first time
+  106.059 D Task "CreateGameFolders(0x9ce0cc0)" succeeded
+  106.059 D Task "Update(0xa0ec910)" starting for the first time
+  106.059 D Task "MinecraftLoadAndCheck(0xa0ec550)" starting for the first time
+  106.059 D Task "ComponentUpdateTask(0x9ce2220)" starting for the first time
+  106.059 D Loading components
+  106.059 D Index is already loaded
+  106.059 D Component list save is scheduled for "multi cheats"
+  106.059 D Resolving dependencies
+  106.059 D "Req: net.minecraft == 1.12.2" Is met.
+  106.059 D "Req: org.lwjgl" Is met.
+  106.059 D Task "ComponentUpdateTask(0x9ce2220)" succeeded
+  106.059 D Component list update/resolve task succeeded for "multi cheats"
+  106.059 D Task "MinecraftLoadAndCheck(0xa0ec550)" succeeded
+  106.059 D Task "Update(0xa0ec910)" succeeded
+  106.059 D Task "ModMinecraftJar(0x9ce1020)" starting for the first time
+  106.059 D Applying "org.lwjgl" GOOD
+  106.059 D Applying "net.minecraft" GOOD
+  106.059 D Applying "net.minecraftforge" GOOD
+  106.059 D Task "ModMinecraftJar(0x9ce1020)" succeeded
+  106.059 D Task "ScanModFolders(0x9ce1050)" starting for the first time
+  106.074 D Task "ScanModFolders(0x9ce1050)" succeeded
+  106.074 D Task "PrintInstanceInfo(0xa0ecbd0)" starting for the first time
+  106.132 D Task "PrintInstanceInfo(0xa0ecbd0)" succeeded
+  106.132 D Task "ExtractNatives(0x9ce11d0)" starting for the first time
+  106.248 D Task "ExtractNatives(0x9ce11d0)" succeeded
+  106.248 D Task "ReconstructAssets(0x9ce1470)" starting for the first time
+  106.248 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  106.248 D Task "ReconstructAssets(0x9ce1470)" succeeded
+  106.248 D Task "VerifyJavaInstall(0x9ce15f0)" starting for the first time
+  106.248 D Task "VerifyJavaInstall(0x9ce15f0)" succeeded
+  106.248 D Task "InjectAuthlib(0x9d85270)" starting for the first time
+  106.263 D Authlib injector version: "authlib-injector-1.1.47.jar"
+  106.263 D Injecting  "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889"
+  106.263 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889"
+  106.263 D Task "InjectAuthlib(0x9d85270)" succeeded
+  106.263 D Task "LauncherPartLaunch(0xcbcb870)" starting for the first time
+  106.263 D "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4000m -Xmx4500m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/natives -cp D:/vv/multiMC cracked/UltimMC/jars/NewLaunch.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  109.186 D Read  154  bytes
+  109.186 D Processing request
+  111.068 D Component list save performed now for "multi cheats"
+  120.187 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=119837"
+  120.187 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  150.180 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=149830"
+  150.182 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  180.179 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=179829"
+  180.180 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  210.187 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=209837"
+  210.189 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  240.181 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=239831"
+  240.182 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  249.214 D Read  241  bytes
+  249.214 D Processing request
+  251.050 D Read  241  bytes
+  251.050 D Processing request
+  270.183 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=269833"
+  270.186 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  300.183 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=299833"
+  300.185 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  330.193 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=329843"
+  330.196 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  360.209 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=359859"
+  360.211 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  376.812 C Task "LauncherPartLaunch(0xcbcb870)" failed:  "Игра вылетела."
+  376.827 C Task "LaunchTask(0xcb12ff8)" failed:  "Игра вылетела."
+  376.827 C Task "LaunchController(0x66c32a0)" failed:  "Игра вылетела."
+  390.216 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=389866"
+  390.216 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  420.213 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=419863"
+  420.213 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  450.224 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=449874"
+  450.224 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  480.223 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=479873"
+  480.223 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  510.221 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=509871"
+  510.221 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  520.182 D Task "LaunchController(0xcb85f70)" starting for the first time
+  521.642 W QString::arg: Argument missing: "http://localhost:56889" , 56889
+  521.642 D Task "LaunchTask(0xcb14808)" starting for the first time
+  521.642 D Task "TextPrint(0x9d32810)" starting for the first time
+  521.642 D Task "TextPrint(0x9d32810)" succeeded
+  521.642 D Task "TextPrint(0x9d32df8)" starting for the first time
+  521.642 D Task "TextPrint(0x9d32df8)" succeeded
+  521.642 D Task "TextPrint(0x9d30cb8)" starting for the first time
+  521.642 D Task "TextPrint(0x9d30cb8)" succeeded
+  521.642 D Task "CheckJava(0xa0ed2d0)" starting for the first time
+  521.642 D "Running java checker: C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+  521.747 D STDOUT "os.arch=amd64\njava.version=1.8.0_51\njava.vendor=Oracle Corporation\n"
+  521.747 W STDERR ""
+  521.747 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  521.747 D Java checker succeeded.
+  521.747 C "Error changing setting JavaVendor. Setting doesn't exist."
+  521.747 D Task "CheckJava(0xa0ed2d0)" succeeded
+  521.747 D Task "CreateGameFolders(0x9a3ca40)" starting for the first time
+  521.747 D Task "CreateGameFolders(0x9a3ca40)" succeeded
+  521.747 D Task "Update(0xa0ed110)" starting for the first time
+  521.747 D Task "MinecraftLoadAndCheck(0xa0ecb50)" starting for the first time
+  521.747 D Task "ComponentUpdateTask(0x9a3d070)" starting for the first time
+  521.747 D Loading components
+  521.747 D Index is already loaded
+  521.747 D Component list save is scheduled for "multi cheats"
+  521.747 D Resolving dependencies
+  521.747 D "Req: net.minecraft == 1.12.2" Is met.
+  521.747 D "Req: org.lwjgl" Is met.
+  521.747 D Task "ComponentUpdateTask(0x9a3d070)" succeeded
+  521.747 D Component list update/resolve task succeeded for "multi cheats"
+  521.747 D Task "MinecraftLoadAndCheck(0xa0ecb50)" succeeded
+  521.747 D Task "Update(0xa0ed110)" succeeded
+  521.747 D Task "ModMinecraftJar(0x9a3cd10)" starting for the first time
+  521.747 D Applying "org.lwjgl" GOOD
+  521.747 D Applying "net.minecraft" GOOD
+  521.747 D Applying "net.minecraftforge" GOOD
+  521.747 D Task "ModMinecraftJar(0x9a3cd10)" succeeded
+  521.747 D Task "ScanModFolders(0x9a3ca10)" starting for the first time
+  521.763 D Task "ScanModFolders(0x9a3ca10)" succeeded
+  521.763 D Task "PrintInstanceInfo(0xa0ed150)" starting for the first time
+  521.778 D Task "PrintInstanceInfo(0xa0ed150)" succeeded
+  521.778 D Task "ExtractNatives(0x9a3cc20)" starting for the first time
+  521.794 D Task "ExtractNatives(0x9a3cc20)" succeeded
+  521.794 D Task "ReconstructAssets(0x9a3cec0)" starting for the first time
+  521.794 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.12"
+  521.794 D Task "ReconstructAssets(0x9a3cec0)" succeeded
+  521.794 D Task "VerifyJavaInstall(0x9a3cbc0)" starting for the first time
+  521.794 D Task "VerifyJavaInstall(0x9a3cbc0)" succeeded
+  521.794 D Task "InjectAuthlib(0x9b9cdb0)" starting for the first time
+  521.794 D Authlib injector version: "authlib-injector-1.1.47.jar"
+  521.794 D Injecting  "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889"
+  521.794 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889"
+  521.794 D Task "InjectAuthlib(0x9b9cdb0)" succeeded
+  521.794 D Task "LauncherPartLaunch(0xcb858f0)" starting for the first time
+  521.809 D "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:56889 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4000m -Xmx4500m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/natives -cp D:/vv/multiMC cracked/UltimMC/jars/NewLaunch.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar org.multimc.EntryPoint"
+  522.052 D Read  154  bytes
+  522.052 D Processing request
+  526.748 D Component list save performed now for "multi cheats"
+  532.432 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+  532.433 C Task "ScanModFolders(0x9a3ca10)" succeeded while not running!!!!
+  540.220 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=539870"
+  540.221 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  540.299 D Opening directory "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/config"
+  570.219 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=569869"
+  570.220 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  579.575 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/mods"
+  600.215 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=599865"
+  600.216 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  630.226 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=629876"
+  630.227 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  630.634 D Read  241  bytes
+  630.634 D Processing request
+  632.155 D Read  241  bytes
+  632.155 D Processing request
+  660.237 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=659887"
+  660.240 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  690.241 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=689891"
+  690.243 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  720.252 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=719902"
+  720.254 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  750.241 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=749891"
+  750.243 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  780.242 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=779892"
+  780.243 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  810.242 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=809892"
+  810.243 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  840.245 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=839895"
+  840.247 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  870.245 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=869895"
+  870.247 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  900.251 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=899901"
+  900.253 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  930.257 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=929907"
+  930.259 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  960.263 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=959913"
+  960.266 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+  990.269 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=989919"
+  990.271 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1020.261 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1019911"
+ 1020.262 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1050.272 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1049922"
+ 1050.274 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1080.280 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1079930"
+ 1080.282 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1110.281 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1109931"
+ 1110.282 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1140.279 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1139929"
+ 1140.280 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1170.273 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1169923"
+ 1170.274 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1200.284 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1199934"
+ 1200.286 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1230.286 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1229936"
+ 1230.287 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1260.280 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1259929"
+ 1260.281 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1290.275 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1289925"
+ 1290.276 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1320.278 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1319928"
+ 1320.280 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1350.275 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1349925"
+ 1350.276 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1380.276 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1379926"
+ 1380.277 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1410.285 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1409935"
+ 1410.288 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1440.290 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1439940"
+ 1440.293 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1470.302 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1469952"
+ 1470.304 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1500.298 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1499948"
+ 1500.299 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1530.301 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1529951"
+ 1530.304 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1560.304 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1559954"
+ 1560.306 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1590.308 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1589958"
+ 1590.310 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1620.317 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1619967"
+ 1620.319 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1650.313 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1649963"
+ 1650.314 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1680.309 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1679959"
+ 1680.310 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1710.309 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1709959"
+ 1710.311 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1740.306 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1739956"
+ 1740.307 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1770.312 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1769962"
+ 1770.314 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1800.314 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1799964"
+ 1800.315 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1830.306 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1829956"
+ 1830.308 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1860.311 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1859961"
+ 1860.313 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1890.306 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1889956"
+ 1890.307 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1920.315 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1919965"
+ 1920.317 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1950.319 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1949969"
+ 1950.320 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 1980.321 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=1979971"
+ 1980.323 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2010.322 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2009972"
+ 2010.323 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2040.320 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2039970"
+ 2040.322 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2070.319 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2069969"
+ 2070.320 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2100.334 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2099984"
+ 2100.336 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2130.348 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2129998"
+ 2130.350 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2160.348 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2159998"
+ 2160.349 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2190.350 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2190000"
+ 2190.353 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2220.364 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2220014"
+ 2220.366 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2250.372 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2250022"
+ 2250.374 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2280.376 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2280026"
+ 2280.378 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2310.371 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2310021"
+ 2310.373 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2340.378 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2340028"
+ 2340.381 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2370.382 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2370032"
+ 2370.384 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2400.387 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2400037"
+ 2400.389 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2430.389 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2430039"
+ 2430.391 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2460.383 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=2460033"
+ 2460.384 D [Analytics] "Error posting message: Host www.google-analytics.com not found"
+ 2460.837 D Task "LauncherPartLaunch(0xcb858f0)" succeeded
+ 2460.853 D Task "LaunchTask(0xcb14808)" succeeded
+ 2460.853 D Task "LaunchController(0xcb85f70)" succeeded

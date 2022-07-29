@@ -1,0 +1,576 @@
+[20:19:28] [main/INFO]: Loading Minecraft 1.19 with Fabric Loader 0.14.8
+[20:19:28] [main/WARN]: Warnings were found!
+ - Mod 'Sodium Extra' (sodium-extra) 0.4.6+mc1.19-build.47 recommends version 1.4.2 or later of reeses-sodium-options, which is missing!
+	 - You should install version 1.4.2 or later of reeses-sodium-options for the optimal experience.
+[20:19:28] [main/INFO]: Loading 61 mods:
+	- caffeineconfig 1.0.0+1.17 via sodium-extra
+	- fabric 0.57.0+1.19
+	- fabric-api-base 0.4.9+e62f51a3a9 via fabric
+	- fabric-api-lookup-api-v1 1.6.7+9ff28f40a9 via fabric
+	- fabric-biome-api-v1 9.0.14+b2a4a624a9 via fabric
+	- fabric-blockrenderlayer-v1 1.1.18+9ff28f40a9 via fabric
+	- fabric-command-api-v1 1.2.6+f71b366fa9 via fabric
+	- fabric-command-api-v2 2.1.2+0d55f585a9 via fabric
+	- fabric-commands-v0 0.2.23+df3654b3a9 via fabric
+	- fabric-containers-v0 0.1.27+df3654b3a9 via fabric
+	- fabric-content-registries-v0 3.2.0+07df213ea9 via fabric
+	- fabric-convention-tags-v1 1.0.8+37622d24a9 via fabric
+	- fabric-crash-report-info-v1 0.2.3+bd0a0d4aa9 via fabric
+	- fabric-data-generation-api-v1 5.1.1+a680b9b4a9 via fabric
+	- fabric-dimensions-v1 2.1.28+a6d2f785a9 via fabric
+	- fabric-entity-events-v1 1.4.16+9ff28f40a9 via fabric
+	- fabric-events-interaction-v0 0.4.26+9ff28f40a9 via fabric
+	- fabric-events-lifecycle-v0 0.2.25+df3654b3a9 via fabric
+	- fabric-game-rule-api-v1 1.0.19+18990361a9 via fabric
+	- fabric-item-api-v1 1.5.4+767db26ea9 via fabric
+	- fabric-item-groups-v0 0.3.25+9ff28f40a9 via fabric
+	- fabric-key-binding-api-v1 1.0.18+9ff28f40a9 via fabric
+	- fabric-keybindings-v0 0.2.16+df3654b3a9 via fabric
+	- fabric-lifecycle-events-v1 2.1.0+33fbc738a9 via fabric
+	- fabric-loot-api-v2 1.1.0+03a4e568a9 via fabric
+	- fabric-loot-tables-v1 1.1.3+9e7660c6a9 via fabric
+	- fabric-message-api-v1 1.0.1+513f4a59a9 via fabric
+	- fabric-mining-level-api-v1 2.1.10+33fbc738a9 via fabric
+	- fabric-models-v0 0.3.15+9ff28f40a9 via fabric
+	- fabric-networking-api-v1 1.0.27+7fe97409a9 via fabric
+	- fabric-networking-v0 0.3.14+df3654b3a9 via fabric
+	- fabric-object-builder-api-v1 4.0.7+9ff28f40a9 via fabric
+	- fabric-particles-v1 1.0.8+dc39553aa9 via fabric
+	- fabric-registry-sync-v0 0.9.17+23c4cfefa9 via fabric
+	- fabric-renderer-api-v1 1.0.8+9ff28f40a9 via fabric
+	- fabric-renderer-indigo 0.6.9+1f92344ea9 via fabric
+	- fabric-renderer-registries-v1 3.2.18+df3654b3a9 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.12+9ff28f40a9 via fabric
+	- fabric-rendering-fluids-v1 3.0.5+9ff28f40a9 via fabric
+	- fabric-rendering-v0 1.1.20+df3654b3a9 via fabric
+	- fabric-rendering-v1 1.10.14+9ff28f40a9 via fabric
+	- fabric-resource-conditions-api-v1 2.0.9+e62f51a3a9 via fabric
+	- fabric-resource-loader-v0 0.5.5+a6d2f785a9 via fabric
+	- fabric-screen-api-v1 1.0.24+f05effafa9 via fabric
+	- fabric-screen-handler-api-v1 1.2.6+9ff28f40a9 via fabric
+	- fabric-textures-v0 1.0.18+9ff28f40a9 via fabric
+	- fabric-transfer-api-v1 2.0.9+e62f51a3a9 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.1+9e7660c6a9 via fabric
+	- fabricloader 0.14.8
+	- iris 1.2.6
+	- java 17
+	- jei 11.0.2.230
+	- litematica 0.11.3
+	- malilib 0.12.1
+	- minecraft 1.19
+	- org_anarres_jcpp 1.4.14 via iris
+	- org_joml_joml 1.10.4 via sodium
+	- plasmo_voice 1.2.17
+	- sodium 0.4.2+build.16
+	- sodium-extra 0.4.6+mc1.19-build.47
+	- worldedit 7.2.11-beta-01+6200-0877589
+[20:19:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/vv/multiMC%20cracked/UgolokMC%20launcher%20utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[20:19:28] [main/INFO]: Compatibility level set to JAVA_16
+[20:19:29] [main/INFO]: Compatibility level set to JAVA_17
+[20:19:29] [main/WARN]: Reference map 'plasmovoice-fabric-refmap.json' for plasmovoice.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:19:29] [main/INFO]: Loaded configuration file for Sodium: 29 options available, 1 override(s) found
+[20:19:29] [main/INFO]: Loaded configuration file for Sodium Extra: 27 options available, 0 override(s) found
+[20:19:29] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[20:19:30] [main/WARN]: Configuration conflict: there is more than one oshi.properties file on the classpath
+[20:19:30] [main/WARN]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath
+[20:19:34] [main/INFO]: Building optimized datafixer
+[20:19:38] [main/WARN]: Unrecognized user type: Local
+[20:19:38] [Render thread/WARN]: Method overwrite conflict for method_22920 in sodium.mixins.json:features.buffer_builder.intrinsics.MixinBufferBuilder from mod sodium, previously written by net.coderbot.iris.mixin.vertices.block_rendering.MixinBufferBuilder_SeparateAo. Skipping method.
+[20:19:39] [Render thread/INFO]: Environment: authHost='http://localhost:51257/authserver', accountsHost='http://127.0.0.1:59330/https/api.mojang.com', sessionHost='http://127.0.0.1:59330/https/sessionserver.mojang.com', servicesHost='http://127.0.0.1:59330/https/api.minecraftservices.com', name='PROD'
+[20:19:39] [Render thread/INFO]: Setting user: Jefferson
+[20:19:42] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@187175b3]
+[20:19:42] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.11-beta-01+6200-0877589) is loaded
+[20:19:42] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[20:19:43] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[20:19:43] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[20:19:44] [Render thread/INFO]: Debug functionality is disabled.
+[20:19:44] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[20:19:44] [Render thread/INFO]: Shaders are disabled
+[20:19:45] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[20:19:45] [Render thread/INFO]: Hardware information:
+[20:19:45] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 4800HS with Radeon Graphics 
+[20:19:45] [Render thread/INFO]: GPU: AMD Radeon(TM) Graphics (Supports OpenGL 3.2.13596 Core Profile Forward-Compatible Context 20.10.20.14 27.20.11020.14001)
+[20:19:45] [Render thread/INFO]: OS: Windows 11 (10.0)
+[20:19:46] [Render thread/ERROR]: Failed to load Narrator libraries
+[20:19:46] [Render thread/ERROR]: 32-bit version failed to load
+java.lang.UnsatisfiedLinkError: Unable to load library 'SAPIWrapper_x86':
+Не найден указанный модуль.
+
+Не найден указанный модуль.
+
+Не найден указанный модуль.
+
+Native library (win32-x86-64/SAPIWrapper_x86.dll) not found in resource path (D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:301) ~[jna-5.10.0.jar:?]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+	at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:42) [text2speech-1.13.9.jar:?]
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+	at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+	at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+	at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:191) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:42) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:204) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:42) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:264) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:42) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.io.IOException: Native library (win32-x86-64/SAPIWrapper_x86.dll) not found in resource path (D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar)
+		at com.sun.jna.Native.extractFromResourcePath(Native.java:1145) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:275) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:42) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+[20:19:46] [Render thread/ERROR]: 64-bit version failed to load
+java.lang.UnsatisfiedLinkError: Unable to load library 'SAPIWrapper_x64':
+Не найден указанный модуль.
+
+Не найден указанный модуль.
+
+Не найден указанный модуль.
+
+Native library (win32-x86-64/SAPIWrapper_x64.dll) not found in resource path (D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:301) ~[jna-5.10.0.jar:?]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+	at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:37) [text2speech-1.13.9.jar:?]
+	at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+	at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+	at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+	at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+	at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:191) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:37) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:204) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:37) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: Не найден указанный модуль.
+
+		at com.sun.jna.Native.open(Native Method) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:264) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:37) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+	Suppressed: java.io.IOException: Native library (win32-x86-64/SAPIWrapper_x64.dll) not found in resource path (D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar)
+		at com.sun.jna.Native.extractFromResourcePath(Native.java:1145) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:275) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:461) ~[jna-5.10.0.jar:?]
+		at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:403) ~[jna-5.10.0.jar:?]
+		at com.mojang.text2speech.NarratorWindows.tryLoadNative(NarratorWindows.java:37) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.NarratorWindows.<clinit>(NarratorWindows.java:20) [text2speech-1.13.9.jar:?]
+		at com.mojang.text2speech.Narrator.getNarrator(Narrator.java:24) [text2speech-1.13.9.jar:?]
+		at net.minecraft.class_333.<init>(class_333.java:26) [client-intermediary.jar:?]
+		at net.minecraft.class_333.<clinit>(class_333.java:24) [client-intermediary.jar:?]
+		at net.minecraft.class_329.<init>(class_329.java:161) [client-intermediary.jar:?]
+		at net.minecraft.class_310.<init>(class_310.java:586) [client-intermediary.jar:?]
+		at net.minecraft.client.main.Main.main(Main.java:198) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.8.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.14.8.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+		at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+		at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210) [NewLaunch.jar:?]
+		at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+		at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+[20:19:46] [Worker-Main-16/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.class_7434.method_43605(class_7434.java:112) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7434.method_44291(class_7434.java:56) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[20:19:46] [Render thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (CaffeineConfig, Fabric API, Fabric API Base, Fabric API Lookup API (v1), Fabric Biome API (v1), Fabric BlockRenderLayer Registration (v1), Fabric Command API (v1), Fabric Command API (v2), Fabric Commands (v0), Fabric Containers (v0), Fabric Content Registries (v0), Fabric Convention Tags, Fabric Crash Report Info (v1), Fabric Data Generation API (v1), Fabric Dimensions API (v1), Fabric Entity Events (v1), Fabric Events Interaction (v0), Fabric Events Lifecycle (v0), Fabric Game Rule API (v1), Fabric Item API (v1), Fabric Item Groups (v0), Fabric Key Binding API (v1), Fabric Key Bindings (v0), Fabric Lifecycle Events (v1), Fabric Loot API (v2), Fabric Loot Tables (v1), Fabric Message API (v1), Fabric Mining Level API (v1), Fabric Models (v0), Fabric Networking API (v1), Fabric Networking (v0), Fabric Object Builder API (v1), Fabric Particles (v1), Fabric Registry Sync (v0), Fabric Renderer API (v1), Fabric Renderer - Indigo, Fabric Renderer Registries (v1), Fabric Rendering Data Attachment (v1), Fabric Rendering Fluids (v1), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Resource Conditions API (v1), Fabric Resource Loader (v0), Fabric Screen API (v1), Fabric Screen Handler API (v1), Fabric Textures (v0), Fabric Transfer API (v1), Fabric Transitive Access Wideners (v1), Fabric Loader, Iris, Just Enough Items, Litematica, MaLiLib, Plasmo Voice, Sodium, Sodium Extra, WorldEdit), oled-advanced-gui-1.19.zip, vixelsguioverhaul.zip
+[20:19:47] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[20:19:48] [Render thread/INFO]: Saving config file: D:\vv\multiMC cracked\UgolokMC launcher utilmmc\instances\UU\.minecraft\config\jei\jei-client.ini
+[20:19:48] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:19:50] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:19:50] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:19:51] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (Realtek(R) Audio)
+[20:19:51] [Render thread/INFO]: Sound engine started
+[20:19:51] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:19:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:19:53] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:19:53] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:19:53] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:19:53] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:19:53] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[20:19:59] [Worker-Bootstrap-13/INFO]: 4256 Datafixer optimizations took 24838 milliseconds
+[20:21:04] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[20:21:05] [Render thread/INFO]: Loaded 7 recipes
+[20:21:05] [Render thread/INFO]: Loaded 1179 advancements
+[20:21:06] [Render thread/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 2.528 ms
+[20:21:06] [Server thread/INFO]: Starting integrated minecraft server version 1.19
+[20:21:06] [Server thread/INFO]: Generating keypair
+[20:21:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 0%
+[20:21:09] [Render thread/INFO]: Подготовка области возрождения: 23%
+[20:21:10] [Render thread/INFO]: Подготовка области возрождения: 84%
+[20:21:10] [Render thread/INFO]: Time elapsed: 3609 ms
+[20:21:10] [Thread-13/INFO]: Voice UDP server started on /0.0.0.0:60606
+[20:21:11] [Server thread/INFO]: Changing simulation distance to 5, from 0
+[20:21:12] [Server thread/INFO]: Jefferson[local:E:1d87d5a5] logged in with entity id 260 at (228.47776059539515, 72.0, -108.6007961540686)
+[20:21:12] [Server thread/INFO]: Jefferson присоединился к игре
+[20:21:13] [Netty Local Client IO #0/INFO]: Connecting to localhost
+[20:21:13] [pool-6-thread-1/INFO]: OpenAL (Plasmo Voice) initialized.
+[20:21:13] [Thread-19/INFO]: Start ping
+[20:21:13] [Netty Local Client IO #0/INFO]: Clients: [2f9f8bea-5306-4f99-aa5f-1767835d79e9]
+[20:21:13] [Netty Local Client IO #0/INFO]: Muted clients: []
+[20:21:13] [Thread-18/INFO]: Connected to UDP
+[20:21:13] [Input Device Recorder/INFO]: Recorder started
+[20:21:13] [Render thread/WARN]: @Redirect conflict. Skipping mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixSidewaysInnerFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000, already redirected by mixins.iris.compat.sodium.json:vertex_format.MixinFluidRenderer from mod iris->@Redirect::iris$fixBackwardUpFaceNormal(Lme/jellysquid/mods/sodium/client/model/IndexBufferBuilder;ILme/jellysquid/mods/sodium/client/model/quad/properties/ModelQuadWinding;Lnet/minecraft/class_1920;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/buffers/ChunkModelBuilder;)V with priority 1000
+[20:21:13] [Render thread/INFO]: Started 10 worker threads
+[20:21:13] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:21:13] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[20:21:13] [Render thread/INFO]: Starting JEI...
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 6.632 ms
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:debug took 25.50 ?s
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering item subtypes: jei:internal took 27.40 ?s
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 74.20 ?s
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 3.943 ms
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 38.60 ?s
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:minecraft took 47.28 ms
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:debug took 96.70 ?s
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering ingredients: jei:internal took 27.30 ?s
+[20:21:14] [Render thread/INFO]: Building ingredient list...
+[20:21:14] [Render thread/INFO]: Building ingredient list took 10.67 ms
+[20:21:14] [Render thread/INFO]: Building ingredient filter...
+[20:21:14] [Render thread/INFO]: Adding 1407 ingredients
+[20:21:14] [Render thread/INFO]: Added 1407 ingredients
+[20:21:14] [Render thread/INFO]: Building ingredient filter took 262.6 ms
+[20:21:14] [Render thread/INFO]: Building bookmarks...
+[20:21:14] [Render thread/INFO]: Building bookmarks took 12.07 ms
+[20:21:14] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering categories: jei:minecraft took 42.32 ms
+[20:21:14] [Render thread/INFO]: Registering categories: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering categories: jei:debug took 28.90 ?s
+[20:21:14] [Render thread/INFO]: Registering categories: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering categories: jei:internal took 3.096 ms
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 4.996 ms
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 32.60 ?s
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 20.40 ?s
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 601.8 ?s
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 35.60 ?s
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 20.70 ?s
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 64.60 ?s
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:debug took 15.20 ?s
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering advanced plugins: jei:internal took 14.00 ?s
+[20:21:14] [Render thread/INFO]: Building recipe registry...
+[20:21:14] [Render thread/INFO]: Building recipe registry took 18.92 ms
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:minecraft took 208.5 ms
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:debug took 40.50 ?s
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering recipes: jei:internal took 12.30 ?s
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 5.475 ms
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 45.00 ?s
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 24.60 ?s
+[20:21:14] [Render thread/INFO]: Building runtime...
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 16.99 ms
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:debug took 16.70 ?s
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[20:21:14] [Render thread/INFO]: Registering gui handlers: jei:internal took 7.400 ms
+[20:21:14] [Render thread/INFO]: Building runtime took 71.74 ms
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:minecraft took 13.30 ?s
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:debug took 11.80 ?s
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[20:21:14] [Render thread/INFO]: Sending Runtime: jei:internal took 42.70 ?s
+[20:21:14] [Render thread/INFO]: Starting JEI took 825.1 ms
+[20:21:15] [Render thread/INFO]: Loaded 0 advancements
+[20:21:15] [Worker-Main-22/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@20413928[id=2f9f8bea-5306-4f99-aa5f-1767835d79e9,name=Jefferson,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:131) ~[authlib-3.5.41.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:105) ~[authlib-3.5.41.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:197) ~[authlib-3.5.41.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:64) ~[authlib-3.5.41.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:61) ~[authlib-3.5.41.jar:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3533) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2282) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2159) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2049) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3966) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3989) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4950) ~[guava-31.0.1-jre.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4956) ~[guava-31.0.1-jre.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:172) ~[authlib-3.5.41.jar:?]
+	at net.minecraft.class_310.method_1539(class_310.java:2382) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1071.method_4653(class_1071.java:97) ~[client-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:226) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:111) ~[authlib-3.5.41.jar:?]
+	... 21 more
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:215) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:111) ~[authlib-3.5.41.jar:?]
+	... 21 more
+[20:21:15] [Server thread/INFO]: Saving and pausing game...
+[20:21:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[20:21:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[20:21:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[20:24:40] [Server thread/INFO]: Saving and pausing game...
+[20:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[20:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[20:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[20:24:41] [Render thread/INFO]: Disconnect from localhost
+[20:24:41] [Render thread/INFO]: UDP closed
+[20:24:41] [Input Device Recorder/INFO]: Recorder cleanup
+[20:24:41] [Input Device Recorder/INFO]: Close opus encoder
+[20:24:41] [Server thread/INFO]: Jefferson lost connection: Отключение
+[20:24:41] [Server thread/INFO]: Jefferson покинул игру
+[20:24:41] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:24:41] [Thread-13/INFO]: Voice UDP server stopped
+[20:24:41] [Server thread/INFO]: Stopping server
+[20:24:41] [Server thread/INFO]: Saving players
+[20:24:41] [Server thread/INFO]: Saving worlds
+[20:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[20:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[20:24:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[20:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (Новый мир): All chunks are saved
+[20:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:24:42] [Render thread/INFO]: Stopping JEI
+[20:24:42] [Render thread/INFO]: Stopping worker threads
+[20:24:46] [Render thread/INFO]: Stopping!
+[20:24:46] [pool-6-thread-1/INFO]: Audio engine closed

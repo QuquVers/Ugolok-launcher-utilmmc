@@ -1,0 +1,27 @@
+Logging started at 2022-07-29T17:19:27.496179900Z
+[authlib-injector] [INFO] Version: 1.1.47
+[authlib-injector] [INFO] Authentication server: http://localhost:51257
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [INFO] Httpd is running on port 59330
+[authlib-injector] [INFO] Transformed [net.minecraft.class_742] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo] with [Yggdrasil Public Key Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]
+[authlib-injector] [INFO] Transformed [net.minecraft.class_3248] with [Username Character Check Transformer]
+[authlib-injector] [WARNING] An error occurred while processing request [/https/sessionserver.mojang.com/session/minecraft/profile/2f9f8bea53064f99aa5f1767835d79e9]
+java.io.UncheckedIOException: java.io.FileNotFoundException: http://localhost:51257/sessionserver/session/minecraft/profile/2f9f8bea53064f99aa5f1767835d79e9
+	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryProfile(YggdrasilClient.java:92)
+	at moe.yushi.authlibinjector.httpd.QueryProfileFilter.handle(QueryProfileFilter.java:82)
+	at moe.yushi.authlibinjector.httpd.URLProcessor$1.serve(URLProcessor.java:142)
+	at moe.yushi.authlibinjector.internal.fi.iki.elonen.HTTPSession.execute(HTTPSession.java:246)
+	at moe.yushi.authlibinjector.internal.fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:104)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.FileNotFoundException: http://localhost:51257/sessionserver/session/minecraft/profile/2f9f8bea53064f99aa5f1767835d79e9
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1993)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:49)
+	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryProfile(YggdrasilClient.java:90)
+	... 5 more
+

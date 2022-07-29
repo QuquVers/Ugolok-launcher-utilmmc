@@ -1,0 +1,94 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\vv\\multiMC cracked\\UltimMC\\instances\\UU\\.minecraft\\schematics\\чё чпавн.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -31,
+          57,
+          -21
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": true,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "selected_region": "Unnamed",
+        "material_list": {
+          "type": "render_layers",
+          "sort_criteria": "COUNT_MISSING",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                81,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "LAYER_RANGE",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 1000,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -59,
+          94,
+          41
+        ],
+        "pos2": [
+          -59,
+          95,
+          41
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

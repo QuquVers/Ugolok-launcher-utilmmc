@@ -1,0 +1,62 @@
+{
+  "servers": {
+    "65.108.55.124": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "65.108.21.217": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "127.0.0.1": {
+      "distance": 16,
+      "priorityDistance": 48
+    }
+  },
+  "playerVolumes": {},
+  "whitelist": false,
+  "voiceVolume": 1.0,
+  "priorityVolume": 1.0,
+  "occlusion": false,
+  "speakerMuted": false,
+  "showIcons": 0,
+  "micIconPosition": "BOTTOM_CENTER",
+  "voiceActivation": true,
+  "voiceActivationThreshold": -42.0,
+  "microphoneAmplification": 1.0,
+  "microphone": "OpenAL Soft on Набор микрофонов (Realtek(R) Audio)",
+  "speaker": "OpenAL Soft on КолОнКи (Realtek(R) Audio)",
+  "rnNoise": false,
+  "microphoneMuted": false,
+  "javaxCapture": false,
+  "hrtf": false,
+  "directionalSources": false,
+  "directionalSourcesAngle": 145,
+  "compressor": true,
+  "compressorThreshold": -10,
+  "limiterThreshold": -6,
+  "visualizeDistance": true,
+  "keyBindings": {
+    "pushToTalk": [
+      {
+        "type": "KEYSYM",
+        "code": 342
+      }
+    ],
+    "priorityPushToTalk": [],
+    "muteMicrophone": [],
+    "muteChat": [],
+    "action": [
+      {
+        "type": "MOUSE",
+        "code": 1
+      }
+    ],
+    "increaseDistance": [],
+    "decreaseDistance": [],
+    "occlusion": []
+  },
+  "showPriorityVolume": true,
+  "micReverb": true,
+  "micReverbVolume": 1.0
+}

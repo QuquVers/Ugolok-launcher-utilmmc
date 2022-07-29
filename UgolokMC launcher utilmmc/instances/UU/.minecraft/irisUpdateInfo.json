@@ -1,0 +1,30 @@
+{
+  "semanticVersion": "1.2.6",
+  "updateInfo": {
+    "en_us": "Iris 1.2.6 has released, with multiple bug fixes and support for 1.19.1! Download it at: {link}",
+    "de_de": "Iris 1.2.6 ist mit mehreren Fehlerbehebungen und Unterst?tzung f?r die 1.19.1 erschienen! Lade es auf {link} herunter.",
+    "pt_pt": "Iris 1.2.6 est? agora dispon?vel com v?rias corre??es de erros e suporte para 1.19.1! Descarrega em: {link}",
+    "es_es": "?Iris 1.2.6 est? ahora disponible con m?ltiples correcciones de errores y compatibilidad para la 1.19.1! Desc?rgalo en: {link}",
+    "es_mx": "?Iris 1.2.6 est? ahora disponible con m?ltiples correcciones de errores y compatibilidad para la 1.19.1! Desc?rgalo en: {link}",
+    "ko_kr": "Iris 1.2.6? ?????? ?? ?? ?? ? 1.19.1? ?? ??? ???? ????! ????: {link}",
+    "hu_hu": "Megjelent az ?j Iris 1.2.6, t?bbf?le hibahav?t?ssal ?s 1.19.1 t?mogat?ssal!Itt tudod let?lteni: {link}",
+    "nl_nl": "Iris 1.2.6 is nu uitgebracht, met meerdere bug fixes en ondersteuning voor 1.19.1! Download de update via: {link}",
+    "sk_sk": "Iris 1.2.6 bol vydan? s viacer?mi opravami a podporou Minecraftu 1.19.1! Stiahni ho tu: {link}",
+    "tr_tr": "?ris 1.2.6 bir?ok hata d?zeltmeleri ve 1.19.1 deste?iyle yay?mland?! ?uradan indirin: {link}",
+    "pt_br": "Iris 1.2.6 foi lan?ado com v?rias corre??es de erros e suporte para 1.19.1! Baixe em: {link}",
+    "he_il": "????? 1.2.6 ????? ??????, ?? ?????? ????? ?????? ?1.19.1! ??? ???? ?: {link}",
+    "uk_ua": "Випущено Iris 1.2.6 із численними виправленнями помилок і підтримкою 1.19.1! Завантажте його за посиланням: {link}",
+    "fr_fr": "Iris 1.2.6 est d?sormais disponible, avec multiples corrections de bugs et l’ajout de la compatibilit? avec la 1.19.1 ! Disponible en t?l?chargement sur ce lien : {link}",
+    "pl_pl": "Iris 1.2.6 zosta? wydany, z wieloma poprawkami b??d?w i obs?ug? wersji 1.19.1! Pobierz z {link}",
+    "ru_ru": "Выпущен Iris 1.2.6, где присутствует несколько исправлений старых ошибок и поддержка 1.19.1! Скачать: {link}",
+    "en_pt": "Iris 1.2.6 has been located on our map, with coffers o' bug squishes and now is workin' for 1.19.1. X marks the spot: {link}",
+    "ua_ua": "Випущено Iris 1.2.6. Наявні: декілька виправлень старих помилок та підтримка 1.19.1! Завантажити: {link}",
+    "cs_cz": "Je dostupn? Iris 1.2.6 s n?kolika opravami chyb a podporou pro 1.19.1! St?hn?te si j? zde: {link}",
+    "lol_us": "Iriz 1.2.6 iz out!! Wif sum bug fixez an suport 4 vershun 1.19.1! Git it her!!: {link}",
+    "zh_cn": "Iris 1.2.6 ???????????????????? 1.19.1 ?????????{link}",
+    "en_ud": "{link} :?? ?? p?o?u?o? ???6??? ?o? ??oddns pu? s?x?? ?nq ??d???n? ???? ?p?s????? s?? 9???? s??I"
+},
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/iris",
+  "installer": "https://irisshaders.net"
+}

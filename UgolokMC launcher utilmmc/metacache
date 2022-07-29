@@ -1,0 +1,3897 @@
+{
+    "entries": [
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5f5e1051-ba79\"",
+            "last_changed_timestamp": 1641731441459,
+            "md5sum": "f73307699db37f68834e13b9b2711be9",
+            "path": "logos/ABitOfEverything",
+            "remote_changed_timestamp": "Sun, 13 Sep 2020 12:28:01 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"591a5f55-c154\"",
+            "last_changed_timestamp": 1641727809199,
+            "md5sum": "c9863ab531239dd5757ed83581676ce8",
+            "path": "logos/BeyondRealityFarscapes",
+            "remote_changed_timestamp": "Tue, 16 May 2017 02:09:25 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"57d43d7d-10c13\"",
+            "last_changed_timestamp": 1641727809151,
+            "md5sum": "62ae8e13f68ec327cbf463d246479532",
+            "path": "logos/MaterialEnergyNaturalCapital",
+            "remote_changed_timestamp": "Sat, 10 Sep 2016 17:06:05 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5f2b45b8-684a\"",
+            "last_changed_timestamp": 1641731441124,
+            "md5sum": "2b03d3755a033946c044b82d5454896a",
+            "path": "logos/OceanOutlast",
+            "remote_changed_timestamp": "Wed, 05 Aug 2020 23:50:16 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5f6bbb9c-a77a\"",
+            "last_changed_timestamp": 1641727809154,
+            "md5sum": "32aecfd02cde802dafa362abcec56c91",
+            "path": "logos/PixelmonMod",
+            "remote_changed_timestamp": "Wed, 23 Sep 2020 21:18:20 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5ab5e73e-13418\"",
+            "last_changed_timestamp": 1641727809172,
+            "md5sum": "f0157ce24e7aa07cd3bf1de7a03a75a1",
+            "path": "logos/SevTechAges",
+            "remote_changed_timestamp": "Sat, 24 Mar 2018 05:50:54 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5305369d-796b\"",
+            "last_changed_timestamp": 1641727809134,
+            "md5sum": "b2e26e816e55469fbc163bdc1161f5d6",
+            "path": "logos/SilvaniaUltimatum",
+            "remote_changed_timestamp": "Wed, 19 Feb 2014 22:56:29 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"54a4e2e0-15577\"",
+            "last_changed_timestamp": 1641731441107,
+            "md5sum": "fdcea0d8e5f6a9ee5e475ce89ebd190d",
+            "path": "logos/SkyFactory",
+            "remote_changed_timestamp": "Thu, 01 Jan 2015 06:02:08 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5cb371b4-b1ad\"",
+            "last_changed_timestamp": 1641727809169,
+            "md5sum": "4b3e0485e307c91f4919bb3a9b2165d1",
+            "path": "logos/SkyFactory4",
+            "remote_changed_timestamp": "Sun, 14 Apr 2019 17:45:24 GMT"
+        },
+        {
+            "base": "ATLauncherPacks",
+            "etag": "\"5334b2cc-119d8\"",
+            "last_changed_timestamp": 1641731441455,
+            "md5sum": "00c271df04b79192dd5ce804255bc1b3",
+            "path": "logos/YogscastCompletePack",
+            "remote_changed_timestamp": "Thu, 27 Mar 2014 23:22:52 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "",
+            "last_changed_timestamp": 1641727812081,
+            "md5sum": "2d164c53710812c3ff730c55ded422af",
+            "path": "logos/FTBAcademyIcon",
+            "remote_changed_timestamp": "Tue, 20 Aug 2019 16:58:04 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "",
+            "last_changed_timestamp": 1641727812100,
+            "md5sum": "6b9bfea43f75e36e3ed84006b2fa8efe",
+            "path": "logos/FTBBuildersParadiseIcon",
+            "remote_changed_timestamp": "Mon, 29 Apr 2019 16:35:29 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "\"pp1bw864v\"",
+            "last_changed_timestamp": 1641727812134,
+            "md5sum": "21712425a5081b352fb9162ca52c1eee",
+            "path": "logos/FTBInteractionsIcon",
+            "remote_changed_timestamp": "Wed, 27 Mar 2019 17:14:32 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "",
+            "last_changed_timestamp": 1641727812189,
+            "md5sum": "a421c4391be673d2c668302852a7a55d",
+            "path": "logos/FTBPresentsStoneblock2Icon",
+            "remote_changed_timestamp": "Wed, 02 Jan 2019 23:16:28 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "\"poktxp6aq\"",
+            "last_changed_timestamp": 1641727812162,
+            "md5sum": "40ec0a5b37c0ad96c667c999236369eb",
+            "path": "logos/FTBSkyOdysseyIcon",
+            "remote_changed_timestamp": "Mon, 18 Mar 2019 19:25:01 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "",
+            "last_changed_timestamp": 1641727812218,
+            "md5sum": "d5cf2ceceab3e1bf59b683703874c9c5",
+            "path": "logos/FTBUltimateReloadedIcon",
+            "remote_changed_timestamp": "Mon, 11 Feb 2019 19:08:23 GMT"
+        },
+        {
+            "base": "FTBPacks",
+            "etag": "\"mdhh9w4ja\"",
+            "last_changed_timestamp": 1641727812042,
+            "md5sum": "fc22f972425bfdb8d79be9c385785df2",
+            "path": "logos/logo_ftb",
+            "remote_changed_timestamp": "Wed, 14 Nov 2012 15:20:20 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"b2e93fcbebfd88f68dec1ef9a4546f30\"",
+            "last_changed_timestamp": 1641731423825,
+            "md5sum": "b2e93fcbebfd88f68dec1ef9a4546f30",
+            "path": "logos/636544733395786830",
+            "remote_changed_timestamp": "Fri, 28 Aug 2020 22:58:59 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"057657c01f9d7de9c6bea3ae9b39435e\"",
+            "last_changed_timestamp": 1641731423854,
+            "md5sum": "057657c01f9d7de9c6bea3ae9b39435e",
+            "path": "logos/636554450588038771",
+            "remote_changed_timestamp": "Fri, 28 Aug 2020 22:59:51 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"ddbe366c71c94cf76aff338106590031\"",
+            "last_changed_timestamp": 1641731423888,
+            "md5sum": "ddbe366c71c94cf76aff338106590031",
+            "path": "logos/636576924791375629",
+            "remote_changed_timestamp": "Fri, 28 Aug 2020 23:02:06 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"ab5e3feaaa610d7dc2c82773f8080f98\"",
+            "last_changed_timestamp": 1641731423818,
+            "md5sum": "ab5e3feaaa610d7dc2c82773f8080f98",
+            "path": "logos/636907930795697123",
+            "remote_changed_timestamp": "Fri, 28 Aug 2020 23:41:48 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"f9282156bbd2b56189fb78c6116ccff7\"",
+            "last_changed_timestamp": 1641731423827,
+            "md5sum": "f9282156bbd2b56189fb78c6116ccff7",
+            "path": "logos/637170504522339068",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:16:54 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"85fb26e8d39d5f5e9f0974ffa250a6d5\"",
+            "last_changed_timestamp": 1641731423801,
+            "md5sum": "85fb26e8d39d5f5e9f0974ffa250a6d5",
+            "path": "logos/637199416702301560",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:21:25 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"413fab086285003339a76b7d2d577905\"",
+            "last_changed_timestamp": 1641731423731,
+            "md5sum": "413fab086285003339a76b7d2d577905",
+            "path": "logos/637276853291457748",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:37:50 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"381d24e8070e61890004e2e725e8c271\"",
+            "last_changed_timestamp": 1641731423810,
+            "md5sum": "381d24e8070e61890004e2e725e8c271",
+            "path": "logos/637314732010369633",
+            "remote_changed_timestamp": "Sat, 29 Aug 2020 00:45:04 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"9d92cbe14771933aeec49d2ba1ad4923\"",
+            "last_changed_timestamp": 1641731423749,
+            "md5sum": "9d92cbe14771933aeec49d2ba1ad4923",
+            "path": "logos/637348450180876264",
+            "remote_changed_timestamp": "Mon, 30 Nov 2020 14:51:35 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"f6a4c85af29c7afcda5176df0a7e83ab\"",
+            "last_changed_timestamp": 1641731423758,
+            "md5sum": "f6a4c85af29c7afcda5176df0a7e83ab",
+            "path": "logos/637351626050046394",
+            "remote_changed_timestamp": "Mon, 30 Nov 2020 14:52:11 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"808babf133467a87b1b5d63891e2c238\"",
+            "last_changed_timestamp": 1641731423850,
+            "md5sum": "808babf133467a87b1b5d63891e2c238",
+            "path": "logos/637485779500419856",
+            "remote_changed_timestamp": "Wed, 10 Feb 2021 18:19:11 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"93d2c6533a11381f47b328deaa4052b7\"",
+            "last_changed_timestamp": 1641731423885,
+            "md5sum": "93d2c6533a11381f47b328deaa4052b7",
+            "path": "logos/637581040113975390",
+            "remote_changed_timestamp": "Tue, 01 Jun 2021 00:26:52 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"20e81f0e4e8d514e4d7e4b56331a90d0\"",
+            "last_changed_timestamp": 1641731423844,
+            "md5sum": "20e81f0e4e8d514e4d7e4b56331a90d0",
+            "path": "logos/637584581193129752",
+            "remote_changed_timestamp": "Sat, 05 Jun 2021 02:48:40 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"c2b9de67b3db021355d6d354acfeef25\"",
+            "last_changed_timestamp": 1641731423878,
+            "md5sum": "c2b9de67b3db021355d6d354acfeef25",
+            "path": "logos/637598883971484204",
+            "remote_changed_timestamp": "Mon, 21 Jun 2021 16:06:38 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"ee35eb9f0f599ffeb3c9ef3789949725\"",
+            "last_changed_timestamp": 1641731423752,
+            "md5sum": "ee35eb9f0f599ffeb3c9ef3789949725",
+            "path": "logos/637598884743521032",
+            "remote_changed_timestamp": "Mon, 21 Jun 2021 16:07:55 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"7e5a8db97da086d182445b6656bc82dd\"",
+            "last_changed_timestamp": 1641731423769,
+            "md5sum": "7e5a8db97da086d182445b6656bc82dd",
+            "path": "logos/637643167268140746",
+            "remote_changed_timestamp": "Wed, 11 Aug 2021 22:12:08 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"3bf05dc0daf55a1e23edb76af9d9ef99\"",
+            "last_changed_timestamp": 1641731423816,
+            "md5sum": "3bf05dc0daf55a1e23edb76af9d9ef99",
+            "path": "logos/637655127208469637",
+            "remote_changed_timestamp": "Wed, 25 Aug 2021 18:25:23 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"3bf05dc0daf55a1e23edb76af9d9ef99\"",
+            "last_changed_timestamp": 1641731423838,
+            "md5sum": "3bf05dc0daf55a1e23edb76af9d9ef99",
+            "path": "logos/637658498952878032",
+            "remote_changed_timestamp": "Sun, 29 Aug 2021 16:04:57 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"3fc8aab93a5fa4d962cf3a56b280b32e\"",
+            "last_changed_timestamp": 1641731423873,
+            "md5sum": "3fc8aab93a5fa4d962cf3a56b280b32e",
+            "path": "logos/637658644701171074",
+            "remote_changed_timestamp": "Sun, 29 Aug 2021 20:07:52 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"8e33f399c5d5d27b01514f4ad5ffd167\"",
+            "last_changed_timestamp": 1641731423833,
+            "md5sum": "8e33f399c5d5d27b01514f4ad5ffd167",
+            "path": "logos/637660316263857358",
+            "remote_changed_timestamp": "Tue, 31 Aug 2021 18:33:48 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"4035cdfb45c9dc693c31780664cf2064\"",
+            "last_changed_timestamp": 1641731423938,
+            "md5sum": "4035cdfb45c9dc693c31780664cf2064",
+            "path": "logos/637667061539266129",
+            "remote_changed_timestamp": "Wed, 08 Sep 2021 14:00:05 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"eedf7a74bf29e680c838f18c53a31b13\"",
+            "last_changed_timestamp": 1641731423740,
+            "md5sum": "eedf7a74bf29e680c838f18c53a31b13",
+            "path": "logos/637704577443199034",
+            "remote_changed_timestamp": "Fri, 22 Oct 2021 00:02:25 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"d092f25456587238940bf46aa2a39bef\"",
+            "last_changed_timestamp": 1641731423772,
+            "md5sum": "d092f25456587238940bf46aa2a39bef",
+            "path": "logos/637708132578116494",
+            "remote_changed_timestamp": "Tue, 26 Oct 2021 02:47:39 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"d092f25456587238940bf46aa2a39bef\"",
+            "last_changed_timestamp": 1641731423786,
+            "md5sum": "d092f25456587238940bf46aa2a39bef",
+            "path": "logos/637710680024478921",
+            "remote_changed_timestamp": "Fri, 29 Oct 2021 01:33:23 GMT"
+        },
+        {
+            "base": "FlamePacks",
+            "etag": "\"12b15ee23fc716e889d04efb0901ecfc\"",
+            "last_changed_timestamp": 1641731423805,
+            "md5sum": "12b15ee23fc716e889d04efb0901ecfc",
+            "path": "logos/637751369169569212",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 03:48:38 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vlslh0x\"",
+            "last_changed_timestamp": 1641731437574,
+            "md5sum": "1153fe2e9a1982eae56f9275dd12bb74",
+            "path": "logos/Direwolf20 1",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:56:16 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qvitl4c25j\"",
+            "last_changed_timestamp": 1641731436328,
+            "md5sum": "1de09d50b89701cdb13e750b69723e3e",
+            "path": "logos/FTB Academy 1",
+            "remote_changed_timestamp": "Wed, 30 Jun 2021 15:27:04 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qxl0qk130d\"",
+            "last_changed_timestamp": 1641731436257,
+            "md5sum": "52a196a889e8d5668ce625368aa0c999",
+            "path": "logos/FTB Competition Pack",
+            "remote_changed_timestamp": "Mon, 09 Aug 2021 17:03:56 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qrb56ffwvp\"",
+            "last_changed_timestamp": 1641731436405,
+            "md5sum": "964cffaede56114ab9f922d4515176b6",
+            "path": "logos/FTB Cotton",
+            "remote_changed_timestamp": "Fri, 09 Apr 2021 17:42:15 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qoocp9100k5\"",
+            "last_changed_timestamp": 1641731436503,
+            "md5sum": "d7a58304e654b29dbc45d6904825d989",
+            "path": "logos/FTB Endeavour",
+            "remote_changed_timestamp": "Wed, 17 Feb 2021 13:12:45 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82v735spo\"",
+            "last_changed_timestamp": 1641731438247,
+            "md5sum": "c39c3c8c915ec93550fe50adffb7e7aa",
+            "path": "logos/FTB Infinity Evolved 1",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:47:27 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vhyqs2x\"",
+            "last_changed_timestamp": 1641731436591,
+            "md5sum": "d9b98883e89a24e1bcbcabff69ab2d72",
+            "path": "logos/FTB Mage Quest",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:53:58 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qz2vjq7beq\"",
+            "last_changed_timestamp": 1641731436225,
+            "md5sum": "4fb86cf634471e820879a05918d6efa7",
+            "path": "logos/FTB OceanBlock",
+            "remote_changed_timestamp": "Tue, 07 Sep 2021 19:02:14 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vs01icf\"",
+            "last_changed_timestamp": 1641731437789,
+            "md5sum": "e902f0731a184e5e20ca7880cc2106a6",
+            "path": "logos/FTB Pax Challenge Pack 2013",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 22:00:00 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qy2x3hbv1d\"",
+            "last_changed_timestamp": 1641731436553,
+            "md5sum": "6e31b8ab5d172bf7c4dd9f6fa502c021",
+            "path": "logos/FTB Presents Direwolf20 1",
+            "remote_changed_timestamp": "Thu, 19 Aug 2021 09:02:05 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82v607j8l\"",
+            "last_changed_timestamp": 1641731438187,
+            "md5sum": "b2db3d0090fee65a51830be196d25000",
+            "path": "logos/FTB Presents Skyfactory 3",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:46:48 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82uwvgin0\"",
+            "last_changed_timestamp": 1641731438616,
+            "md5sum": "d5370d23f85606a41e219f7eefde4dc3",
+            "path": "logos/FTB Presents Stoneblock 2",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:41:19 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82v0y88mz\"",
+            "last_changed_timestamp": 1641731437971,
+            "md5sum": "5fd148d4c9d63a482433410c1b3313f5",
+            "path": "logos/FTB Revelation",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:43:46 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vo829xc4\"",
+            "last_changed_timestamp": 1641731436920,
+            "md5sum": "21f1357932ab0e85a3ac9db05c507d45",
+            "path": "logos/FTB Tech World",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:57:44 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82v0igqm0\"",
+            "last_changed_timestamp": 1641731437933,
+            "md5sum": "ed1649b0d5029fe7520113db1aff4a8b",
+            "path": "logos/FTB Ultimate Reloaded",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:43:30 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"qxnrykp3vx\"",
+            "last_changed_timestamp": 1641731436278,
+            "md5sum": "4d149b9cfac27b08a944ea40d26b4112",
+            "path": "logos/FTB University 1",
+            "remote_changed_timestamp": "Wed, 11 Aug 2021 04:47:08 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vmki3qy\"",
+            "last_changed_timestamp": 1641731436848,
+            "md5sum": "d7eeedb1166f811e90cb6acaaf9dab50",
+            "path": "logos/MindCrack Pack",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:56:44 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vq3x8ml\"",
+            "last_changed_timestamp": 1641731437809,
+            "md5sum": "01a52dcaf78826cc37547637849abf2f",
+            "path": "logos/Pax East 2014 Map",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:58:51 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vt71icf\"",
+            "last_changed_timestamp": 1641731437721,
+            "md5sum": "e902f0731a184e5e20ca7880cc2106a6",
+            "path": "logos/Slow's Stream Pack",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 22:00:43 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"f5e1-5b32825839f40\"",
+            "last_changed_timestamp": 1641731436654,
+            "md5sum": "29a53da82ee1882c121366afa0167dee",
+            "path": "logos/Vanilla",
+            "remote_changed_timestamp": "Sat, 27 Nov 2021 14:43:39 GMT"
+        },
+        {
+            "base": "ModpacksCHPacks",
+            "etag": "\"q82vmy1icf\"",
+            "last_changed_timestamp": 1641731436749,
+            "md5sum": "e902f0731a184e5e20ca7880cc2106a6",
+            "path": "logos/YogCraft Modpack",
+            "remote_changed_timestamp": "Tue, 31 Mar 2020 21:56:58 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"390ae295d2eecbc42ed247fdb38a01f9\"",
+            "last_changed_timestamp": 1641727811595,
+            "md5sum": "390ae295d2eecbc42ed247fdb38a01f9",
+            "path": "logos/1047780",
+            "remote_changed_timestamp": "Wed, 17 Jul 2019 12:58:12 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"741932453ce1f743ff3561cb1457fe33\"",
+            "last_changed_timestamp": 1641727811579,
+            "md5sum": "741932453ce1f743ff3561cb1457fe33",
+            "path": "logos/1060474",
+            "remote_changed_timestamp": "Thu, 27 Jul 2017 20:51:08 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"544ddf7c0d0b1529d7c82174dad13625\"",
+            "last_changed_timestamp": 1641727811654,
+            "md5sum": "544ddf7c0d0b1529d7c82174dad13625",
+            "path": "logos/1099718",
+            "remote_changed_timestamp": "Fri, 22 Sep 2017 03:42:04 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"a941c8a44843b1e0eb964337e6678a42\"",
+            "last_changed_timestamp": 1641727811629,
+            "md5sum": "a941c8a44843b1e0eb964337e6678a42",
+            "path": "logos/1150759",
+            "remote_changed_timestamp": "Tue, 26 Dec 2017 18:07:30 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"290a83a2daec96138308ba4a8cca0951\"",
+            "last_changed_timestamp": 1641727811945,
+            "md5sum": "290a83a2daec96138308ba4a8cca0951",
+            "path": "logos/1186950",
+            "remote_changed_timestamp": "Mon, 12 Mar 2018 22:48:44 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"10b279e239f2a431331d3b352e403df2\"",
+            "last_changed_timestamp": 1641727811600,
+            "md5sum": "10b279e239f2a431331d3b352e403df2",
+            "path": "logos/1253751",
+            "remote_changed_timestamp": "Thu, 09 Jul 2020 20:09:04 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"49436378da22775d1b9c171a44ff15e3\"",
+            "last_changed_timestamp": 1641727811670,
+            "md5sum": "49436378da22775d1b9c171a44ff15e3",
+            "path": "logos/1330533",
+            "remote_changed_timestamp": "Sat, 15 Dec 2018 07:59:15 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"7b081a9eb0808d53bdd62cb7165f47d2\"",
+            "last_changed_timestamp": 1641727811706,
+            "md5sum": "7b081a9eb0808d53bdd62cb7165f47d2",
+            "path": "logos/1361984",
+            "remote_changed_timestamp": "Sat, 12 Jan 2019 01:27:05 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"a0dc42872967eb780890ce46cacf8e7c\"",
+            "last_changed_timestamp": 1641727812040,
+            "md5sum": "a0dc42872967eb780890ce46cacf8e7c",
+            "path": "logos/1389259",
+            "remote_changed_timestamp": "Wed, 27 Feb 2019 04:10:01 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"6374fed29fc03a04edecd6d2220b14c8\"",
+            "last_changed_timestamp": 1641727811540,
+            "md5sum": "6374fed29fc03a04edecd6d2220b14c8",
+            "path": "logos/1406454",
+            "remote_changed_timestamp": "Wed, 23 Oct 2019 22:35:32 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"ca7b06ca2770d3d5ae44b84419ba76cc\"",
+            "last_changed_timestamp": 1641727811665,
+            "md5sum": "ca7b06ca2770d3d5ae44b84419ba76cc",
+            "path": "logos/1446032",
+            "remote_changed_timestamp": "Sun, 02 Jun 2019 01:11:47 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"3a1335a0f63a557cd7eda007ae4d78d1\"",
+            "last_changed_timestamp": 1641727811563,
+            "md5sum": "3a1335a0f63a557cd7eda007ae4d78d1",
+            "path": "logos/1530385",
+            "remote_changed_timestamp": "Wed, 18 Sep 2019 21:22:08 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"cb9b45a74b2996b5931fe0d556a35dc3\"",
+            "last_changed_timestamp": 1641727811750,
+            "md5sum": "cb9b45a74b2996b5931fe0d556a35dc3",
+            "path": "logos/1554850",
+            "remote_changed_timestamp": "Sun, 20 Oct 2019 00:15:50 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"02bf418c2320c3c3f68ebcf73918ad73\"",
+            "last_changed_timestamp": 1641727811639,
+            "md5sum": "02bf418c2320c3c3f68ebcf73918ad73",
+            "path": "logos/1634386",
+            "remote_changed_timestamp": "Wed, 04 Mar 2020 14:02:41 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"5e9558ef2495e83a56141f026243b665\"",
+            "last_changed_timestamp": 1641727811616,
+            "md5sum": "5e9558ef2495e83a56141f026243b665",
+            "path": "logos/1679841",
+            "remote_changed_timestamp": "Sun, 30 Aug 2020 18:23:49 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"27a4c156270f7a8c78c7ac3637bd8a84\"",
+            "last_changed_timestamp": 1641727811783,
+            "md5sum": "27a4c156270f7a8c78c7ac3637bd8a84",
+            "path": "logos/1696665",
+            "remote_changed_timestamp": "Sat, 30 May 2020 12:14:56 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"57be7bc5ee3b570a27b417439a16293e\"",
+            "last_changed_timestamp": 1641727811690,
+            "md5sum": "57be7bc5ee3b570a27b417439a16293e",
+            "path": "logos/1713851",
+            "remote_changed_timestamp": "Wed, 01 Jul 2020 16:27:26 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"491637e0d462fdc0bab5ee197077486a\"",
+            "last_changed_timestamp": 1641727811637,
+            "md5sum": "491637e0d462fdc0bab5ee197077486a",
+            "path": "logos/1718228",
+            "remote_changed_timestamp": "Thu, 09 Jul 2020 20:08:34 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"87e21f26fa197b9c1f4159067a3c7fea\"",
+            "last_changed_timestamp": 1641727811686,
+            "md5sum": "87e21f26fa197b9c1f4159067a3c7fea",
+            "path": "logos/1720832",
+            "remote_changed_timestamp": "Wed, 15 Jul 2020 05:38:38 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"f59521f299dc7de6ac22d695e478cac9\"",
+            "last_changed_timestamp": 1641727811653,
+            "md5sum": "f59521f299dc7de6ac22d695e478cac9",
+            "path": "logos/1787274",
+            "remote_changed_timestamp": "Fri, 11 Dec 2020 13:17:44 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"aa10488b62ca30a73cdbeda5f8b412e0\"",
+            "last_changed_timestamp": 1641727811666,
+            "md5sum": "aa10488b62ca30a73cdbeda5f8b412e0",
+            "path": "logos/1787279",
+            "remote_changed_timestamp": "Fri, 11 Dec 2020 13:22:53 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"f3c803a099599b1780d9cbce7bec5142\"",
+            "last_changed_timestamp": 1641727811734,
+            "md5sum": "f3c803a099599b1780d9cbce7bec5142",
+            "path": "logos/1790853",
+            "remote_changed_timestamp": "Sun, 20 Dec 2020 10:26:01 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"e693ce60ba598ea21e1c5c18c3b07b49\"",
+            "last_changed_timestamp": 1641727811645,
+            "md5sum": "e693ce60ba598ea21e1c5c18c3b07b49",
+            "path": "logos/1804792",
+            "remote_changed_timestamp": "Tue, 19 Jan 2021 12:50:32 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"9dfcbf1797fc01154a2b7a477b4be8c9\"",
+            "last_changed_timestamp": 1641727811858,
+            "md5sum": "9dfcbf1797fc01154a2b7a477b4be8c9",
+            "path": "logos/1820771",
+            "remote_changed_timestamp": "Mon, 22 Mar 2021 17:11:30 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"6af0c3c49bf789d66c281f9b14913b0d\"",
+            "last_changed_timestamp": 1641727811955,
+            "md5sum": "6af0c3c49bf789d66c281f9b14913b0d",
+            "path": "logos/1867514",
+            "remote_changed_timestamp": "Mon, 16 Aug 2021 10:36:48 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"9eacf7dae26182ae81082e5f364302b6\"",
+            "last_changed_timestamp": 1641727811612,
+            "md5sum": "9eacf7dae26182ae81082e5f364302b6",
+            "path": "logos/1867904",
+            "remote_changed_timestamp": "Wed, 05 Jan 2022 23:43:15 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"9fac9aaafa186aa2603d9cc91828b0ea\"",
+            "last_changed_timestamp": 1641727811726,
+            "md5sum": "9fac9aaafa186aa2603d9cc91828b0ea",
+            "path": "logos/1878956",
+            "remote_changed_timestamp": "Mon, 06 Sep 2021 07:00:10 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"2994c07a7aa6db1c5d4f63cfb417c725\"",
+            "last_changed_timestamp": 1641727811997,
+            "md5sum": "2994c07a7aa6db1c5d4f63cfb417c725",
+            "path": "logos/1892151",
+            "remote_changed_timestamp": "Mon, 08 Nov 2021 08:10:38 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"51f69d945e27e8f8725fa90183f92692\"",
+            "last_changed_timestamp": 1641727811638,
+            "md5sum": "51f69d945e27e8f8725fa90183f92692",
+            "path": "logos/1896415",
+            "remote_changed_timestamp": "Wed, 01 Dec 2021 15:52:08 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"8e5a0be2396f57ea448aa38e6ab48e3a\"",
+            "last_changed_timestamp": 1641727811646,
+            "md5sum": "8e5a0be2396f57ea448aa38e6ab48e3a",
+            "path": "logos/1896416",
+            "remote_changed_timestamp": "Wed, 01 Dec 2021 16:21:40 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"e6e002a52a7d901a5873c9bc495194aa\"",
+            "last_changed_timestamp": 1641727811822,
+            "md5sum": "e6e002a52a7d901a5873c9bc495194aa",
+            "path": "logos/4030",
+            "remote_changed_timestamp": "Tue, 13 Nov 2018 08:38:55 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"43c03f6b0eb5241de67db543da74cbaa\"",
+            "last_changed_timestamp": 1641727811864,
+            "md5sum": "43c03f6b0eb5241de67db543da74cbaa",
+            "path": "logos/41792",
+            "remote_changed_timestamp": "Mon, 21 Mar 2016 20:44:51 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"c7568d731ef23b555e054ea23a753bf0\"",
+            "last_changed_timestamp": 1641727811575,
+            "md5sum": "c7568d731ef23b555e054ea23a753bf0",
+            "path": "logos/453902",
+            "remote_changed_timestamp": "Mon, 29 Aug 2016 02:34:11 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"fa5674a5ca0c619873d9903ffe842755\"",
+            "last_changed_timestamp": 1641727811842,
+            "md5sum": "fa5674a5ca0c619873d9903ffe842755",
+            "path": "logos/509607",
+            "remote_changed_timestamp": "Thu, 01 Mar 2018 16:45:54 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"6eea4a871e47a55dca584e49f1746d25\"",
+            "last_changed_timestamp": 1641727811802,
+            "md5sum": "6eea4a871e47a55dca584e49f1746d25",
+            "path": "logos/514485",
+            "remote_changed_timestamp": "Sat, 02 May 2020 00:33:30 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"bcecb836c65ad5dec4f430bd7844e362\"",
+            "last_changed_timestamp": 1641727811766,
+            "md5sum": "bcecb836c65ad5dec4f430bd7844e362",
+            "path": "logos/533075",
+            "remote_changed_timestamp": "Sun, 19 Nov 2017 05:07:45 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"f08628d655212e74d0b887358683259d\"",
+            "last_changed_timestamp": 1641727811610,
+            "md5sum": "f08628d655212e74d0b887358683259d",
+            "path": "logos/677387",
+            "remote_changed_timestamp": "Thu, 25 Feb 2016 20:57:40 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"6b998af1ec8896b7197b5d90f1b5e1f7\"",
+            "last_changed_timestamp": 1641727811703,
+            "md5sum": "6b998af1ec8896b7197b5d90f1b5e1f7",
+            "path": "logos/777278",
+            "remote_changed_timestamp": "Tue, 15 Dec 2015 19:03:47 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"a32d99de5dd2368b95b266ecc842212b\"",
+            "last_changed_timestamp": 1641727811626,
+            "md5sum": "a32d99de5dd2368b95b266ecc842212b",
+            "path": "logos/786294",
+            "remote_changed_timestamp": "Thu, 01 Nov 2018 23:14:28 GMT"
+        },
+        {
+            "base": "TechnicPacks",
+            "etag": "\"05daffcf6a3bfcf9041f9e2edfbe01a6\"",
+            "last_changed_timestamp": 1641727811599,
+            "md5sum": "05daffcf6a3bfcf9041f9e2edfbe01a6",
+            "path": "logos/959027",
+            "remote_changed_timestamp": "Fri, 27 Jan 2017 08:06:22 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"0x8DA1CDD71B8CE30+gzip\"",
+            "last_changed_timestamp": 1658225002475,
+            "md5sum": "0cde3ec9e3469ef4c31513637071447e",
+            "path": "1.12.json",
+            "remote_changed_timestamp": "Tue, 12 Apr 2022 23:37:44 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"ddb25188c95fb90a0b8fef69da6dfd7d\"",
+            "last_changed_timestamp": 1642794977588,
+            "md5sum": "ddb25188c95fb90a0b8fef69da6dfd7d",
+            "path": "1.13.1.json",
+            "remote_changed_timestamp": "Wed, 30 Jan 2019 15:25:58 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"7c1e9c18dcc1c4407ee5cc4ce349aafd\"",
+            "last_changed_timestamp": 1642795144270,
+            "md5sum": "7c1e9c18dcc1c4407ee5cc4ce349aafd",
+            "path": "1.14.json",
+            "remote_changed_timestamp": "Thu, 22 Aug 2019 12:48:20 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"cc55026be57a331829a36f79cc182ed2\"",
+            "last_changed_timestamp": 1645794680801,
+            "md5sum": "cc55026be57a331829a36f79cc182ed2",
+            "path": "1.15.json",
+            "remote_changed_timestamp": "Tue, 29 Jun 2021 15:18:44 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"0x8DA1CDD6847F065+gzip\"",
+            "last_changed_timestamp": 1658224929426,
+            "md5sum": "14050f4533022cdbbdc8015dd58e34d7",
+            "path": "1.16.json",
+            "remote_changed_timestamp": "Tue, 12 Apr 2022 23:37:28 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"0x8DA48B2D084EB02+gzip\"",
+            "last_changed_timestamp": 1657302634027,
+            "md5sum": "5faef8f73238669f7f5556108ee985ea",
+            "path": "1.18.json",
+            "remote_changed_timestamp": "Tue, 07 Jun 2022 18:23:26 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"0x8DA6FB5143C34C1+gzip\"",
+            "last_changed_timestamp": 1659015634306,
+            "md5sum": "35a95b4b5baf3b596be017f10ab645c9",
+            "path": "1.19.json",
+            "remote_changed_timestamp": "Wed, 27 Jul 2022 09:47:54 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"0x8DA1CDD697521D7+gzip\"",
+            "last_changed_timestamp": 1656867391398,
+            "md5sum": "fc494ef51de430698123fad1fb928410",
+            "path": "1.7.10.json",
+            "remote_changed_timestamp": "Tue, 12 Apr 2022 23:37:30 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"6155398ec2c908bed2764d752030d8ce\"",
+            "last_changed_timestamp": 1642794737122,
+            "md5sum": "6155398ec2c908bed2764d752030d8ce",
+            "path": "1.8.json",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:22:53 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"73e8c1d4445b71a97dad6161b47b242e\"",
+            "last_changed_timestamp": 1641729866635,
+            "md5sum": "73e8c1d4445b71a97dad6161b47b242e",
+            "path": "legacy.json",
+            "remote_changed_timestamp": "Thu, 23 Aug 2018 13:06:54 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "etag": "\"e24c084df656f54a33b690da5c9cb4dd\"",
+            "last_changed_timestamp": 1641729789267,
+            "md5sum": "e24c084df656f54a33b690da5c9cb4dd",
+            "path": "pre-1.6.json",
+            "remote_changed_timestamp": "Thu, 14 Feb 2019 15:24:33 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"61965a1b-4bf6b\"",
+            "last_changed_timestamp": 1641729794473,
+            "md5sum": "a6bdf3589800031197a375c96bbddb07",
+            "path": "authlib-injector-1.1.40.jar",
+            "remote_changed_timestamp": "Thu, 18 Nov 2021 13:50:19 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"622ae2ab-4cb0e\"",
+            "last_changed_timestamp": 1647276329011,
+            "md5sum": "e89f2653f5f644512aa67c9d214a8a8a",
+            "path": "authlib-injector-1.1.41.jar",
+            "remote_changed_timestamp": "Fri, 11 Mar 2022 05:48:27 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"6230d615-4d762\"",
+            "last_changed_timestamp": 1647615813153,
+            "md5sum": "234b653046219deff925711af0b4206a",
+            "path": "authlib-injector-1.1.42.jar",
+            "remote_changed_timestamp": "Tue, 15 Mar 2022 18:08:21 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"6260412f-4d7c3\"",
+            "last_changed_timestamp": 1650697619273,
+            "md5sum": "b337cc1c2ba232769cd04e0042587817",
+            "path": "authlib-injector-1.1.43.jar",
+            "remote_changed_timestamp": "Wed, 20 Apr 2022 17:21:51 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"627131a8-4ef3e\"",
+            "last_changed_timestamp": 1651588226024,
+            "md5sum": "79e7d4c4d46a46a1458a9a18af46ba63",
+            "path": "authlib-injector-1.1.44.jar",
+            "remote_changed_timestamp": "Tue, 03 May 2022 13:44:08 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"629e417f-4f8c3\"",
+            "last_changed_timestamp": 1654778760016,
+            "md5sum": "840529c6e1f10f4d7099b9b6afc8457d",
+            "path": "authlib-injector-1.1.45.jar",
+            "remote_changed_timestamp": "Mon, 06 Jun 2022 18:03:43 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"62bfe07e-504cf\"",
+            "last_changed_timestamp": 1656867393218,
+            "md5sum": "72cb6d8fc67a122697380e14b315d575",
+            "path": "authlib-injector-1.1.46.jar",
+            "remote_changed_timestamp": "Sat, 02 Jul 2022 06:06:54 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"62d00005-5075e\"",
+            "last_changed_timestamp": 1657904930247,
+            "md5sum": "cddcfe1c0a268b744570a8376c242ae8",
+            "path": "authlib-injector-1.1.47.jar",
+            "remote_changed_timestamp": "Thu, 14 Jul 2022 11:37:41 GMT"
+        },
+        {
+            "base": "injectors",
+            "etag": "\"62d00005-f7\"",
+            "last_changed_timestamp": 1657904929977,
+            "md5sum": "db52ad7dd24e4f9f54598f5efbfa1896",
+            "path": "version.json",
+            "remote_changed_timestamp": "Thu, 14 Jul 2022 11:37:41 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879648,
+            "md5sum": "093b0ca357d3f8b922170b8d7f43948c",
+            "path": "com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879428,
+            "md5sum": "615b8e62371c536f876764591990118d",
+            "path": "com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879694,
+            "md5sum": "839a86cf1533e75121d574317de78692",
+            "path": "com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3e682bca6a492ad165a6892a67869bea\"",
+            "last_changed_timestamp": 1641731832530,
+            "md5sum": "3e682bca6a492ad165a6892a67869bea",
+            "path": "com/github/oshi/oshi-core/5.8.2/oshi-core-5.8.2.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:09 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d9136523e32958ea5f192d18b5ef283c\"",
+            "last_changed_timestamp": 1649498886012,
+            "md5sum": "d9136523e32958ea5f192d18b5ef283c",
+            "path": "com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 08:12:41 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"dd83accb899363c32b07d7a1b2e4ce40\"",
+            "last_changed_timestamp": 1648992879762,
+            "md5sum": "dd83accb899363c32b07d7a1b2e4ce40",
+            "path": "com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2f54fc24807a4cad7297012dd8cebf3d\"",
+            "last_changed_timestamp": 1642794736416,
+            "md5sum": "2f54fc24807a4cad7297012dd8cebf3d",
+            "path": "com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a42f1f5bfa4e6f123ddcab3de7e0ff81\"",
+            "last_changed_timestamp": 1642500474211,
+            "md5sum": "a42f1f5bfa4e6f123ddcab3de7e0ff81",
+            "path": "com/google/code/gson/gson/2.8.0/gson-2.8.0.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879943,
+            "md5sum": "87b5c368aecef232d401f4a159e7b9af",
+            "path": "com/google/code/gson/gson/2.8.7/gson-2.8.7.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b85312b5570f86aff19100869b6bdbc6\"",
+            "last_changed_timestamp": 1641731832743,
+            "md5sum": "b85312b5570f86aff19100869b6bdbc6",
+            "path": "com/google/code/gson/gson/2.8.8/gson-2.8.8.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e67627f67e03301092dc7de0a2d7cef8\"",
+            "last_changed_timestamp": 1649498885979,
+            "md5sum": "e67627f67e03301092dc7de0a2d7cef8",
+            "path": "com/google/code/gson/gson/2.8.9/gson-2.8.9.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 10:06:29 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879842,
+            "md5sum": "97504b36cf871722d81a4b9e114f2a16",
+            "path": "com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"091883993ef5bfa91da01dcc8fc52236\"",
+            "last_changed_timestamp": 1641731833408,
+            "md5sum": "091883993ef5bfa91da01dcc8fc52236",
+            "path": "com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"89fef81c2adfa9b50a64ed5cd5d8c155\"",
+            "last_changed_timestamp": 1642794736521,
+            "md5sum": "89fef81c2adfa9b50a64ed5cd5d8c155",
+            "path": "com/google/guava/guava/17.0/guava-17.0.jar",
+            "remote_changed_timestamp": "Mon, 30 Jun 2014 07:54:59 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880316,
+            "md5sum": "f32a8a2524620dbecc9f6bf6a20c293f",
+            "path": "com/google/guava/guava/20.0/guava-20.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ddc91fd850fa6177c91aab5d4e4d1fa6\"",
+            "last_changed_timestamp": 1642500474274,
+            "md5sum": "ddc91fd850fa6177c91aab5d4e4d1fa6",
+            "path": "com/google/guava/guava/21.0/guava-21.0.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880416,
+            "md5sum": "da3838847d109ac435f0d3ed4ae1c794",
+            "path": "com/google/guava/guava/25.1-jre/guava-25.1-jre.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"bb811ca86cba6506cca5d415cd5559a7\"",
+            "last_changed_timestamp": 1641731832724,
+            "md5sum": "bb811ca86cba6506cca5d415cd5559a7",
+            "path": "com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880069,
+            "md5sum": "49ae3204bb0bb9b2ac77062641f4a6d7",
+            "path": "com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5c70803c-32763\"",
+            "last_changed_timestamp": 1645172126634,
+            "md5sum": "2a66dd6ae1115e7547be594d52ea7546",
+            "path": "com/google/jimfs/jimfs/1.1/jimfs-1.1.jar",
+            "remote_changed_timestamp": "Fri, 22 Feb 2019 23:05:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f0d9a4c-32e71\"",
+            "last_changed_timestamp": 1645795132791,
+            "md5sum": "c50b4e242956f647715da569855cd2de",
+            "path": "com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar",
+            "remote_changed_timestamp": "Tue, 14 Jul 2020 11:43:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"aec124acf7b3c1c6ed41a6270a4452b8\"",
+            "last_changed_timestamp": 1642500474169,
+            "md5sum": "aec124acf7b3c1c6ed41a6270a4452b8",
+            "path": "com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"667638ab9d9afa07e21e618e37662db7\"",
+            "last_changed_timestamp": 1642795361233,
+            "md5sum": "667638ab9d9afa07e21e618e37662db7",
+            "path": "com/ibm/icu/icu4j/66.1/icu4j-66.1.jar",
+            "remote_changed_timestamp": "Wed, 22 Apr 2020 12:33:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1be8018240774c697a812df60e23aed4\"",
+            "last_changed_timestamp": 1641731833311,
+            "md5sum": "1be8018240774c697a812df60e23aed4",
+            "path": "com/ibm/icu/icu4j/69.1/icu4j-69.1.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d0583e891bfeb065b17806d8c6535bda\"",
+            "last_changed_timestamp": 1649498886268,
+            "md5sum": "d0583e891bfeb065b17806d8c6535bda",
+            "path": "com/ibm/icu/icu4j/70.1/icu4j-70.1.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 08:12:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"70565f6a4aa38a8e8541ef019adbf8ad\"",
+            "last_changed_timestamp": 1642794736455,
+            "md5sum": "70565f6a4aa38a8e8541ef019adbf8ad",
+            "path": "com/mojang/authlib/1.5.21/authlib-1.5.21.jar",
+            "remote_changed_timestamp": "Fri, 17 Apr 2015 13:39:28 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"321723be87583ff5f427a37d74081370\"",
+            "last_changed_timestamp": 1642500474204,
+            "md5sum": "321723be87583ff5f427a37d74081370",
+            "path": "com/mojang/authlib/1.5.25/authlib-1.5.25.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:17:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"77445f0bfea9402cca525d31fff2e4c9\"",
+            "last_changed_timestamp": 1642795360642,
+            "md5sum": "77445f0bfea9402cca525d31fff2e4c9",
+            "path": "com/mojang/authlib/2.1.28/authlib-2.1.28.jar",
+            "remote_changed_timestamp": "Tue, 08 Dec 2020 09:19:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5483f7f944d8359dc0e12087d5a01418\"",
+            "last_changed_timestamp": 1641731832743,
+            "md5sum": "5483f7f944d8359dc0e12087d5a01418",
+            "path": "com/mojang/authlib/3.2.38/authlib-3.2.38.jar",
+            "remote_changed_timestamp": "Thu, 18 Nov 2021 13:25:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"41732a68641edd06d192b31a046de8f4\"",
+            "last_changed_timestamp": 1649498886009,
+            "md5sum": "41732a68641edd06d192b31a046de8f4",
+            "path": "com/mojang/authlib/3.3.39/authlib-3.3.39.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 09:59:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b3376f3b8a0f44da7eca682fe934bde7\"",
+            "last_changed_timestamp": 1654778739876,
+            "md5sum": "b3376f3b8a0f44da7eca682fe934bde7",
+            "path": "com/mojang/authlib/3.5.41/authlib-3.5.41.jar",
+            "remote_changed_timestamp": "Thu, 12 May 2022 10:23:29 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"fc1420e3182dd32b4df9933f810ebebb\"",
+            "last_changed_timestamp": 1649498885895,
+            "md5sum": "fc1420e3182dd32b4df9933f810ebebb",
+            "path": "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 09:53:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"48f584dc1a9ae4d49405b6e045fd1fd3\"",
+            "last_changed_timestamp": 1641731832433,
+            "md5sum": "48f584dc1a9ae4d49405b6e045fd1fd3",
+            "path": "com/mojang/blocklist/1.0.6/blocklist-1.0.6.jar",
+            "remote_changed_timestamp": "Wed, 26 May 2021 13:11:45 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"fcfe43660a7992e371d39ad9a1c512bc\"",
+            "last_changed_timestamp": 1642794975410,
+            "md5sum": "fcfe43660a7992e371d39ad9a1c512bc",
+            "path": "com/mojang/brigadier/1.0.14/brigadier-1.0.14.jar",
+            "remote_changed_timestamp": "Tue, 24 Jul 2018 12:53:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"fe87deeb6e062d678d2bff623fe4e2b9\"",
+            "last_changed_timestamp": 1642795142777,
+            "md5sum": "fe87deeb6e062d678d2bff623fe4e2b9",
+            "path": "com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar",
+            "remote_changed_timestamp": "Tue, 19 Feb 2019 12:42:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5abfdce5dcec9ce29769b28aa455a6fb\"",
+            "last_changed_timestamp": 1641731832707,
+            "md5sum": "5abfdce5dcec9ce29769b28aa455a6fb",
+            "path": "com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar",
+            "remote_changed_timestamp": "Tue, 23 Mar 2021 13:10:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"9b3aecd5533fc8a9ebabdd1f75d3da79\"",
+            "last_changed_timestamp": 1642794975457,
+            "md5sum": "9b3aecd5533fc8a9ebabdd1f75d3da79",
+            "path": "com/mojang/datafixerupper/1.0.19/datafixerupper-1.0.19.jar",
+            "remote_changed_timestamp": "Fri, 05 Oct 2018 13:15:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c754045f1898609ed37066019e81780a\"",
+            "last_changed_timestamp": 1642795142850,
+            "md5sum": "c754045f1898609ed37066019e81780a",
+            "path": "com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar",
+            "remote_changed_timestamp": "Fri, 05 Apr 2019 07:51:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2fed12ebc12229db27ac65d998622ba0\"",
+            "last_changed_timestamp": 1641731832775,
+            "md5sum": "2fed12ebc12229db27ac65d998622ba0",
+            "path": "com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar",
+            "remote_changed_timestamp": "Fri, 03 Jul 2020 09:35:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5fb5aec8949f21104bff23197571d573\"",
+            "last_changed_timestamp": 1649498886005,
+            "md5sum": "5fb5aec8949f21104bff23197571d573",
+            "path": "com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 10:01:06 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b9be462c07ecde5118ef532767c643cc\"",
+            "last_changed_timestamp": 1654778740030,
+            "md5sum": "b9be462c07ecde5118ef532767c643cc",
+            "path": "com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar",
+            "remote_changed_timestamp": "Fri, 08 Apr 2022 09:34:25 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3c77e86f133e0bad0bf522474621c324\"",
+            "last_changed_timestamp": 1642795142759,
+            "md5sum": "3c77e86f133e0bad0bf522474621c324",
+            "path": "com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar",
+            "remote_changed_timestamp": "Thu, 29 Nov 2018 07:56:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"636482f086e794f2cb227672828392fa\"",
+            "last_changed_timestamp": 1641731832560,
+            "md5sum": "636482f086e794f2cb227672828392fa",
+            "path": "com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar",
+            "remote_changed_timestamp": "Tue, 13 Jul 2021 11:30:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"da749abbfc663e228464ab6b34b97072\"",
+            "last_changed_timestamp": 1649498885897,
+            "md5sum": "da749abbfc663e228464ab6b34b97072",
+            "path": "com/mojang/logging/1.0.0/logging-1.0.0.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 13:53:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3820d222b95d0b8c520d9596a756a6e6\"",
+            "last_changed_timestamp": 1642794650015,
+            "md5sum": "3820d222b95d0b8c520d9596a756a6e6",
+            "path": "com/mojang/minecraft/1.0/minecraft-1.0-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:17:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a04d78a332999a83e8e6f3d70f790c07-2\"",
+            "last_changed_timestamp": 1642500477095,
+            "md5sum": "8c0443868b9e46c77d39db61c755679d",
+            "path": "com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:18:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"adef3a0c6673308a1c4345dd0fc93c71-2\"",
+            "last_changed_timestamp": 1642794977383,
+            "md5sum": "0d20673fc03f9c6a60279146ee1b1a14",
+            "path": "com/mojang/minecraft/1.13.2/minecraft-1.13.2-client.jar",
+            "remote_changed_timestamp": "Mon, 22 Oct 2018 11:44:05 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6e5dd2bfdff8ff5ed750afa775d589b4-4\"",
+            "last_changed_timestamp": 1642795144200,
+            "md5sum": "5dd255be377ac11a4414c4bc6426daa7",
+            "path": "com/mojang/minecraft/1.14.4/minecraft-1.14.4-client.jar",
+            "remote_changed_timestamp": "Fri, 19 Jul 2019 09:27:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ed383aec47761c7bae9cdb8f3199e3d1-2\"",
+            "last_changed_timestamp": 1645794680485,
+            "md5sum": "1d87e7d75a99172f0cffc4f96cdc44da",
+            "path": "com/mojang/minecraft/1.15.2/minecraft-1.15.2-client.jar",
+            "remote_changed_timestamp": "Fri, 17 Jan 2020 10:06:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"4c07a21722a7c23280ae676d7866c721-3\"",
+            "last_changed_timestamp": 1642795361708,
+            "md5sum": "a57b9157ff3bb308208e79ef9e19187e",
+            "path": "com/mojang/minecraft/1.16.5/minecraft-1.16.5-client.jar",
+            "remote_changed_timestamp": "Thu, 14 Jan 2021 16:09:00 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"438af3335b7860aaf3fd7d438130e4ae-3\"",
+            "last_changed_timestamp": 1641731834821,
+            "md5sum": "7facee43f33c09a9c4c8632aa7c44fce",
+            "path": "com/mojang/minecraft/1.18.1/minecraft-1.18.1-client.jar",
+            "remote_changed_timestamp": "Fri, 10 Dec 2021 08:26:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b94b0b31faed787e058480b1ef5f3fb4-3\"",
+            "last_changed_timestamp": 1649498887633,
+            "md5sum": "91c8005d6c3e635dbdef135938200326",
+            "path": "com/mojang/minecraft/1.18.2/minecraft-1.18.2-client.jar",
+            "remote_changed_timestamp": "Mon, 28 Feb 2022 10:48:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7e40e78117f7384b6d7a8959b303750a-3\"",
+            "last_changed_timestamp": 1654778747930,
+            "md5sum": "c4b4e3aa6b9a79bdb9224cbdc801d7dd",
+            "path": "com/mojang/minecraft/1.19/minecraft-1.19-client.jar",
+            "remote_changed_timestamp": "Tue, 07 Jun 2022 09:47:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"0x8DA1CDE6FCA29A6\"",
+            "last_changed_timestamp": 1656867386514,
+            "md5sum": "e6b7a531b95d0c172acb704d1f54d1b3",
+            "path": "com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar",
+            "remote_changed_timestamp": "Tue, 12 Apr 2022 23:44:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"8663a10cecc10eaa683a927ef5371852\"",
+            "last_changed_timestamp": 1642794737048,
+            "md5sum": "8663a10cecc10eaa683a927ef5371852",
+            "path": "com/mojang/minecraft/1.8/minecraft-1.8-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:23:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"90026e70510820670118d4a8fb04750a-2\"",
+            "last_changed_timestamp": 1654956232789,
+            "md5sum": "5f2999719c5a728841cca6887ab1823f",
+            "path": "com/mojang/minecraft/20w14infinite/minecraft-20w14infinite-client.jar",
+            "remote_changed_timestamp": "Wed, 01 Apr 2020 12:51:30 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ae4d421-136f\"",
+            "last_changed_timestamp": 1641729866539,
+            "md5sum": "7e232112eeb04fdd9ce18d44e740f561",
+            "path": "com/mojang/minecraft/4k/minecraft-4k-client.jar",
+            "remote_changed_timestamp": "Sat, 28 Apr 2018 20:05:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ddd5e39467f28d1ea1a03b4d9e790867\"",
+            "last_changed_timestamp": 1641730476718,
+            "md5sum": "ddd5e39467f28d1ea1a03b4d9e790867",
+            "path": "com/mojang/minecraft/a1.2.6/minecraft-a1.2.6-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:16:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"f5f5aa34760facc10486e906a7c60196\"",
+            "last_changed_timestamp": 1641729939358,
+            "md5sum": "f5f5aa34760facc10486e906a7c60196",
+            "path": "com/mojang/minecraft/inf-20100618/minecraft-inf-20100618-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:16:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"99fdaea10c494b9c3c3254636b98b799\"",
+            "last_changed_timestamp": 1641729789112,
+            "md5sum": "99fdaea10c494b9c3c3254636b98b799",
+            "path": "com/mojang/minecraft/rd-132211/minecraft-rd-132211-client.jar",
+            "remote_changed_timestamp": "Tue, 21 Aug 2018 15:16:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5da4cd5158f975d44952b929ce835b7c\"",
+            "last_changed_timestamp": 1642794736333,
+            "md5sum": "5da4cd5158f975d44952b929ce835b7c",
+            "path": "com/mojang/netty/1.8.8/netty-1.8.8.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 14:41:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"4ade1d942adf9f69fc5ec0cd5e8e5693\"",
+            "last_changed_timestamp": 1642500474015,
+            "md5sum": "4ade1d942adf9f69fc5ec0cd5e8e5693",
+            "path": "com/mojang/patchy/1.3.9/patchy-1.3.9.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 14:42:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"9bb5fab2ee5e0364aada05342daec9c4\"",
+            "last_changed_timestamp": 1641731832436,
+            "md5sum": "9bb5fab2ee5e0364aada05342daec9c4",
+            "path": "com/mojang/patchy/2.1.6/patchy-2.1.6.jar",
+            "remote_changed_timestamp": "Wed, 26 May 2021 13:11:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ff905bf0aacf501149a13880a2d6742d\"",
+            "last_changed_timestamp": 1649498885899,
+            "md5sum": "ff905bf0aacf501149a13880a2d6742d",
+            "path": "com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 09:53:29 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e80b7704409e98daa919a3d9dac63d69\"",
+            "last_changed_timestamp": 1642500474372,
+            "md5sum": "e80b7704409e98daa919a3d9dac63d69",
+            "path": "com/mojang/realms/1.10.22/realms-1.10.22.jar",
+            "remote_changed_timestamp": "Mon, 25 Jun 2018 15:37:11 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a4290c0665c98be9836fbe9372e2c4e3\"",
+            "last_changed_timestamp": 1642794975733,
+            "md5sum": "a4290c0665c98be9836fbe9372e2c4e3",
+            "path": "com/mojang/realms/1.13.9/realms-1.13.9.jar",
+            "remote_changed_timestamp": "Mon, 22 Oct 2018 11:27:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"9b12c295c39ee87ee01a685b47021221\"",
+            "last_changed_timestamp": 1656867012773,
+            "md5sum": "9b12c295c39ee87ee01a685b47021221",
+            "path": "com/mojang/realms/1.3.5/realms-1.3.5.jar",
+            "remote_changed_timestamp": "Wed, 13 Aug 2014 07:43:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"86b49be1304c71f4f4632cc8fdfbe485\"",
+            "last_changed_timestamp": 1642794736510,
+            "md5sum": "86b49be1304c71f4f4632cc8fdfbe485",
+            "path": "com/mojang/realms/1.6.1/realms-1.6.1.jar",
+            "remote_changed_timestamp": "Fri, 07 Nov 2014 14:57:04 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2ceec2204daeb7588414098b9091be9e\"",
+            "last_changed_timestamp": 1642500476719,
+            "md5sum": "2ceec2204daeb7588414098b9091be9e",
+            "path": "com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar",
+            "remote_changed_timestamp": "Wed, 17 May 2017 08:32:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"40b91200489368d4593257b483ec8f7a\"",
+            "last_changed_timestamp": 1642500474317,
+            "md5sum": "40b91200489368d4593257b483ec8f7a",
+            "path": "com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar",
+            "remote_changed_timestamp": "Wed, 17 May 2017 08:32:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7b6c7d96820553c1c5ceafdf0851e00a\"",
+            "last_changed_timestamp": 1641731834161,
+            "md5sum": "7b6c7d96820553c1c5ceafdf0851e00a",
+            "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar",
+            "remote_changed_timestamp": "Mon, 08 Apr 2019 10:34:09 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"538b4224fa0c42012b4631fd1d25fd01\"",
+            "last_changed_timestamp": 1641731832872,
+            "md5sum": "538b4224fa0c42012b4631fd1d25fd01",
+            "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
+            "remote_changed_timestamp": "Mon, 08 Apr 2019 10:34:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"dc8f770c4fb59897f348879bb0363b63\"",
+            "last_changed_timestamp": 1649498886034,
+            "md5sum": "dc8f770c4fb59897f348879bb0363b63",
+            "path": "com/mojang/text2speech/1.12.4/text2speech-1.12.4-natives-windows.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 09:48:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"cf41f86af3d150fae73f272fbe7d884d\"",
+            "last_changed_timestamp": 1649498886031,
+            "md5sum": "cf41f86af3d150fae73f272fbe7d884d",
+            "path": "com/mojang/text2speech/1.12.4/text2speech-1.12.4.jar",
+            "remote_changed_timestamp": "Wed, 19 Jan 2022 09:48:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c3b067449cb94f6e8a0eef1af7feb179\"",
+            "last_changed_timestamp": 1654778739852,
+            "md5sum": "c3b067449cb94f6e8a0eef1af7feb179",
+            "path": "com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar",
+            "remote_changed_timestamp": "Mon, 07 Mar 2022 11:14:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880141,
+            "md5sum": "02058f3edd701db5a5230a427b9e8979",
+            "path": "com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880198,
+            "md5sum": "0a370fa0055d9d2840599332bd5cbf47",
+            "path": "com/opencsv/opencsv/4.4/opencsv-4.4.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"0d622e2ac4368b5a33d540a9e4819e0c\"",
+            "last_changed_timestamp": 1642500474096,
+            "md5sum": "0d622e2ac4368b5a33d540a9e4819e0c",
+            "path": "com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"f6a93b7eb8083e4ced92e7e253657057\"",
+            "last_changed_timestamp": 1642500474044,
+            "md5sum": "f6a93b7eb8083e4ced92e7e253657057",
+            "path": "com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:43 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"247b45f9d2f0071ad543c14d0ff31d5c\"",
+            "last_changed_timestamp": 1642500474096,
+            "md5sum": "247b45f9d2f0071ad543c14d0ff31d5c",
+            "path": "com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"93730cef2e75762c5a1431c6d7a0c78e\"",
+            "last_changed_timestamp": 1642500474096,
+            "md5sum": "93730cef2e75762c5a1431c6d7a0c78e",
+            "path": "com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6d9d7d6c163caf74984465694d3566e7\"",
+            "last_changed_timestamp": 1642500474136,
+            "md5sum": "6d9d7d6c163caf74984465694d3566e7",
+            "path": "com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476257,
+            "md5sum": "541440ca0819ebada47d6d1a8b3ee9e1",
+            "path": "com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500475744,
+            "md5sum": "3aaf3c6e76a68e732c17d4a7e9877d81",
+            "path": "com/typesafe/config/1.2.1/config-1.2.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880272,
+            "md5sum": "4a105c9d029a7edc6f2b16567d37eab6",
+            "path": "commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"353cf6a2bdba09595ccfa073b78c7fcb\"",
+            "last_changed_timestamp": 1642500474196,
+            "md5sum": "353cf6a2bdba09595ccfa073b78c7fcb",
+            "path": "commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"303baf002ce6d382198090aedd9d79a2\"",
+            "last_changed_timestamp": 1641731832711,
+            "md5sum": "303baf002ce6d382198090aedd9d79a2",
+            "path": "commons-codec/commons-codec/1.15/commons-codec-1.15.jar",
+            "remote_changed_timestamp": "Wed, 15 Sep 2021 08:59:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"75615356605c8128013da9e3ac62a249\"",
+            "last_changed_timestamp": 1642794736418,
+            "md5sum": "75615356605c8128013da9e3ac62a249",
+            "path": "commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+            "remote_changed_timestamp": "Thu, 23 Jan 2014 15:34:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880571,
+            "md5sum": "f54a8510f834a1a57166970bfc982e94",
+            "path": "commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3b4b7ccfaeceeac240b804839ee1a1ca\"",
+            "last_changed_timestamp": 1641731832673,
+            "md5sum": "3b4b7ccfaeceeac240b804839ee1a1ca",
+            "path": "commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7f97854dc04c119d461fed14f5d8bb96\"",
+            "last_changed_timestamp": 1642794736408,
+            "md5sum": "7f97854dc04c119d461fed14f5d8bb96",
+            "path": "commons-io/commons-io/2.4/commons-io-2.4.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e2d74794fba570ec2115fb9d5b05dc9b\"",
+            "last_changed_timestamp": 1642500474181,
+            "md5sum": "e2d74794fba570ec2115fb9d5b05dc9b",
+            "path": "commons-io/commons-io/2.5/commons-io-2.5.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"92eb5aabc1b47287de53d45c086a435c\"",
+            "last_changed_timestamp": 1642500474294,
+            "md5sum": "92eb5aabc1b47287de53d45c086a435c",
+            "path": "commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+            "remote_changed_timestamp": "Tue, 03 Jun 2014 10:18:23 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"040b4b4d8eac886f6b4a2a3bd2f31b00\"",
+            "last_changed_timestamp": 1641731832777,
+            "md5sum": "040b4b4d8eac886f6b4a2a3bd2f31b00",
+            "path": "commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879113,
+            "md5sum": "d19b487241008d8e6111137a289ea1d7",
+            "path": "cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879211,
+            "md5sum": "dae78c82a7ca7599ae6a10938cd22d58",
+            "path": "cpw/mods/modlauncher/8.0.9/modlauncher-8.0.9.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880415,
+            "md5sum": "05a7228e40be7a7daf6abfd19bdb4f1e",
+            "path": "de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880449,
+            "md5sum": "4addb828f7bf861180ff219027707f7e",
+            "path": "de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61d4ba57-868d\"",
+            "last_changed_timestamp": 1648992878248,
+            "md5sum": "0ba117fe0ba40bd170105c164b9c3e11",
+            "path": "io/github/zekerzhayard/ForgeWrapper/mmc3/ForgeWrapper-mmc3.jar",
+            "remote_changed_timestamp": "Tue, 04 Jan 2022 21:21:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ec0ec0f03adcc9800cbda8cbc2dc6560\"",
+            "last_changed_timestamp": 1656867013086,
+            "md5sum": "ec0ec0f03adcc9800cbda8cbc2dc6560",
+            "path": "io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"05350aaa3f42000ded72a0ac37c4fb3a\"",
+            "last_changed_timestamp": 1642794736514,
+            "md5sum": "05350aaa3f42000ded72a0ac37c4fb3a",
+            "path": "io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar",
+            "remote_changed_timestamp": "Fri, 14 Feb 2014 11:08:30 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d1912410fe536c1cc35da23c4fb103c8\"",
+            "last_changed_timestamp": 1642794975724,
+            "md5sum": "d1912410fe536c1cc35da23c4fb103c8",
+            "path": "io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar",
+            "remote_changed_timestamp": "Wed, 27 Jun 2018 11:50:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3ae6177fe4f5fd30fee41997cb93fef0\"",
+            "last_changed_timestamp": 1641731832636,
+            "md5sum": "3ae6177fe4f5fd30fee41997cb93fef0",
+            "path": "io/netty/netty-all/4.1.68.Final/netty-all-4.1.68.Final.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2f4a891dffdb1259e4b10f1f090224e2\"",
+            "last_changed_timestamp": 1642500474305,
+            "md5sum": "2f4a891dffdb1259e4b10f1f090224e2",
+            "path": "io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e4d870093f5464a55ec314b909ef9c03\"",
+            "last_changed_timestamp": 1654778739731,
+            "md5sum": "e4d870093f5464a55ec314b909ef9c03",
+            "path": "io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7df4d0e74385504a639ed8c9ffbf8336\"",
+            "last_changed_timestamp": 1654778739745,
+            "md5sum": "7df4d0e74385504a639ed8c9ffbf8336",
+            "path": "io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c0fe65266d70074e8a82e48db581a848\"",
+            "last_changed_timestamp": 1654778739811,
+            "md5sum": "c0fe65266d70074e8a82e48db581a848",
+            "path": "io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a11c1ffacef7002473eff817f4907041\"",
+            "last_changed_timestamp": 1654778739823,
+            "md5sum": "a11c1ffacef7002473eff817f4907041",
+            "path": "io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ed36d0e6f0696b6d676387b499a0f403\"",
+            "last_changed_timestamp": 1654778739765,
+            "md5sum": "ed36d0e6f0696b6d676387b499a0f403",
+            "path": "io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"bd1f350efa67b42a61a6e0ee36dfce5e\"",
+            "last_changed_timestamp": 1654778739863,
+            "md5sum": "bd1f350efa67b42a61a6e0ee36dfce5e",
+            "path": "io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ef57aa3b1ac55fafddab78aa2f4df581\"",
+            "last_changed_timestamp": 1654778739800,
+            "md5sum": "ef57aa3b1ac55fafddab78aa2f4df581",
+            "path": "io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"fbecfcb90b7e178dfd0795d3a4b24b54\"",
+            "last_changed_timestamp": 1654778739901,
+            "md5sum": "fbecfcb90b7e178dfd0795d3a4b24b54",
+            "path": "io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 13:38:54 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"35fc1f3aaab7a782873be02319a53828\"",
+            "last_changed_timestamp": 1642500474834,
+            "md5sum": "35fc1f3aaab7a782873be02319a53828",
+            "path": "it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"88e74520ae74725653d595c4462f2ce1\"",
+            "last_changed_timestamp": 1642794975798,
+            "md5sum": "88e74520ae74725653d595c4462f2ce1",
+            "path": "it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar",
+            "remote_changed_timestamp": "Wed, 01 Aug 2018 11:38:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"bec1b59636691cf60269a28fbd5e072e\"",
+            "last_changed_timestamp": 1641731833173,
+            "md5sum": "bec1b59636691cf60269a28fbd5e072e",
+            "path": "it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:18 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d7e1ab8fc389a50f2b4bb4a6bebc9e1c\"",
+            "last_changed_timestamp": 1656867012758,
+            "md5sum": "d7e1ab8fc389a50f2b4bb4a6bebc9e1c",
+            "path": "java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e5d2b7f46c4800a32f62ce75676a5710\"",
+            "last_changed_timestamp": 1642500476627,
+            "md5sum": "e5d2b7f46c4800a32f62ce75676a5710",
+            "path": "java3d/vecmath/1.5.2/vecmath-1.5.2.jar",
+            "remote_changed_timestamp": "Sun, 09 Mar 2014 16:44:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a3e3c3186e41c4a1a3027ba2bb23cdc6\"",
+            "last_changed_timestamp": 1642500476593,
+            "md5sum": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+            "path": "lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f99cdb7-48b0\"",
+            "last_changed_timestamp": 1645795132769,
+            "md5sum": "22fc8ca534494628d89da4298e855087",
+            "path": "net/fabricmc/access-widener/1.0.0/access-widener-1.0.0.jar",
+            "remote_changed_timestamp": "Wed, 28 Oct 2020 19:59:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61759d68-785a\"",
+            "last_changed_timestamp": 1641731834064,
+            "md5sum": "3a73a8e9a80c51a039e66a13bd47c092",
+            "path": "net/fabricmc/access-widener/2.0.1/access-widener-2.0.1.jar",
+            "remote_changed_timestamp": "Sun, 24 Oct 2021 17:52:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61a8e2fe-7892\"",
+            "last_changed_timestamp": 1644422500172,
+            "md5sum": "b10766a61b0a230c06497a0bb96acd9d",
+            "path": "net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar",
+            "remote_changed_timestamp": "Thu, 02 Dec 2021 15:15:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5c7084d4-48edb\"",
+            "last_changed_timestamp": 1645172126611,
+            "md5sum": "362291a39ee9d7f8d9668d28feb8e7c2",
+            "path": "net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar",
+            "remote_changed_timestamp": "Fri, 22 Feb 2019 23:25:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5c014113-12cbf\"",
+            "last_changed_timestamp": 1645795272693,
+            "md5sum": "634f157ccfe5a766bc7afe0a28d0eb0a",
+            "path": "net/fabricmc/fabric-loader/0.1.0.48/fabric-loader-0.1.0.48.jar",
+            "remote_changed_timestamp": "Fri, 30 Nov 2018 13:54:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5fb007ff-54b68\"",
+            "last_changed_timestamp": 1645795133240,
+            "md5sum": "60d061de8107fb598ba1ad250bcddd6e",
+            "path": "net/fabricmc/fabric-loader/0.10.7/fabric-loader-0.10.7.jar",
+            "remote_changed_timestamp": "Sat, 14 Nov 2020 16:38:23 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61b903bf-b0469\"",
+            "last_changed_timestamp": 1641731834113,
+            "md5sum": "0c36ea6a1b64966ed00413f208e68188",
+            "path": "net/fabricmc/fabric-loader/0.12.12/fabric-loader-0.12.12.jar",
+            "remote_changed_timestamp": "Tue, 14 Dec 2021 20:51:11 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61fed3c8-b4a1b\"",
+            "last_changed_timestamp": 1644422500408,
+            "md5sum": "9cd385a54b3104662042cff3439e5fe4",
+            "path": "net/fabricmc/fabric-loader/0.13.1/fabric-loader-0.13.1.jar",
+            "remote_changed_timestamp": "Sat, 05 Feb 2022 19:45:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"62069550-b4a1d\"",
+            "last_changed_timestamp": 1645172078600,
+            "md5sum": "b42031a9e78c7a5624b2462da183026d",
+            "path": "net/fabricmc/fabric-loader/0.13.2/fabric-loader-0.13.2.jar",
+            "remote_changed_timestamp": "Fri, 11 Feb 2022 16:56:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"62138558-b4997\"",
+            "last_changed_timestamp": 1645794679452,
+            "md5sum": "6f83e0a578b3495bb6d4d352d7c3d4d6",
+            "path": "net/fabricmc/fabric-loader/0.13.3/fabric-loader-0.13.3.jar",
+            "remote_changed_timestamp": "Mon, 21 Feb 2022 12:28:08 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"62a0c4eb-c7930\"",
+            "last_changed_timestamp": 1654778740914,
+            "md5sum": "28fcece6c1caf3a41135034d89a65fa2",
+            "path": "net/fabricmc/fabric-loader/0.14.7/fabric-loader-0.14.7.jar",
+            "remote_changed_timestamp": "Wed, 08 Jun 2022 15:48:59 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"62aa2cfe-c7be0\"",
+            "last_changed_timestamp": 1657904925135,
+            "md5sum": "f4ce69b123e686c3a887f7d6b70c289b",
+            "path": "net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar",
+            "remote_changed_timestamp": "Wed, 15 Jun 2022 19:03:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5d82a4ce-42158\"",
+            "last_changed_timestamp": 1645172127326,
+            "md5sum": "641f95acc5d48f128c3f8576b473ebf1",
+            "path": "net/fabricmc/fabric-loader/0.6.2+build.166/fabric-loader-0.6.2+build.166.jar",
+            "remote_changed_timestamp": "Wed, 18 Sep 2019 21:42:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e888358-4cbb6\"",
+            "last_changed_timestamp": 1645795297653,
+            "md5sum": "9c4528e0648e7c2cf593067d9eb58b2d",
+            "path": "net/fabricmc/fabric-loader/0.7.10+build.191/fabric-loader-0.7.10+build.191.jar",
+            "remote_changed_timestamp": "Sat, 04 Apr 2020 12:53:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f88bda4-56a2f\"",
+            "last_changed_timestamp": 1645794679407,
+            "md5sum": "54d46597d27882c5e3b3235463b046d2",
+            "path": "net/fabricmc/intermediary/1.15.2/intermediary-1.15.2.jar",
+            "remote_changed_timestamp": "Thu, 15 Oct 2020 21:22:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60019d47-63368\"",
+            "last_changed_timestamp": 1644846114192,
+            "md5sum": "abadf31a3b1b8b128cde5debcee93686",
+            "path": "net/fabricmc/intermediary/1.16.5/intermediary-1.16.5.jar",
+            "remote_changed_timestamp": "Fri, 15 Jan 2021 13:48:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61b32d9d-7396f\"",
+            "last_changed_timestamp": 1641731834084,
+            "md5sum": "4f5d88fd17d4cbd7dcf376bb105389f0",
+            "path": "net/fabricmc/intermediary/1.18.1/intermediary-1.18.1.jar",
+            "remote_changed_timestamp": "Fri, 10 Dec 2021 10:36:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"621cd7d8-75916\"",
+            "last_changed_timestamp": 1649498886348,
+            "md5sum": "d299d8bce389df3894884b6515b5894a",
+            "path": "net/fabricmc/intermediary/1.18.2/intermediary-1.18.2.jar",
+            "remote_changed_timestamp": "Mon, 28 Feb 2022 14:10:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"629f69c6-7c968\"",
+            "last_changed_timestamp": 1654778740658,
+            "md5sum": "2c4c4a2bc80f37989b7b0997068d31ef",
+            "path": "net/fabricmc/intermediary/1.19/intermediary-1.19.jar",
+            "remote_changed_timestamp": "Tue, 07 Jun 2022 15:07:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61a60ee2-15d2ab\"",
+            "last_changed_timestamp": 1641731834105,
+            "md5sum": "1e482bf2ac8a721c86b542b3eafb2299",
+            "path": "net/fabricmc/sponge-mixin/0.10.7+mixin.0.8.4/sponge-mixin-0.10.7+mixin.0.8.4.jar",
+            "remote_changed_timestamp": "Tue, 30 Nov 2021 11:45:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61f84494-161bfa\"",
+            "last_changed_timestamp": 1644422500043,
+            "md5sum": "7abec1b34a60eae526713e5857fa17c6",
+            "path": "net/fabricmc/sponge-mixin/0.11.1+mixin.0.8.5/sponge-mixin-0.11.1+mixin.0.8.5.jar",
+            "remote_changed_timestamp": "Mon, 31 Jan 2022 20:20:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"620693e3-161c3c\"",
+            "last_changed_timestamp": 1645172078562,
+            "md5sum": "297f4e934dadd7d944e4e7e3eabb4809",
+            "path": "net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar",
+            "remote_changed_timestamp": "Fri, 11 Feb 2022 16:50:43 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"627171aa-161da1\"",
+            "last_changed_timestamp": 1654778741160,
+            "md5sum": "82a550405ad18aca7233e126203fa76c",
+            "path": "net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar",
+            "remote_changed_timestamp": "Tue, 03 May 2022 18:17:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5bde3910-e935d\"",
+            "last_changed_timestamp": 1645795272905,
+            "md5sum": "cf3d8f35de1bde492accc76c49341288",
+            "path": "net/fabricmc/sponge-mixin/0.7.11.3/sponge-mixin-0.7.11.3.jar",
+            "remote_changed_timestamp": "Sun, 04 Nov 2018 00:10:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5d3da2a5-fcc06\"",
+            "last_changed_timestamp": 1645172127133,
+            "md5sum": "b09665a71c27bfe5c13c677bf8a876ea",
+            "path": "net/fabricmc/sponge-mixin/0.7.11.38/sponge-mixin-0.7.11.38.jar",
+            "remote_changed_timestamp": "Sun, 28 Jul 2019 13:27:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e1ca6fa-d3d48\"",
+            "last_changed_timestamp": 1645795296970,
+            "md5sum": "c4cf99b69f1ff3c5b6a8fa60c14db879",
+            "path": "net/fabricmc/sponge-mixin/0.8+build.18/sponge-mixin-0.8+build.18.jar",
+            "remote_changed_timestamp": "Mon, 13 Jan 2020 17:20:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f972cc7-d4ca4\"",
+            "last_changed_timestamp": 1645795132784,
+            "md5sum": "209ca795837ac92d4b698d709dbf1540",
+            "path": "net/fabricmc/sponge-mixin/0.8.2+build.24/sponge-mixin-0.8.2+build.24.jar",
+            "remote_changed_timestamp": "Mon, 26 Oct 2020 20:08:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9e175-46e4\"",
+            "last_changed_timestamp": 1645172126785,
+            "md5sum": "b9269a0f18f29a0a9aaaa5994bab5d66",
+            "path": "net/fabricmc/tiny-mappings-parser/0.1.1.8/tiny-mappings-parser-0.1.1.8.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 11:39:33 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5dbea728-138b7\"",
+            "last_changed_timestamp": 1645795297122,
+            "md5sum": "5adb5996b03af097df7de7815f05031f",
+            "path": "net/fabricmc/tiny-mappings-parser/0.2.0.11/tiny-mappings-parser-0.2.0.11.jar",
+            "remote_changed_timestamp": "Sun, 03 Nov 2019 10:08:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e860859-139ee\"",
+            "last_changed_timestamp": 1645795132718,
+            "md5sum": "e449b136c5cdf046d66fedc00091cdc0",
+            "path": "net/fabricmc/tiny-mappings-parser/0.2.2.14/tiny-mappings-parser-0.2.2.14.jar",
+            "remote_changed_timestamp": "Thu, 02 Apr 2020 15:44:25 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ed53a7e-142ef\"",
+            "last_changed_timestamp": 1641731834069,
+            "md5sum": "2ecb50617a3a012062e53ca4cda50936",
+            "path": "net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar",
+            "remote_changed_timestamp": "Mon, 01 Jun 2020 17:27:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5bddbfe4-a3a9\"",
+            "last_changed_timestamp": 1645795273007,
+            "md5sum": "9df7e9b85c163ee0ec208d5cac4f7a2f",
+            "path": "net/fabricmc/tiny-remapper/0.1.0.16/tiny-remapper-0.1.0.16.jar",
+            "remote_changed_timestamp": "Sat, 03 Nov 2018 15:33:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5d643c0c-ee1e\"",
+            "last_changed_timestamp": 1645172126901,
+            "md5sum": "1d5ba95ca459b996fab7392ac8e51740",
+            "path": "net/fabricmc/tiny-remapper/0.1.0.40/tiny-remapper-0.1.0.40.jar",
+            "remote_changed_timestamp": "Mon, 26 Aug 2019 20:07:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5dc5cbea-11f2d\"",
+            "last_changed_timestamp": 1645795296943,
+            "md5sum": "4664a3fe7ea4fdd9121692a85102ce46",
+            "path": "net/fabricmc/tiny-remapper/0.2.0.52/tiny-remapper-0.2.0.52.jar",
+            "remote_changed_timestamp": "Fri, 08 Nov 2019 20:11:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ebaf7ef-1426c\"",
+            "last_changed_timestamp": 1645795132771,
+            "md5sum": "82f3f7a1812ceda7ef5f3d578c64c1f5",
+            "path": "net/fabricmc/tiny-remapper/0.3.0.70/tiny-remapper-0.3.0.70.jar",
+            "remote_changed_timestamp": "Tue, 12 May 2020 19:24:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61439bc6-34a7b\"",
+            "last_changed_timestamp": 1641731834062,
+            "md5sum": "8d9d725617132e7b00d05cafb8e9cb87",
+            "path": "net/fabricmc/tiny-remapper/0.6.0/tiny-remapper-0.6.0.jar",
+            "remote_changed_timestamp": "Thu, 16 Sep 2021 19:32:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61e711b9-34e34\"",
+            "last_changed_timestamp": 1644422500112,
+            "md5sum": "5c675b2a0df33124ec1299f911eac5b4",
+            "path": "net/fabricmc/tiny-remapper/0.8.1/tiny-remapper-0.8.1.jar",
+            "remote_changed_timestamp": "Tue, 18 Jan 2022 19:15:05 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"626042f2-34ec6\"",
+            "last_changed_timestamp": 1654778740485,
+            "md5sum": "8d42acb6a5ee7e7f5c4a8bf36700e16b",
+            "path": "net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar",
+            "remote_changed_timestamp": "Wed, 20 Apr 2022 17:29:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c1ab841070c388ec32b77cdc05f084fb\"",
+            "last_changed_timestamp": 1649498886027,
+            "md5sum": "c1ab841070c388ec32b77cdc05f084fb",
+            "path": "net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 08:12:43 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6c285485f0fcdb7821c3a06aafb0e665\"",
+            "last_changed_timestamp": 1641731832620,
+            "md5sum": "6c285485f0fcdb7821c3a06aafb0e665",
+            "path": "net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:19 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"34d3537524a6c8c134e840e7be601569\"",
+            "last_changed_timestamp": 1642500474173,
+            "md5sum": "34d3537524a6c8c134e840e7be601569",
+            "path": "net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
+            "remote_changed_timestamp": "Wed, 03 May 2017 08:40:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2b884b01ad2f62d4f5dd11387a8bf799\"",
+            "last_changed_timestamp": 1649498886038,
+            "md5sum": "2b884b01ad2f62d4f5dd11387a8bf799",
+            "path": "net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar",
+            "remote_changed_timestamp": "Wed, 15 Dec 2021 08:12:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"bd7ccbc4f374a791fbfc8b79c2de1e72\"",
+            "last_changed_timestamp": 1641731832547,
+            "md5sum": "bd7ccbc4f374a791fbfc8b79c2de1e72",
+            "path": "net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:19 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c5057d6dc3a531708e4a91249fadda3f\"",
+            "last_changed_timestamp": 1642500474154,
+            "md5sum": "c5057d6dc3a531708e4a91249fadda3f",
+            "path": "net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
+            "remote_changed_timestamp": "Mon, 26 Jan 2015 10:49:09 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b168b014be0186d9e95bf3d263e3a129\"",
+            "last_changed_timestamp": 1641729789062,
+            "md5sum": "b168b014be0186d9e95bf3d263e3a129",
+            "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"cc07d371f79dc4ed2239e1101ae06313\"",
+            "last_changed_timestamp": 1641729789038,
+            "md5sum": "cc07d371f79dc4ed2239e1101ae06313",
+            "path": "net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"f60976b19661c849c5c87433045a9885\"",
+            "last_changed_timestamp": 1641729788993,
+            "md5sum": "f60976b19661c849c5c87433045a9885",
+            "path": "net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879555,
+            "md5sum": "ee4596e1413cc1a5e080c971d6064753",
+            "path": "net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880525,
+            "md5sum": "a427608eace6462ea605af40f962144e",
+            "path": "net/md-5/SpecialSource/1.10.0/SpecialSource-1.10.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880544,
+            "md5sum": "bfb833db1ebffacce294d325e1031cb9",
+            "path": "net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"934b2d91c7c5be4a49577c9e6b40e8da\"",
+            "last_changed_timestamp": 1642500474342,
+            "md5sum": "934b2d91c7c5be4a49577c9e6b40e8da",
+            "path": "net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+            "remote_changed_timestamp": "Sat, 20 Jun 2015 17:11:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879299,
+            "md5sum": "ada4c365c3d0de73c05a94010432b547",
+            "path": "net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880547,
+            "md5sum": "838cc74c3c15daca8a30940dad489532",
+            "path": "net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879338,
+            "md5sum": "e56551f2586d3ff08beb24f5ea44a7d3",
+            "path": "net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879237,
+            "md5sum": "84c4758e6139b70146104be5bb1300b5",
+            "path": "net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476794,
+            "md5sum": "fda01cd3cae80c2c6348ac3fc26e0af8",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1644592955990,
+            "md5sum": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+            "path": "net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881272,
+            "md5sum": "6298276cc9396bb1b2d8526b1ee0e8c5",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879501,
+            "md5sum": "76b8b32bf2281884f75bd73285b4093a",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-launcher.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992882513,
+            "md5sum": "5ab9a9314c184c502e20cf90e099e5a4",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-universal.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1649004253658,
+            "md5sum": "566fccc1888c3ba5462830974dc4c879",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.21/forge-1.16.5-36.2.21-installer.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1649004252119,
+            "md5sum": "23687f7bde088432ae919ccbd5466800",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.21/forge-1.16.5-36.2.21-launcher.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1649004253824,
+            "md5sum": "214c4428ec355b77ad872ce513f81ecd",
+            "path": "net/minecraftforge/forge/1.16.5-36.2.21/forge-1.16.5-36.2.21-universal.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1656867390621,
+            "md5sum": "add0fba161c4652a96efb4264ec2d9ec",
+            "path": "net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879250,
+            "md5sum": "8f1f6942d17d88d704324e8000666a1a",
+            "path": "net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880655,
+            "md5sum": "9be31938b0f715a5a5c20ab34a6e951b",
+            "path": "net/minecraftforge/installertools/1.2.6/installertools-1.2.6.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880669,
+            "md5sum": "ecb9d6b0438948bef9bc0209aad4e917",
+            "path": "net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880373,
+            "md5sum": "ae37ed8407982eefc9f85fdb1c95a3a0",
+            "path": "net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880683,
+            "md5sum": "3b588ea9fd2bfaa3ab6a75779f16ad93",
+            "path": "net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879375,
+            "md5sum": "2d1016ebe4c1a63dd50a59d26bd12db1",
+            "path": "net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879567,
+            "md5sum": "679363fa893293791e55a21f81342f87",
+            "path": "net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1372bd4823bb1ef61e7db6724f601150\"",
+            "last_changed_timestamp": 1656867012682,
+            "md5sum": "1372bd4823bb1ef61e7db6724f601150",
+            "path": "net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"13560a58a79b46b82057686543e8d727\"",
+            "last_changed_timestamp": 1642794736359,
+            "md5sum": "13560a58a79b46b82057686543e8d727",
+            "path": "net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar",
+            "remote_changed_timestamp": "Fri, 14 Feb 2014 11:08:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880700,
+            "md5sum": "39c6476e4de3d4f90ad4ca0ddca48ec2",
+            "path": "net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"0a5ec84e23df9d7cfb4063bc55f2744c\"",
+            "last_changed_timestamp": 1642500474048,
+            "md5sum": "0a5ec84e23df9d7cfb4063bc55f2744c",
+            "path": "net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:18 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"eb0d9dffe9b0eddead68fe678be76c49\"",
+            "last_changed_timestamp": 1641731832554,
+            "md5sum": "eb0d9dffe9b0eddead68fe678be76c49",
+            "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880783,
+            "md5sum": "9eebabaa007dc329845e5ab3c12b4e6b",
+            "path": "net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"8fc4d4e0129244f9fd39650c5f30feb2\"",
+            "last_changed_timestamp": 1642500476694,
+            "md5sum": "8fc4d4e0129244f9fd39650c5f30feb2",
+            "path": "net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:30 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879438,
+            "md5sum": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+            "path": "org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880807,
+            "md5sum": "b290524be8a0dbb6521df95f4ce80c8d",
+            "path": "org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2a713d10331bc4e13459a3dc0463f16f\"",
+            "last_changed_timestamp": 1641731832815,
+            "md5sum": "2a713d10331bc4e13459a3dc0463f16f",
+            "path": "org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d862e30ff6b5d78264677dcd6507abb8\"",
+            "last_changed_timestamp": 1642500474287,
+            "md5sum": "d862e30ff6b5d78264677dcd6507abb8",
+            "path": "org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+            "remote_changed_timestamp": "Tue, 03 Jun 2014 10:17:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"71b48e6b3e1b1dc73fe705604b9c7584\"",
+            "last_changed_timestamp": 1656867012775,
+            "md5sum": "71b48e6b3e1b1dc73fe705604b9c7584",
+            "path": "org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"19fe50567358922bdad277959ea69545\"",
+            "last_changed_timestamp": 1641731832718,
+            "md5sum": "19fe50567358922bdad277959ea69545",
+            "path": "org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"3128bf75a2549ebe38663401191bacab\"",
+            "last_changed_timestamp": 1642794736450,
+            "md5sum": "3128bf75a2549ebe38663401191bacab",
+            "path": "org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+            "remote_changed_timestamp": "Mon, 30 Jun 2014 07:54:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"780b5a8b72eebe6d0dbff1c11b5658fa\"",
+            "last_changed_timestamp": 1642500474201,
+            "md5sum": "780b5a8b72eebe6d0dbff1c11b5658fa",
+            "path": "org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar",
+            "remote_changed_timestamp": "Fri, 31 Mar 2017 10:01:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880832,
+            "md5sum": "540b1256d887a6993ecbef23371a3302",
+            "path": "org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880830,
+            "md5sum": "e12b93c4a7fa6326e8afe557243c8651",
+            "path": "org/apache/commons/commons-text/1.3/commons-text-1.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"88cc3123fce88d61b7c2cdbfc33542c5\"",
+            "last_changed_timestamp": 1642500474282,
+            "md5sum": "88cc3123fce88d61b7c2cdbfc33542c5",
+            "path": "org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+            "remote_changed_timestamp": "Tue, 03 Jun 2014 10:17:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"40d6b9075fbd28fa10292a45a0db9457\"",
+            "last_changed_timestamp": 1641731832781,
+            "md5sum": "40d6b9075fbd28fa10292a45a0db9457",
+            "path": "org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ee3d34dce4a30c7d3002cadf8c9172c1\"",
+            "last_changed_timestamp": 1642500474319,
+            "md5sum": "ee3d34dce4a30c7d3002cadf8c9172c1",
+            "path": "org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+            "remote_changed_timestamp": "Tue, 03 Jun 2014 10:17:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2b3991eda121042765a5ee299556c200\"",
+            "last_changed_timestamp": 1641731832849,
+            "md5sum": "2b3991eda121042765a5ee299556c200",
+            "path": "org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar",
+            "remote_changed_timestamp": "Wed, 20 Oct 2021 11:48:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61b2fc0e-1a353\"",
+            "last_changed_timestamp": 1642794736568,
+            "md5sum": "f59b43be9ddc55c287fed433b20b5ef6",
+            "path": "org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar",
+            "remote_changed_timestamp": "Fri, 10 Dec 2021 07:04:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61bbc6e8-49b44\"",
+            "last_changed_timestamp": 1641731832924,
+            "md5sum": "c0338cbc28a4beec6b8ad3356b43e26f",
+            "path": "org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar",
+            "remote_changed_timestamp": "Thu, 16 Dec 2021 23:08:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61b2fbff-a56d4\"",
+            "last_changed_timestamp": 1642794736782,
+            "md5sum": "52f1380507559dd4a9d452f627ba87a3",
+            "path": "org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar",
+            "remote_changed_timestamp": "Fri, 10 Dec 2021 07:04:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61bbc6e0-1b4e7d\"",
+            "last_changed_timestamp": 1641731833230,
+            "md5sum": "cf0634270eafdbb083eb5951d7f2232d",
+            "path": "org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar",
+            "remote_changed_timestamp": "Thu, 16 Dec 2021 23:08:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61bbc703-5301\"",
+            "last_changed_timestamp": 1641731832678,
+            "md5sum": "8678a2e5aeaa63391106ebd29a9f7420",
+            "path": "org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar",
+            "remote_changed_timestamp": "Thu, 16 Dec 2021 23:08:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476785,
+            "md5sum": "7741ebf29690ee7d9dde9cf4376347fc",
+            "path": "org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879514,
+            "md5sum": "b83c1943a0783f3f81d4cd4c83c363e1",
+            "path": "org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880920,
+            "md5sum": "94fe1af76c10006fbc5b988180b71bf0",
+            "path": "org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880933,
+            "md5sum": "9d42e46845c874f1710a9f6a741f6c14",
+            "path": "org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879715,
+            "md5sum": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
+            "path": "org/jline/jline/3.12.1/jline-3.12.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476116,
+            "md5sum": "4c20d2879ed2bd75a0771ce29e89f6b0",
+            "path": "org/jline/jline/3.5.1/jline-3.5.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"19b85d05c16c74f0b7dd3c3db6f9601e\"",
+            "last_changed_timestamp": 1642794975495,
+            "md5sum": "19b85d05c16c74f0b7dd3c3db6f9601e",
+            "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"8503124508ef9f6fa16fba2e0ee7bf3a\"",
+            "last_changed_timestamp": 1642794975369,
+            "md5sum": "8503124508ef9f6fa16fba2e0ee7bf3a",
+            "path": "org/lwjgl/lwjgl-glfw/3.1.6/lwjgl-glfw-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a842f58df734107bca8fa3042c85d5c4\"",
+            "last_changed_timestamp": 1641731834111,
+            "md5sum": "a842f58df734107bca8fa3042c85d5c4",
+            "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"cb63a9c700a3a8167459d7e2ebf1de81\"",
+            "last_changed_timestamp": 1641731832410,
+            "md5sum": "cb63a9c700a3a8167459d7e2ebf1de81",
+            "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"0e08b9ceace15a4ff6b8acec0cfb9083\"",
+            "last_changed_timestamp": 1654778740491,
+            "md5sum": "0e08b9ceace15a4ff6b8acec0cfb9083",
+            "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:48 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2c2a2f1578d628bee49176b83637574e\"",
+            "last_changed_timestamp": 1654778739629,
+            "md5sum": "2c2a2f1578d628bee49176b83637574e",
+            "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"89aa8a1b62d1953f7a55af70469fc63b\"",
+            "last_changed_timestamp": 1642794975511,
+            "md5sum": "89aa8a1b62d1953f7a55af70469fc63b",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:30 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"69521de1f2ca1b195956f02b30d946eb\"",
+            "last_changed_timestamp": 1642794975351,
+            "md5sum": "69521de1f2ca1b195956f02b30d946eb",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.1.6/lwjgl-jemalloc-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:30 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ca90fc6a8f5eee4ccb9d697fcbef0ec4\"",
+            "last_changed_timestamp": 1641731834152,
+            "md5sum": "ca90fc6a8f5eee4ccb9d697fcbef0ec4",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"39dac8382f567a4cb1be21df274280c1\"",
+            "last_changed_timestamp": 1641731832393,
+            "md5sum": "39dac8382f567a4cb1be21df274280c1",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c4bfd687e0734cca9d33fb99f40ec248\"",
+            "last_changed_timestamp": 1654778740550,
+            "md5sum": "c4bfd687e0734cca9d33fb99f40ec248",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e70140b49aee2995f88bc6ebb8d1c2c0\"",
+            "last_changed_timestamp": 1654778739592,
+            "md5sum": "e70140b49aee2995f88bc6ebb8d1c2c0",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1898153336a699d1b95af3c03f04448f\"",
+            "last_changed_timestamp": 1642794975663,
+            "md5sum": "1898153336a699d1b95af3c03f04448f",
+            "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5b7e23b2338738530b0c72d00abc3b6c\"",
+            "last_changed_timestamp": 1642794975371,
+            "md5sum": "5b7e23b2338738530b0c72d00abc3b6c",
+            "path": "org/lwjgl/lwjgl-openal/3.1.6/lwjgl-openal-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"bb5373f94be3c90633b96de1ec14374e\"",
+            "last_changed_timestamp": 1641731834139,
+            "md5sum": "bb5373f94be3c90633b96de1ec14374e",
+            "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a2a94d10460d28e6ae85cb63df6a5588\"",
+            "last_changed_timestamp": 1641731832419,
+            "md5sum": "a2a94d10460d28e6ae85cb63df6a5588",
+            "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"aee2d03a3928acfee314187ccdd3fc1b\"",
+            "last_changed_timestamp": 1654778740693,
+            "md5sum": "aee2d03a3928acfee314187ccdd3fc1b",
+            "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"42c34453d0d5cab0907da376f5ada98b\"",
+            "last_changed_timestamp": 1654778739618,
+            "md5sum": "42c34453d0d5cab0907da376f5ada98b",
+            "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7fecaa4ccc8b25b2714b3ab4d9534ef9\"",
+            "last_changed_timestamp": 1642794975585,
+            "md5sum": "7fecaa4ccc8b25b2714b3ab4d9534ef9",
+            "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:33 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"4f4c85c458aa91ffd8b2213d604aa836\"",
+            "last_changed_timestamp": 1642794975483,
+            "md5sum": "4f4c85c458aa91ffd8b2213d604aa836",
+            "path": "org/lwjgl/lwjgl-opengl/3.1.6/lwjgl-opengl-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b6e87a1d439bfa2f2dab8e258278212e\"",
+            "last_changed_timestamp": 1641731834141,
+            "md5sum": "b6e87a1d439bfa2f2dab8e258278212e",
+            "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"256003e7a1e7feba6e3845d024ed3e4a\"",
+            "last_changed_timestamp": 1641731832507,
+            "md5sum": "256003e7a1e7feba6e3845d024ed3e4a",
+            "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b0407bab535189c60b5b354cc5af7cea\"",
+            "last_changed_timestamp": 1654778740551,
+            "md5sum": "b0407bab535189c60b5b354cc5af7cea",
+            "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"198c85e7eb29ade7804513dd4733b53d\"",
+            "last_changed_timestamp": 1654778739887,
+            "md5sum": "198c85e7eb29ade7804513dd4733b53d",
+            "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1072956c05ce0fa238d188644e393196\"",
+            "last_changed_timestamp": 1642794975660,
+            "md5sum": "1072956c05ce0fa238d188644e393196",
+            "path": "org/lwjgl/lwjgl-stb/3.1.6/lwjgl-stb-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"22b69dc14a4abe20ce4e67eaad4ed419\"",
+            "last_changed_timestamp": 1642794975384,
+            "md5sum": "22b69dc14a4abe20ce4e67eaad4ed419",
+            "path": "org/lwjgl/lwjgl-stb/3.1.6/lwjgl-stb-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d46c64900e7211bbba7957809ed0664d\"",
+            "last_changed_timestamp": 1641731834151,
+            "md5sum": "d46c64900e7211bbba7957809ed0664d",
+            "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c64dc69cc11c18f398c0a6d0a168fac9\"",
+            "last_changed_timestamp": 1641731832430,
+            "md5sum": "c64dc69cc11c18f398c0a6d0a168fac9",
+            "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"9a458d0e6c306d57559081dd25fbfc09\"",
+            "last_changed_timestamp": 1654778740644,
+            "md5sum": "9a458d0e6c306d57559081dd25fbfc09",
+            "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5fc0ee72e31794f1075416c9985d5d54\"",
+            "last_changed_timestamp": 1654778739634,
+            "md5sum": "5fc0ee72e31794f1075416c9985d5d54",
+            "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:47:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e5ef9c11a1e54a4e140fb2d026324f71\"",
+            "last_changed_timestamp": 1641731834146,
+            "md5sum": "e5ef9c11a1e54a4e140fb2d026324f71",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Wed, 13 Nov 2019 15:21:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"833e274c0da2eaa37658f775bd5a2553\"",
+            "last_changed_timestamp": 1641731832412,
+            "md5sum": "833e274c0da2eaa37658f775bd5a2553",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar",
+            "remote_changed_timestamp": "Wed, 13 Nov 2019 15:21:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b4ff16d1c2c9aba183a15b86be80a943\"",
+            "last_changed_timestamp": 1654778740612,
+            "md5sum": "b4ff16d1c2c9aba183a15b86be80a943",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:48:00 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1e691d28712d00b979160c1bcc939309\"",
+            "last_changed_timestamp": 1654778739590,
+            "md5sum": "1e691d28712d00b979160c1bcc939309",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:48:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1fb2aeadbd945d84468bcda68541a159\"",
+            "last_changed_timestamp": 1642794975677,
+            "md5sum": "1fb2aeadbd945d84468bcda68541a159",
+            "path": "org/lwjgl/lwjgl/3.1.6/lwjgl-3.1.6-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"eaaa0002bd75a4f7c8e5bf7b4be5189d\"",
+            "last_changed_timestamp": 1642794975443,
+            "md5sum": "eaaa0002bd75a4f7c8e5bf7b4be5189d",
+            "path": "org/lwjgl/lwjgl/3.1.6/lwjgl-3.1.6.jar",
+            "remote_changed_timestamp": "Tue, 26 Jun 2018 09:06:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b1497c333ca24510034746e012aaa677\"",
+            "last_changed_timestamp": 1641731834148,
+            "md5sum": "b1497c333ca24510034746e012aaa677",
+            "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b34fb770775fea4f9c33f44484befc09\"",
+            "last_changed_timestamp": 1641731832473,
+            "md5sum": "b34fb770775fea4f9c33f44484befc09",
+            "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar",
+            "remote_changed_timestamp": "Thu, 23 May 2019 13:47:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2f8f6ce014378833d2a2bd9f91835829\"",
+            "last_changed_timestamp": 1654778740683,
+            "md5sum": "2f8f6ce014378833d2a2bd9f91835829",
+            "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1-natives-windows.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:48:02 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"268db624c57a2c8abad40587f873fa8d\"",
+            "last_changed_timestamp": 1654778739828,
+            "md5sum": "268db624c57a2c8abad40587f873fa8d",
+            "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 10 Mar 2022 10:48:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6cab9a7349c4a33e172ad405682e7796\"",
+            "last_changed_timestamp": 1641729789114,
+            "md5sum": "6cab9a7349c4a33e172ad405682e7796",
+            "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 10 Feb 2015 07:43:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6e55ddca0cb6375facfecf1c769b7d77\"",
+            "last_changed_timestamp": 1641729789110,
+            "md5sum": "6e55ddca0cb6375facfecf1c769b7d77",
+            "path": "org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar",
+            "remote_changed_timestamp": "Tue, 10 Feb 2015 07:43:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b5c4665943f749a0bba6a6da53a45674\"",
+            "last_changed_timestamp": 1641729789068,
+            "md5sum": "b5c4665943f749a0bba6a6da53a45674",
+            "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar",
+            "remote_changed_timestamp": "Tue, 10 Feb 2015 07:43:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c5cc4613bbdfba3ccf5f0ab85390d0b8\"",
+            "last_changed_timestamp": 1656867384292,
+            "md5sum": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
+            "path": "org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar",
+            "remote_changed_timestamp": "Sat, 16 Aug 2014 14:55:04 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880955,
+            "md5sum": "b58c31c1ca0496e6773cc0311f97ceda",
+            "path": "org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9cef4-8263\"",
+            "last_changed_timestamp": 1645172126851,
+            "md5sum": "7f66f9d85c5bf11f6bd94e249392c86f",
+            "path": "org/ow2/asm/asm-analysis/7.1/asm-analysis-7.1.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 10:20:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e22e185-82a6\"",
+            "last_changed_timestamp": 1645795297106,
+            "md5sum": "b5b082ef17f6d6bb3d8ed9c129161bdb",
+            "path": "org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar",
+            "remote_changed_timestamp": "Sat, 18 Jan 2020 10:44:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f6f56d1-829f\"",
+            "last_changed_timestamp": 1645795132808,
+            "md5sum": "daed5f6bc67ac8f01bebeca0bb72a369",
+            "path": "org/ow2/asm/asm-analysis/9.0/asm-analysis-9.0.jar",
+            "remote_changed_timestamp": "Sat, 26 Sep 2020 14:57:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880969,
+            "md5sum": "f0e82941173b6049c03e8214ace70ecd",
+            "path": "org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60d84040-85d1\"",
+            "last_changed_timestamp": 1641731834077,
+            "md5sum": "e62aa59de96ae29c690c3521ea4b6359",
+            "path": "org/ow2/asm/asm-analysis/9.2/asm-analysis-9.2.jar",
+            "remote_changed_timestamp": "Sun, 27 Jun 2021 09:09:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f376d-85e4\"",
+            "last_changed_timestamp": 1654778740372,
+            "md5sum": "11e43c0220b3f6b4791b8abf7b4cc7ef",
+            "path": "org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:41 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881049,
+            "md5sum": "ca6299118bc7b85201671502526bd68b",
+            "path": "org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9cef5-112fa\"",
+            "last_changed_timestamp": 1645172126917,
+            "md5sum": "a53524cb592585ce48f2de0ada82b885",
+            "path": "org/ow2/asm/asm-commons/7.1/asm-commons-7.1.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 10:20:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e22e186-1177c\"",
+            "last_changed_timestamp": 1645795297141,
+            "md5sum": "be985ed0af52424f8f5d27ec71c249ab",
+            "path": "org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar",
+            "remote_changed_timestamp": "Sat, 18 Jan 2020 10:44:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f6f56d2-117de\"",
+            "last_changed_timestamp": 1645795132811,
+            "md5sum": "e84f4f465fe607932af0d9ca4b31bce5",
+            "path": "org/ow2/asm/asm-commons/9.0/asm-commons-9.0.jar",
+            "remote_changed_timestamp": "Sat, 26 Sep 2020 14:57:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881059,
+            "md5sum": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
+            "path": "org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60d84047-11bc2\"",
+            "last_changed_timestamp": 1641731834082,
+            "md5sum": "3eb09775e1076eb0a085a4592faebc2a",
+            "path": "org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar",
+            "remote_changed_timestamp": "Sun, 27 Jun 2021 09:09:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f3776-11c0c\"",
+            "last_changed_timestamp": 1654778740412,
+            "md5sum": "16e6ac17d33ad97baa415c42e9d93d38",
+            "path": "org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:50 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500475364,
+            "md5sum": "fe5f20404ccdee9769ef05dc4b47ba98",
+            "path": "org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881083,
+            "md5sum": "d640f7d0efc57192870f73a87f576469",
+            "path": "org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9cef6-c47f\"",
+            "last_changed_timestamp": 1645172127051,
+            "md5sum": "de9019ffee1e642e122b529f58ddd74b",
+            "path": "org/ow2/asm/asm-tree/7.1/asm-tree-7.1.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 10:20:38 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e22e187-ce5a\"",
+            "last_changed_timestamp": 1645795297228,
+            "md5sum": "3ef0bd9837a905e0b2d443de9199a409",
+            "path": "org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar",
+            "remote_changed_timestamp": "Sat, 18 Jan 2020 10:44:23 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f6f56d5-cdc1\"",
+            "last_changed_timestamp": 1645795132828,
+            "md5sum": "3798070ed795cf4aa7efd7f63feec2a2",
+            "path": "org/ow2/asm/asm-tree/9.0/asm-tree-9.0.jar",
+            "remote_changed_timestamp": "Sat, 26 Sep 2020 14:57:25 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881107,
+            "md5sum": "c2536add9ebcfa8066fcfb0dbe865879",
+            "path": "org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60d84054-cdb4\"",
+            "last_changed_timestamp": 1641731834080,
+            "md5sum": "9c45524e94b19cc8b614b9e81ad544e2",
+            "path": "org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar",
+            "remote_changed_timestamp": "Sun, 27 Jun 2021 09:09:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f379a-cdbd\"",
+            "last_changed_timestamp": 1654778740421,
+            "md5sum": "f087bfb911ff93957e44860de3e73c46",
+            "path": "org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:12:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9cef7-13e92\"",
+            "last_changed_timestamp": 1645172127126,
+            "md5sum": "5777b00daedeaf5987b92ad35d2a8cb2",
+            "path": "org/ow2/asm/asm-util/7.1/asm-util-7.1.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 10:20:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e22e188-14b51\"",
+            "last_changed_timestamp": 1645795297232,
+            "md5sum": "181141e54fdd56474937d7ebfb325ba3",
+            "path": "org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar",
+            "remote_changed_timestamp": "Sat, 18 Jan 2020 10:44:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f6f56d7-14b79\"",
+            "last_changed_timestamp": 1645795132829,
+            "md5sum": "ddbcaa2262311e04a6b0560787b47da4",
+            "path": "org/ow2/asm/asm-util/9.0/asm-util-9.0.jar",
+            "remote_changed_timestamp": "Sat, 26 Sep 2020 14:57:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992879095,
+            "md5sum": "2f1a28f6b0f3e02b17d38a0f657a1527",
+            "path": "org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60d8405f-14b76\"",
+            "last_changed_timestamp": 1641731834106,
+            "md5sum": "8562ac2619220b948cef931285b1e13b",
+            "path": "org/ow2/asm/asm-util/9.2/asm-util-9.2.jar",
+            "remote_changed_timestamp": "Sun, 27 Jun 2021 09:09:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f378b-14eb2\"",
+            "last_changed_timestamp": 1654778740498,
+            "md5sum": "d6d0ac4e5c0be9a25a426c70c714b17b",
+            "path": "org/ow2/asm/asm-util/9.3/asm-util-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:12:11 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881179,
+            "md5sum": "04b72e489b64c54d5776ab59f330bd23",
+            "path": "org/ow2/asm/asm/6.1.1/asm-6.1.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ca9cef4-1c04a\"",
+            "last_changed_timestamp": 1645172126940,
+            "md5sum": "04fc92647ce25b41121683674a50dfdf",
+            "path": "org/ow2/asm/asm/7.1/asm-7.1.jar",
+            "remote_changed_timestamp": "Sun, 07 Apr 2019 10:20:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5e22e184-1dbec\"",
+            "last_changed_timestamp": 1645795297080,
+            "md5sum": "542c066ed00a4fa9857e9343e2c595b9",
+            "path": "org/ow2/asm/asm/7.3.1/asm-7.3.1.jar",
+            "remote_changed_timestamp": "Sat, 18 Jan 2020 10:44:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f6f56cf-1dbb7\"",
+            "last_changed_timestamp": 1645795132869,
+            "md5sum": "e87284e4421437854ba938179cf803e7",
+            "path": "org/ow2/asm/asm/9.0/asm-9.0.jar",
+            "remote_changed_timestamp": "Sat, 26 Sep 2020 14:57:19 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881188,
+            "md5sum": "54b9f5d15e4877a4ea4cf9ec48e07afa",
+            "path": "org/ow2/asm/asm/9.1/asm-9.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"60d84033-1dc94\"",
+            "last_changed_timestamp": 1641731834067,
+            "md5sum": "8f184dce9b1bedc675d4a3640d43ddf0",
+            "path": "org/ow2/asm/asm/9.2/asm-9.2.jar",
+            "remote_changed_timestamp": "Sun, 27 Jun 2021 09:09:07 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f3764-1dd40\"",
+            "last_changed_timestamp": 1654778740410,
+            "md5sum": "e1c3b96035117ab516ffe0de9bd696e0",
+            "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1656867390749,
+            "md5sum": "004d7007abbcee858d3ca2c3ccbcbaab",
+            "path": "org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500475639,
+            "md5sum": "004d7007abbcee858d3ca2c3ccbcbaab",
+            "path": "org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1656867391255,
+            "md5sum": "359c4a6743a082c689039482eed78670",
+            "path": "org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476035,
+            "md5sum": "359c4a6743a082c689039482eed78670",
+            "path": "org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500475504,
+            "md5sum": "f5e79398daa1806f8b17311a3c782723",
+            "path": "org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500479568,
+            "md5sum": "06030143bf86ca896fb6ccfd679b5760",
+            "path": "org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500477181,
+            "md5sum": "1d88f665219e6006c5dd82d71c525c0f",
+            "path": "org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476303,
+            "md5sum": "4e694499c965af4a02599c99d4f0b196",
+            "path": "org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500479647,
+            "md5sum": "7878fac044e4e4b576bb35a77ccc34fc",
+            "path": "org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476645,
+            "md5sum": "1009d69e4948045383f2a7a334348af5",
+            "path": "org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1642500476570,
+            "md5sum": "c2d7e66495afe14545c31b21e99879ef",
+            "path": "org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e8147675316a5bc78d1ba5d8cdb9e578\"",
+            "last_changed_timestamp": 1641731832462,
+            "md5sum": "e8147675316a5bc78d1ba5d8cdb9e578",
+            "path": "org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar",
+            "remote_changed_timestamp": "Thu, 27 May 2021 08:31:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992880009,
+            "md5sum": "25fbb8ff965e88cc2252c99be0cf5cbb",
+            "path": "org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"4f992d3ac0aa70a8647460494c95e261\"",
+            "last_changed_timestamp": 1642500474018,
+            "md5sum": "4f992d3ac0aa70a8647460494c95e261",
+            "path": "oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+            "remote_changed_timestamp": "Fri, 09 Jan 2015 14:58:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 1648992881218,
+            "md5sum": "487d72e3da5947890376ddfc5e14442e",
+            "path": "trove/trove/1.0.2/trove-1.0.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e93726a6f1af319838b464fcb7af0c7f\"",
+            "last_changed_timestamp": 1642794736704,
+            "md5sum": "e93726a6f1af319838b464fcb7af0c7f",
+            "path": "tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"2ac293bb34ea1934e5554f192c740e85\"",
+            "last_changed_timestamp": 1642794737032,
+            "md5sum": "2ac293bb34ea1934e5554f192c740e85",
+            "path": "tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7890cb27be4783e45b9c8cecc6d3e3b3\"",
+            "last_changed_timestamp": 1656867012825,
+            "md5sum": "7890cb27be4783e45b9c8cecc6d3e3b3",
+            "path": "tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-32.jar",
+            "remote_changed_timestamp": "Wed, 22 Jan 2014 06:56:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"96e990bdc5568140ee4d40a8d146e3de\"",
+            "last_changed_timestamp": 1656867012909,
+            "md5sum": "96e990bdc5568140ee4d40a8d146e3de",
+            "path": "tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-64.jar",
+            "remote_changed_timestamp": "Wed, 22 Jan 2014 06:56:41 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"c1962e2956950f541877a2b67c63134b\"",
+            "last_changed_timestamp": 1642794736572,
+            "md5sum": "c1962e2956950f541877a2b67c63134b",
+            "path": "tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-32.jar",
+            "remote_changed_timestamp": "Mon, 03 Mar 2014 08:55:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"03f6486066163f62eb69e97928878f83\"",
+            "last_changed_timestamp": 1642794736590,
+            "md5sum": "03f6486066163f62eb69e97928878f83",
+            "path": "tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-windows-64.jar",
+            "remote_changed_timestamp": "Mon, 03 Mar 2014 08:55:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"a74ff1813e2d8d4872049ca519b56c81\"",
+            "last_changed_timestamp": 1656867012710,
+            "md5sum": "a74ff1813e2d8d4872049ca519b56c81",
+            "path": "tv/twitch/twitch/5.16/twitch-5.16.jar",
+            "remote_changed_timestamp": "Wed, 22 Jan 2014 06:56:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"eda24db2952176e3e90c3e0f6ec5a3ff\"",
+            "last_changed_timestamp": 1642794736487,
+            "md5sum": "eda24db2952176e3e90c3e0f6ec5a3ff",
+            "path": "tv/twitch/twitch/6.5/twitch-6.5.jar",
+            "remote_changed_timestamp": "Mon, 03 Mar 2014 08:55:12 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62e4046e-601\"",
+            "last_changed_timestamp": 1659111464067,
+            "md5sum": "58bce027ceac8ecbd3e5c9e91b847016",
+            "path": "index.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6218d339-5d4\"",
+            "last_changed_timestamp": 1645795269402,
+            "md5sum": "639947995ef2fd4d1ac38e013474a0f2",
+            "path": "net.fabricmc.fabric-loader/0.1.0.48.json",
+            "remote_changed_timestamp": "Fri, 25 Feb 2022 13:01:45 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6218d339-766\"",
+            "last_changed_timestamp": 1645795128585,
+            "md5sum": "44c94dad64fa89d5d13a8c5e96dad4a3",
+            "path": "net.fabricmc.fabric-loader/0.10.7.json",
+            "remote_changed_timestamp": "Fri, 25 Feb 2022 13:01:45 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62a48453-66f\"",
+            "last_changed_timestamp": 1654952494286,
+            "md5sum": "2be0255825018edb896bc5287e0f4404",
+            "path": "net.fabricmc.fabric-loader/0.12.12.json",
+            "remote_changed_timestamp": "Sat, 11 Jun 2022 12:02:27 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"620a52b6-66d\"",
+            "last_changed_timestamp": 1644846042977,
+            "md5sum": "212c3e150660baa5fc92f53b95ebac2c",
+            "path": "net.fabricmc.fabric-loader/0.13.1.json",
+            "remote_changed_timestamp": "Mon, 14 Feb 2022 13:01:42 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"620f525a-66d\"",
+            "last_changed_timestamp": 1645172050435,
+            "md5sum": "4693b30441c496b5d3f254383bc50ccc",
+            "path": "net.fabricmc.fabric-loader/0.13.2.json",
+            "remote_changed_timestamp": "Fri, 18 Feb 2022 08:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62c86304-66d\"",
+            "last_changed_timestamp": 1657302633684,
+            "md5sum": "3af2f714dc156003bdaaf7309ab34b7a",
+            "path": "net.fabricmc.fabric-loader/0.13.3.json",
+            "remote_changed_timestamp": "Fri, 08 Jul 2022 17:01:56 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62bb501c-66d\"",
+            "last_changed_timestamp": 1656443601723,
+            "md5sum": "0093b43465c53db77a3cc53eb329b975",
+            "path": "net.fabricmc.fabric-loader/0.14.7.json",
+            "remote_changed_timestamp": "Tue, 28 Jun 2022 19:01:48 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62e4046e-66d\"",
+            "last_changed_timestamp": 1659111464085,
+            "md5sum": "ec2d9e0cd2ad6a2908a09e8b60a7d285",
+            "path": "net.fabricmc.fabric-loader/0.14.8.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"620f525a-6ec\"",
+            "last_changed_timestamp": 1645172122738,
+            "md5sum": "4fa210693de0d938c7a5ba9aba1ce641",
+            "path": "net.fabricmc.fabric-loader/0.6.2+build.166.json",
+            "remote_changed_timestamp": "Fri, 18 Feb 2022 08:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6218d339-6fc\"",
+            "last_changed_timestamp": 1645795295259,
+            "md5sum": "a304665e4aa92238f83f3d1a283e83ee",
+            "path": "net.fabricmc.fabric-loader/0.7.10+build.191.json",
+            "remote_changed_timestamp": "Fri, 25 Feb 2022 13:01:45 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62d19d7e-11418\"",
+            "last_changed_timestamp": 1657904834379,
+            "md5sum": "c9cc8e1e7f9c99a95f705644eb35de08",
+            "path": "net.fabricmc.fabric-loader/index.json",
+            "remote_changed_timestamp": "Fri, 15 Jul 2022 17:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6218d339-1f4\"",
+            "last_changed_timestamp": 1645794579115,
+            "md5sum": "23a7a89da31caf9006b9d56c1244d899",
+            "path": "net.fabricmc.intermediary/1.15.2.json",
+            "remote_changed_timestamp": "Fri, 25 Feb 2022 13:01:45 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"620a52b6-1f4\"",
+            "last_changed_timestamp": 1644846043049,
+            "md5sum": "96300c74ed4dc884d6625db7276750d5",
+            "path": "net.fabricmc.intermediary/1.16.5.json",
+            "remote_changed_timestamp": "Mon, 14 Feb 2022 13:01:42 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62a48453-1f4\"",
+            "last_changed_timestamp": 1654952494222,
+            "md5sum": "cbf75b4634413a4b0cb355dfa7d7329f",
+            "path": "net.fabricmc.intermediary/1.18.1.json",
+            "remote_changed_timestamp": "Sat, 11 Jun 2022 12:02:27 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62c86305-1f4\"",
+            "last_changed_timestamp": 1657302633668,
+            "md5sum": "cdfafbd5b86586a4875c6aaffcbc718a",
+            "path": "net.fabricmc.intermediary/1.18.2.json",
+            "remote_changed_timestamp": "Fri, 08 Jul 2022 17:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62e4046e-1ee\"",
+            "last_changed_timestamp": 1659111464088,
+            "md5sum": "605cf35cdc451fe6dca7598004b672c1",
+            "path": "net.fabricmc.intermediary/1.19.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61eb030a-408\"",
+            "last_changed_timestamp": 1642794649569,
+            "md5sum": "15cf7d11ba684c9e213f740ee8af3d26",
+            "path": "net.minecraft/1.0.json",
+            "remote_changed_timestamp": "Fri, 21 Jan 2022 19:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d6811a-3de8\"",
+            "last_changed_timestamp": 1658224978194,
+            "md5sum": "85f16485fd1a1da939ee9b192650c964",
+            "path": "net.minecraft/1.12.2.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 10:02:02 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61eb030a-3f93\"",
+            "last_changed_timestamp": 1642794975122,
+            "md5sum": "b9a2f18b3f12b526d0d47d0cc22dfeff",
+            "path": "net.minecraft/1.13.2.json",
+            "remote_changed_timestamp": "Fri, 21 Jan 2022 19:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61eb030a-3962\"",
+            "last_changed_timestamp": 1642795132352,
+            "md5sum": "8178ac478885cea1af5299f8eae06cca",
+            "path": "net.minecraft/1.14.4.json",
+            "remote_changed_timestamp": "Fri, 21 Jan 2022 19:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6218d339-3962\"",
+            "last_changed_timestamp": 1645794575064,
+            "md5sum": "cbf81fb3bdcc851d11134f4be7b1fc33",
+            "path": "net.minecraft/1.15.2.json",
+            "remote_changed_timestamp": "Fri, 25 Feb 2022 13:01:45 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d67304-3955\"",
+            "last_changed_timestamp": 1658224650892,
+            "md5sum": "2d2ab2671b5b3c6e738dc4320ce7ec4d",
+            "path": "net.minecraft/1.16.5.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 09:01:56 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62a48453-3c42\"",
+            "last_changed_timestamp": 1654952494160,
+            "md5sum": "950524cc29342e97c664cbda478406d1",
+            "path": "net.minecraft/1.18.1.json",
+            "remote_changed_timestamp": "Sat, 11 Jun 2022 12:02:27 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62c86305-3dbd\"",
+            "last_changed_timestamp": 1657302633653,
+            "md5sum": "1ed8262cebb3fc42a6e47dc4ba050e51",
+            "path": "net.minecraft/1.18.2.json",
+            "remote_changed_timestamp": "Fri, 08 Jul 2022 17:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62e4046e-49c6\"",
+            "last_changed_timestamp": 1659111464100,
+            "md5sum": "8dded2bc942114cac18336ff2d8b88cf",
+            "path": "net.minecraft/1.19.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62c2f2e1-371a\"",
+            "last_changed_timestamp": 1656945668866,
+            "md5sum": "5284320b4b02298ba3549e4da453ddf3",
+            "path": "net.minecraft/1.7.10.json",
+            "remote_changed_timestamp": "Mon, 04 Jul 2022 14:02:09 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61eb030a-370a\"",
+            "last_changed_timestamp": 1642794736218,
+            "md5sum": "f16f5bd8b9fa55a24a1787eba6601777",
+            "path": "net.minecraft/1.8.json",
+            "remote_changed_timestamp": "Fri, 21 Jan 2022 19:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62a4a069-3971\"",
+            "last_changed_timestamp": 1654956227549,
+            "md5sum": "9a6c7ef62e0d85c808bc9a5d4947af0a",
+            "path": "net.minecraft/20w14infinite.json",
+            "remote_changed_timestamp": "Sat, 11 Jun 2022 14:02:17 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61e30c05-25e\"",
+            "last_changed_timestamp": 1642270788564,
+            "md5sum": "60059435a8c1140c11030d823a1ebb54",
+            "path": "net.minecraft/4k.json",
+            "remote_changed_timestamp": "Sat, 15 Jan 2022 18:01:41 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61e30c05-410\"",
+            "last_changed_timestamp": 1642270825830,
+            "md5sum": "8b45f870327cd78f33e8e385c81763ed",
+            "path": "net.minecraft/a1.2.6.json",
+            "remote_changed_timestamp": "Sat, 15 Jan 2022 18:01:41 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d6811a-440fa\"",
+            "last_changed_timestamp": 1658224966245,
+            "md5sum": "75d94822b412d5190181627f4eebb201",
+            "path": "net.minecraft/index.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 10:02:02 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61daceb5-484\"",
+            "last_changed_timestamp": 1641729939111,
+            "md5sum": "443b1bd4292c6ed8ce7278b87e4f1e07",
+            "path": "net.minecraft/inf-20100618.json",
+            "remote_changed_timestamp": "Sun, 09 Jan 2022 12:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61daceb5-430\"",
+            "last_changed_timestamp": 1641729788875,
+            "md5sum": "22ea59b0ea74f40d9e6cabc85a1b170c",
+            "path": "net.minecraft/rd-132211.json",
+            "remote_changed_timestamp": "Sun, 09 Jan 2022 12:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62c2f2e2-9dc\"",
+            "last_changed_timestamp": 1656945668899,
+            "md5sum": "43c45f9ab673d849f7ca0fe097f04619",
+            "path": "net.minecraftforge/10.13.4.1614.json",
+            "remote_changed_timestamp": "Mon, 04 Jul 2022 14:02:10 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d6811b-2708\"",
+            "last_changed_timestamp": 1658224981624,
+            "md5sum": "1ddcf952f2ae2b67b79e65433b64afe3",
+            "path": "net.minecraftforge/14.23.5.2859.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 10:02:03 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62067a4b-2708\"",
+            "last_changed_timestamp": 1644592945948,
+            "md5sum": "6000fc1e27a1f6f33da86add785f8ff7",
+            "path": "net.minecraftforge/14.23.5.2860.json",
+            "remote_changed_timestamp": "Fri, 11 Feb 2022 15:01:31 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d67304-7a76\"",
+            "last_changed_timestamp": 1658224650901,
+            "md5sum": "27c9437be099dbd45a1ebf0cc5304283",
+            "path": "net.minecraftforge/36.2.20.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 09:01:56 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"6249c4f7-7a76\"",
+            "last_changed_timestamp": 1649004246581,
+            "md5sum": "68a2db52d0f1a12def0bc9645865c145",
+            "path": "net.minecraftforge/36.2.21.json",
+            "remote_changed_timestamp": "Sun, 03 Apr 2022 16:01:59 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d6811b-15dee5\"",
+            "last_changed_timestamp": 1658224980317,
+            "md5sum": "d815a9884aa4635a7636a150fa3ab07b",
+            "path": "net.minecraftforge/index.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 10:02:03 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d6811b-1455\"",
+            "last_changed_timestamp": 1658224978281,
+            "md5sum": "3002804c2ee47b00365854e32989a079",
+            "path": "org.lwjgl/2.9.4-nightly-20150209.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 10:02:03 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62c2f2e2-8f7\"",
+            "last_changed_timestamp": 1656945848291,
+            "md5sum": "46ff709bc3949f67990ee2bfebae70b1",
+            "path": "org.lwjgl/index.json",
+            "remote_changed_timestamp": "Mon, 04 Jul 2022 14:02:10 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61daceb5-3470\"",
+            "last_changed_timestamp": 1641731949934,
+            "md5sum": "79ebc70d5b7e8dce75fef63f1fbfcfc5",
+            "path": "org.lwjgl3/3.1.2.json",
+            "remote_changed_timestamp": "Sun, 09 Jan 2022 12:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"61eb030a-3b5a\"",
+            "last_changed_timestamp": 1642794975220,
+            "md5sum": "a477322837e8a2a325c852a5cdac8827",
+            "path": "org.lwjgl3/3.1.6.json",
+            "remote_changed_timestamp": "Fri, 21 Jan 2022 19:01:30 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62d67305-375e\"",
+            "last_changed_timestamp": 1658224650872,
+            "md5sum": "9be6f41a7b9e0de5eb1dc6d0a95cc933",
+            "path": "org.lwjgl3/3.2.2.json",
+            "remote_changed_timestamp": "Tue, 19 Jul 2022 09:01:57 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "\"62e4046e-350e\"",
+            "last_changed_timestamp": 1659111464079,
+            "md5sum": "7c37f8a56103f11c8b30499cb467d469",
+            "path": "org.lwjgl3/3.3.1.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "meta",
+            "etag": "W/\"62e4046e-7db\"",
+            "last_changed_timestamp": 1659113449948,
+            "md5sum": "8c066a99a82358db7649bd8d22eefec4",
+            "path": "org.lwjgl3/index.json",
+            "remote_changed_timestamp": "Fri, 29 Jul 2022 16:01:50 GMT"
+        },
+        {
+            "base": "root",
+            "etag": "\"550e6bb5-356\"",
+            "last_changed_timestamp": 1641727574183,
+            "md5sum": "a8a8094545267c76ad51fe276b0e9e8f",
+            "path": "notifications.json",
+            "remote_changed_timestamp": "Sun, 22 Mar 2015 07:13:57 GMT"
+        },
+        {
+            "base": "translations",
+            "etag": "\"62e2f816-3d09\"",
+            "last_changed_timestamp": 1659111458797,
+            "md5sum": "317be5531ca8fcb78627e0891b3202f1",
+            "path": "index_v2.json",
+            "remote_changed_timestamp": "Thu, 28 Jul 2022 20:56:54 GMT"
+        },
+        {
+            "base": "translations",
+            "etag": "\"62e2f816-25558\"",
+            "last_changed_timestamp": 1659111459009,
+            "md5sum": "dbacfcf5c5e41eba95f73acd9e2ef4f8",
+            "path": "mmc_ru.qm",
+            "remote_changed_timestamp": "Thu, 28 Jul 2022 20:56:54 GMT"
+        }
+    ],
+    "version": "1"
+}

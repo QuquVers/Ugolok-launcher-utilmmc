@@ -1,0 +1,447 @@
+    0.007 D <> Log initialized.
+    0.007 D "UltimMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.007 D Version                    :  "0.6.13-develop-2852"
+    0.007 D Git commit                 :  "66bb7105db93e0977bb64a59a12b001f780e0566"
+    0.007 D Git refspec                :  "refs/heads/develop"
+    0.007 D Work dir before adjustment :  "D:/vv/multiMC cracked/UltimMC"
+    0.007 D Work dir after adjustment  :  "D:/vv/multiMC cracked/UltimMC"
+    0.007 D Adjusted by                :  "Fallback to binary path D:/vv/multiMC cracked/UltimMC"
+    0.007 D Binary path                :  "D:/vv/multiMC cracked/UltimMC"
+    0.007 D Application root path      :  "D:/vv/multiMC cracked/UltimMC"
+    0.007 D <> Paths set.
+    0.013 D Detected default console font: "Courier" , substitutions: ""
+    0.013 D <> Settings loaded.
+    0.021 D Loading Application Language File for ru ...
+    0.021 D Your language is "ru"
+    0.021 D <> Translations loaded.
+    0.021 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.021 D <> Updater started.
+    0.022 D Started watching  "D:/vv/multiMC cracked/UltimMC/icons"
+    0.023 D Adding  "icons/7abfcb8aed4794842f4b4751ddc2f073 (1).png"
+    0.028 D <> Instance icons intialized.
+    0.028 D <> Icon themes initialized.
+    0.028 D Determining System Theme...
+    0.028 D System theme seems to be: "windowsvista"
+    0.028 D Considering theme from theme factory: "windows"
+    0.028 D Considering theme from theme factory: "windowsxp"
+    0.028 D Considering theme from theme factory: "windowsvista"
+    0.028 D System theme has been determined to be: "WindowsVista"
+    0.028 D Loading theme "custom"
+    0.029 D <> Widget themes initialized.
+    0.029 D Instance path              :  "instances"
+    0.030 D Loading Instances...
+    0.030 D Discovering instances in "D:/vv/multiMC cracked/UltimMC/instances"
+    0.030 D Found instance ID "1 18 2"
+    0.030 D Found instance ID "1 18 21"
+    0.030 D Found instance ID "1.12.2"
+    0.030 D Found instance ID "1.12.21"
+    0.030 D Found instance ID "1.18.1 play.universemc.ru"
+    0.030 D Found instance ID "1.18.11"
+    0.030 D Found instance ID "111"
+    0.030 D Found instance ID "20w14infinite"
+    0.030 D Found instance ID "4k"
+    0.030 D Found instance ID "a1.2.6"
+    0.030 D Found instance ID "cheats 1 15 2"
+    0.030 D Found instance ID "cheats 1.12.2"
+    0.030 D Found instance ID "chts 119"
+    0.030 D Found instance ID "Future"
+    0.030 D Found instance ID "inf-20100618"
+    0.030 D Found instance ID "paqckii add"
+    0.030 D Found instance ID "rd-132211"
+    0.031 D Found instance ID "UU"
+    0.031 D Found instance ID "VVV"
+    0.031 D Found instance ID "азаза"
+    0.031 D Found instance ID "билд сборка"
+    0.031 D Found instance ID "реплей мод 1 18 1"
+    0.031 D Found instance ID "сборка модов 1"
+    0.031 D Will load group list now.
+    0.031 D Group list loaded.
+    0.032 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 2"
+    0.033 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1 18 21"
+    0.034 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.2"
+    0.035 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.12.21"
+    0.035 D Loaded instance  "1.18.1 play.universemc.ru"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.1 play.universemc.ru"
+    0.037 D Loaded instance  "bleanch hack 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/1.18.11"
+    0.037 D Loaded instance  "111"  from  "D:/vv/multiMC cracked/UltimMC/instances/111"
+    0.038 D Loaded instance  "20w14infinite"  from  "D:/vv/multiMC cracked/UltimMC/instances/20w14infinite"
+    0.039 D Loaded instance  "4k"  from  "D:/vv/multiMC cracked/UltimMC/instances/4k"
+    0.039 D Loaded instance  "a1.2.6"  from  "D:/vv/multiMC cracked/UltimMC/instances/a1.2.6"
+    0.040 D Loaded instance  "cheats 1 15 2"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1 15 2"
+    0.041 D Loaded instance  "multi cheats"  from  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2"
+    0.042 D Loaded instance  "chts 119"  from  "D:/vv/multiMC cracked/UltimMC/instances/chts 119"
+    0.043 D Loaded instance  "Future"  from  "D:/vv/multiMC cracked/UltimMC/instances/Future"
+    0.044 D Loaded instance  "inf-20100618"  from  "D:/vv/multiMC cracked/UltimMC/instances/inf-20100618"
+    0.044 D Loaded instance  "paqckii add"  from  "D:/vv/multiMC cracked/UltimMC/instances/paqckii add"
+    0.045 D Loaded instance  "rd-132211"  from  "D:/vv/multiMC cracked/UltimMC/instances/rd-132211"
+    0.046 D Loaded instance  "UU"  from  "D:/vv/multiMC cracked/UltimMC/instances/UU"
+    0.046 D Loaded instance  "VVV"  from  "D:/vv/multiMC cracked/UltimMC/instances/VVV"
+    0.047 D Loaded instance  "азаза"  from  "D:/vv/multiMC cracked/UltimMC/instances/азаза"
+    0.048 D Loaded instance  "билд сборка"  from  "D:/vv/multiMC cracked/UltimMC/instances/билд сборка"
+    0.049 D Loaded instance  "реплей мод 1 18 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/реплей мод 1 18 1"
+    0.050 D Loaded instance  "сборка модов 1"  from  "D:/vv/multiMC cracked/UltimMC/instances/сборка модов 1"
+    0.050 D <> Instances loaded.
+    0.053 D <> Auth server started.
+    0.053 D Loading accounts...
+    0.054 D LOOKUP AUTH_PROVIDER "dummy"
+    0.054 D LOOKUP AUTH_PROVIDER "dummy"
+    0.054 D <> Accounts loaded.
+    0.056 D <> Cache initialized.
+    0.056 D Detecting proxy settings...
+    0.060 D Using no proxy is an option!
+    0.060 D <> Proxy settings done.
+    0.061 D Downloading Translations Index...
+    0.061 D Task "NetJob(Translations Index)" starting for the first time
+    0.064 D <> Icon theme set.
+    0.064 D <> Application theme set.
+    0.065 D <> Initialized analytics with tid "UA-87731965-2"
+    0.082 W QMetaObject::connectSlotsByName: No matching signal for on_actionREDDIT_triggered()
+    0.082 W QMetaObject::connectSlotsByName: No matching signal for on_actionDISCORD_triggered()
+    0.082 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.082 W QMetaObject::connectSlotsByName: No matching signal for on_actionReportBug_triggered()
+    0.096 D Reloading news.
+    0.096 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.096 D Checking for updates.
+    0.096 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.097 D Loading the channel list.
+    0.097 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.097 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.148 D Viewport size "800x600"
+    0.148 D RAM size is 15789 MB
+    0.148 D [Analytics] "ScreenView: Main Window"
+    0.148 D <> Main window shown.
+    0.150 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    0.728 D Downloading  "https://multimc.org/rss.xml"
+    0.729 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    0.730 D Downloading  "https://files.multimc.org/notifications.json"
+    1.587 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    1.588 D Loading Application Language File for ru ...
+    2.031 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    2.031 D Task "NetJob(Translations Index)" succeeded
+    2.031 D Got translations index!
+    2.031 D Task "NetJob(Translation for ru)" starting for the first time
+    2.031 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.032 D Loading Application Language File for ru ...
+    2.033 D Downloading  "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    2.033 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.034 D Loading Application Language File for ru ...
+    2.111 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    2.111 D Task "NetJob(Update System Channel List)" succeeded
+    2.111 D Successfully loaded UpdateChecker channel list.
+    2.111 D Checking for updates.
+    2.111 D channelEntry =  "stable"
+    2.111 D channelEntry =  "develop"
+    2.111 D is intended update channel:  "develop"
+    2.111 D is current update channel:  "develop"
+    2.111 D channelEntry =  "main"
+    2.111 D m_repoUrl =  "http://files.multimc.org/update/win32/develop/"
+    2.111 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    2.111 D Downloading  "http://files.multimc.org/update/win32/develop/index.json"
+    2.119 D Download succeeded: "https://files.multimc.org/notifications.json"
+    2.125 D Task "NetJob(Checking for notifications)" succeeded
+    2.159 D Download succeeded: "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    2.159 D Task "NetJob(Translation for ru)" succeeded
+    2.159 D Got translation: "ru"
+    2.160 D Loading Application Language File for ru ...
+    2.160 D Dir changed: "D:/vv/multiMC cracked/UltimMC/translations"
+    2.161 D Loading Application Language File for ru ...
+    2.346 D Location header: QUrl("https://files.multimc.org/update/win32/develop/index.json")
+    2.346 D Following redirect to  "https://files.multimc.org/update/win32/develop/index.json"
+    2.346 D Downloading  "https://files.multimc.org/update/win32/develop/index.json"
+    2.346 D Download redirected: "https://files.multimc.org/update/win32/develop/index.json"
+    2.503 D Download succeeded: "https://files.multimc.org/update/win32/develop/index.json"
+    2.503 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    2.503 D Finished downloading repo index. Checking for new versions.
+    2.504 D Processing repository version list.
+    2.505 D Found newer version with ID 3524
+    2.505 D Task "NetJob(Changelog)" starting for the first time
+    2.518 D Downloading  "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    2.650 D Download succeeded: "https://multimc.org/rss.xml"
+    2.650 D Task "NetJob(News RSS Feed)" succeeded
+    2.650 D Finished loading RSS feed.
+    2.651 D Loaded news entry "0.6.16 - The Modpack Apocalypse"
+    2.651 D Loaded news entry "Migration to Microsoft account is required"
+    2.651 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    2.651 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    2.651 D Loaded news entry "0.6.13 - Microsoft account integration"
+    2.651 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    2.651 D Loaded news entry "About Microsoft accounts"
+    2.651 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    2.652 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    2.652 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    2.652 D Loaded news entry "0.6.3 - The Big Sync"
+    2.652 D Loaded news entry "0.6.2 Released!"
+    2.652 D Loaded news entry "0.6.1 Released!"
+    2.652 D Loaded news entry "0.6.0 Released!"
+    2.652 D Loaded news entry "Introducing the Archive"
+    2.652 D Loaded news entry "0.5.1 - Bugfixes."
+    2.652 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    2.652 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    2.652 D Loaded news entry "0.4.10 - Another wifi fix"
+    2.652 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    2.652 D Loaded news entry "0.4.8 - Worlds and more."
+    2.652 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    2.652 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    2.652 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    2.652 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    2.652 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    2.652 D Loaded news entry "Support us on Patreon!"
+    2.652 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    2.652 D Loaded news entry "Announcing MultiMC 6"
+    2.652 D Loaded news entry "0.3 - The big feature update."
+    2.652 D Loaded news entry "First official MultiMC 5 release!"
+    2.652 D Loaded news entry "MultiMC Status Update"
+    2.652 D News loading succeeded.
+    4.002 D Update will be installed later.
+    5.294 D Task "LaunchController(0x61aae58)" starting for the first time
+    5.295 D Task "MojangRefresh(0x61aaf28)" starting for the first time
+    5.295 D Task "Yggdrasil(0x55ee1c0)" starting for the first time
+    5.608 D Read  333  bytes
+    5.608 D Processing request
+    5.609 D Processing authentication response.
+    5.609 D Getting access token.
+    5.609 D Finished reading authentication response.
+    5.609 D Task "Yggdrasil(0x55ee1c0)" succeeded
+    5.609 D Getting Xbox profile...
+    9.210 W AuthRequest::onRequestError: Error 204
+    9.210 W AuthRequest::onRequestError: Error string:  "Host requires authentication"
+    9.210 W AuthRequest::onRequestError: HTTP status 401 "Unauthorized"
+    9.210 D Parsing Minecraft entitlements...
+    9.210 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+   12.517 D Task "MojangRefresh(0x61aaf28)" succeeded
+   12.517 D Writing account list to "accounts.json"
+   12.517 D Building JSON data structure.
+   12.517 D Building account array.
+   12.517 D Writing account list to file.
+   12.518 D Saved account list to "accounts.json"
+   12.591 W QString::arg: Argument missing: "http://localhost:61030" , 61030
+   14.618 D Task "LaunchTask(0x6336d58)" starting for the first time
+   14.618 D Task "TextPrint(0x56be4a0)" starting for the first time
+   14.619 D Task "TextPrint(0x56be4a0)" succeeded
+   14.619 D Task "TextPrint(0x56be0b0)" starting for the first time
+   14.619 D Task "TextPrint(0x56be0b0)" succeeded
+   14.619 D Task "TextPrint(0x56be740)" starting for the first time
+   14.619 D Task "TextPrint(0x56be740)" succeeded
+   14.619 D Task "TextPrint(0x93a1d80)" starting for the first time
+   14.619 D Task "TextPrint(0x93a1d80)" succeeded
+   14.619 D Task "CheckJava(0x643e180)" starting for the first time
+   14.619 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   14.734 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+   14.734 W STDERR ""
+   14.734 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   14.735 D Java checker succeeded.
+   14.740 C "Error changing setting JavaVendor. Setting doesn't exist."
+   14.742 D Task "CheckJava(0x643e180)" succeeded
+   14.742 D Task "CreateGameFolders(0x6149c88)" starting for the first time
+   14.743 D Task "CreateGameFolders(0x6149c88)" succeeded
+   14.743 D Task "ClaimAccount(0x613ed38)" starting for the first time
+   14.743 D Writing account list to "accounts.json"
+   14.743 D Building JSON data structure.
+   14.743 D Building account array.
+   14.743 D Writing account list to file.
+   14.744 D Saved account list to "accounts.json"
+   14.745 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is now in use.
+   14.745 D Task "ClaimAccount(0x613ed38)" succeeded
+   14.745 D Task "Update(0x643e300)" starting for the first time
+   14.745 D Task "MinecraftUpdate(0x643b700)" starting for the first time
+   14.746 D Task "ComponentUpdateTask(0x61496e8)" starting for the first time
+   14.746 D Loading components
+   14.747 D Task "NetJob(Получение метафайла: index.json)" starting for the first time
+   14.747 D Remote loading is being run for metadata index
+   14.754 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" starting for the first time
+   14.754 D Remote loading is being run for "LWJGL 3"
+   14.761 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" starting for the first time
+   14.761 D Remote loading is being run for "Minecraft"
+   14.765 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" starting for the first time
+   14.765 D Remote loading is being run for "Intermediary Mappings"
+   14.770 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" starting for the first time
+   14.770 D Remote loading is being run for "Fabric Loader"
+   14.770 D Task "FoldersTask(0x93a1f14)" starting for the first time
+   14.770 D Task "FoldersTask(0x93a1f14)" succeeded
+   14.784 D Downloading  "https://meta.multimc.org/v1/index.json"
+   14.785 D Downloading  "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+   14.786 D Downloading  "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+   14.788 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+   14.789 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+   20.343 D Download succeeded: "https://meta.multimc.org/v1/index.json"
+   20.343 D Task "NetJob(Получение метафайла: index.json)" succeeded
+   20.343 D Remote task 0 succeeded
+   20.375 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+   20.376 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" succeeded
+   20.376 D Remote task 1 succeeded
+   20.376 D Component list save is scheduled for "UU"
+   20.382 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+   20.382 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" succeeded
+   20.382 D Remote task 2 succeeded
+   21.245 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+   21.245 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" succeeded
+   21.245 D Remote task 3 succeeded
+   21.266 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+   21.266 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" succeeded
+   21.266 D Remote task 4 succeeded
+   21.266 D Resolving dependencies
+   21.266 D "Req: net.fabricmc.intermediary" Is met.
+   21.267 D "Req: net.minecraft == 1.19" Is met.
+   21.267 D "Req: org.lwjgl3 == 3.3.1" Is met.
+   21.267 D Task "ComponentUpdateTask(0x61496e8)" succeeded
+   21.267 D Component list update/resolve task succeeded for "UU"
+   21.267 D Task "LibrariesTask(0x643bb8c)" starting for the first time
+   21.267 D "UU" : downloading libraries
+   21.267 D Applying "org.lwjgl3" GOOD
+   21.267 D Applying "net.minecraft" GOOD
+   21.267 D Applying "net.fabricmc.intermediary" GOOD
+   21.267 D Applying "net.fabricmc.fabric-loader" GOOD
+   21.281 D Task "NetJob(Библиотеки для сборки UU)" starting for the first time
+   21.281 D Task "NetJob(Библиотеки для сборки UU)" succeeded
+   21.281 D Task "LibrariesTask(0x643bb8c)" succeeded
+   21.281 D Task "FMLLibrariesTask(0x60bfbf4)" starting for the first time
+   21.281 D Task "FMLLibrariesTask(0x60bfbf4)" succeeded
+   21.281 D Task "AssetUpdateTask(0x643bbcc)" starting for the first time
+   21.281 D Asset index SHA1: "b5c7548ddb9e584e84a5f762da5b78211c715a63"
+   21.281 D "UU" : Starting asset index download
+   21.281 D Task "NetJob(Индекс ресурса для UU)" starting for the first time
+   21.281 D Downloading  "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+   26.241 D Component list save performed now for "UU"
+   28.345 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+   28.345 D Task "NetJob(Индекс ресурса для UU)" succeeded
+   28.345 D "UU" : Finished asset index download
+   28.550 D Task "NetJob(Ресурсы для 1.19)" starting for the first time
+   28.551 D Downloading  "https://resources.download.minecraft.net/d8/d82cb15f4fc1bbb38c4212ac25f5a05dfd7d470f"
+   28.551 D Downloading  "https://resources.download.minecraft.net/0b/0b020fe4f1ad2ea643c9e5d694ddf3b1f5909fa0"
+   28.552 D Downloading  "https://resources.download.minecraft.net/1b/1b813edc51208121e814e711336f3e02837a313d"
+   28.552 D Downloading  "https://resources.download.minecraft.net/e4/e4bf9b6a5c5e2cb5fddad30462d90b30cbe6f3c3"
+   28.553 D Downloading  "https://resources.download.minecraft.net/70/7072dc5265a3d153029bd79867fc3c9401b97ef7"
+   28.553 D Downloading  "https://resources.download.minecraft.net/b5/b52ba92965c676f528296d723d470e5a6bd8f88a"
+   30.070 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=1.8.0_51&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=29922"
+   36.359 D [Analytics] "Message sent"
+   56.631 D Download succeeded: "https://resources.download.minecraft.net/d8/d82cb15f4fc1bbb38c4212ac25f5a05dfd7d470f"
+   56.632 D Downloading  "https://resources.download.minecraft.net/0d/0df85d902bf41d4e1dc5d89a4aed6564a147da7d"
+   56.921 C Aborted  "https://resources.download.minecraft.net/0b/0b020fe4f1ad2ea643c9e5d694ddf3b1f5909fa0"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/0b/0b020fe4f1ad2ea643c9e5d694ddf3b1f5909fa0"
+   56.921 C Aborted  "https://resources.download.minecraft.net/1b/1b813edc51208121e814e711336f3e02837a313d"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/1b/1b813edc51208121e814e711336f3e02837a313d"
+   56.921 C Aborted  "https://resources.download.minecraft.net/e4/e4bf9b6a5c5e2cb5fddad30462d90b30cbe6f3c3"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/e4/e4bf9b6a5c5e2cb5fddad30462d90b30cbe6f3c3"
+   56.921 C Aborted  "https://resources.download.minecraft.net/70/7072dc5265a3d153029bd79867fc3c9401b97ef7"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/70/7072dc5265a3d153029bd79867fc3c9401b97ef7"
+   56.921 C Aborted  "https://resources.download.minecraft.net/b5/b52ba92965c676f528296d723d470e5a6bd8f88a"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/b5/b52ba92965c676f528296d723d470e5a6bd8f88a"
+   56.921 C Aborted  "https://resources.download.minecraft.net/0d/0df85d902bf41d4e1dc5d89a4aed6564a147da7d"
+   56.921 D Download aborted in previous step: "https://resources.download.minecraft.net/0d/0df85d902bf41d4e1dc5d89a4aed6564a147da7d"
+   56.921 D Task "NetJob(Ресурсы для 1.19)" aborted.
+   56.921 C Task "AssetUpdateTask(0x643bbcc)" failed:  "Не удалось загрузить ресурсы:\nAborted."
+   56.921 C Task "MinecraftUpdate(0x643b700)" failed:  "Не удалось загрузить ресурсы:\nAborted."
+   56.921 C Task "Update(0x643e300)" failed:  "Не удалось обновить сборку по причине: Не удалось загрузить ресурсы:\nAborted.\n\n"
+   56.925 D Writing account list to "accounts.json"
+   56.925 D Building JSON data structure.
+   56.925 D Building account array.
+   56.925 D Writing account list to file.
+   56.926 D Saved account list to "accounts.json"
+   56.926 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is no longer in use.
+   56.932 C Task "LaunchTask(0x6336d58)" failed:  "Не удалось обновить сборку по причине: Не удалось загрузить ресурсы:\nAborted.\n\n"
+   56.943 D Task "ComponentUpdateTask(0x96a6ac8)" starting for the first time
+   56.943 D Loading components
+   56.943 D Index is already loaded
+   56.944 D Component list save is scheduled for "UU"
+   56.944 D Resolving dependencies
+   56.944 D "Req: net.fabricmc.intermediary" Is met.
+   56.944 D "Req: net.minecraft == 1.19" Is met.
+   56.944 D "Req: org.lwjgl3 == 3.3.1" Is met.
+   56.944 D Task "ComponentUpdateTask(0x96a6ac8)" succeeded
+   56.944 D Component list update/resolve task succeeded for "UU"
+   56.948 D Task "NetJob(Получение метафайла: org.lwjgl3/index.json)" starting for the first time
+   56.950 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   56.954 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   56.956 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   56.958 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   56.960 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   56.963 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   57.018 D Applying "org.lwjgl3" GOOD
+   57.018 D Applying "net.minecraft" GOOD
+   57.018 D Applying "net.fabricmc.intermediary" GOOD
+   57.018 D Applying "net.fabricmc.fabric-loader" GOOD
+   57.067 C Task "LaunchController(0x61aae58)" failed:  "Не удалось обновить сборку по причине: Не удалось загрузить ресурсы:\nAborted.\n\n"
+   57.075 D Downloading  "https://meta.multimc.org/v1/org.lwjgl3/index.json"
+   59.941 D Task "LaunchController(0x97a21f0)" starting for the first time
+   61.230 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl3/index.json"
+   61.230 D Task "NetJob(Получение метафайла: org.lwjgl3/index.json)" succeeded
+   61.934 D Component list save performed now for "UU"
+   62.906 W QString::arg: Argument missing: "http://localhost:61030" , 61030
+   62.906 D Task "LaunchTask(0x6337438)" starting for the first time
+   62.906 D Task "TextPrint(0x99d1628)" starting for the first time
+   62.906 D Task "TextPrint(0x99d1628)" succeeded
+   62.906 D Task "TextPrint(0x99d1b30)" starting for the first time
+   62.906 D Task "TextPrint(0x99d1b30)" succeeded
+   62.906 D Task "TextPrint(0x99d06d8)" starting for the first time
+   62.906 D Task "TextPrint(0x99d06d8)" succeeded
+   62.906 D Task "CheckJava(0x98ab828)" starting for the first time
+   62.906 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UltimMC/jars/JavaCheck.jar"
+   63.015 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+   63.015 W STDERR ""
+   63.015 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   63.015 D Java checker succeeded.
+   63.015 C "Error changing setting JavaVendor. Setting doesn't exist."
+   63.031 D Task "CheckJava(0x98ab828)" succeeded
+   63.031 D Task "CreateGameFolders(0x9787558)" starting for the first time
+   63.031 D Task "CreateGameFolders(0x9787558)" succeeded
+   63.031 D Task "Update(0x98ab728)" starting for the first time
+   63.031 D Task "MinecraftLoadAndCheck(0x98ab2a8)" starting for the first time
+   63.031 D Task "ComponentUpdateTask(0x97882d8)" starting for the first time
+   63.031 D Loading components
+   63.031 D Index is already loaded
+   63.031 D Component list save is scheduled for "UU"
+   63.031 D Resolving dependencies
+   63.031 D "Req: net.fabricmc.intermediary" Is met.
+   63.031 D "Req: net.minecraft == 1.19" Is met.
+   63.031 D "Req: org.lwjgl3 == 3.3.1" Is met.
+   63.031 D Task "ComponentUpdateTask(0x97882d8)" succeeded
+   63.031 D Component list update/resolve task succeeded for "UU"
+   63.031 D Task "MinecraftLoadAndCheck(0x98ab2a8)" succeeded
+   63.031 D Task "Update(0x98ab728)" succeeded
+   63.031 D Task "ModMinecraftJar(0x9787738)" starting for the first time
+   63.031 D Applying "org.lwjgl3" GOOD
+   63.031 D Applying "net.minecraft" GOOD
+   63.031 D Applying "net.fabricmc.intermediary" GOOD
+   63.031 D Applying "net.fabricmc.fabric-loader" GOOD
+   63.031 D Task "ModMinecraftJar(0x9787738)" succeeded
+   63.031 D Task "ScanModFolders(0x97875b8)" starting for the first time
+   63.031 D Task "ScanModFolders(0x97875b8)" succeeded
+   63.031 D Task "PrintInstanceInfo(0x98ab968)" starting for the first time
+   63.063 D Task "PrintInstanceInfo(0x98ab968)" succeeded
+   63.063 D Task "ExtractNatives(0x9787798)" starting for the first time
+   63.204 D Task "ExtractNatives(0x9787798)" succeeded
+   63.204 D Task "ReconstructAssets(0x9787618)" starting for the first time
+   63.204 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.19"
+   63.219 D Task "ReconstructAssets(0x9787618)" succeeded
+   63.219 D Task "VerifyJavaInstall(0x97879a8)" starting for the first time
+   63.219 D Task "VerifyJavaInstall(0x97879a8)" succeeded
+   63.219 D Task "InjectAuthlib(0x95fb198)" starting for the first time
+   63.219 D Authlib injector version: "authlib-injector-1.1.47.jar"
+   63.219 D Injecting  "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:61030"
+   63.219 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:61030"
+   63.219 D Task "InjectAuthlib(0x95fb198)" succeeded
+   63.219 D Task "LauncherPartLaunch(0x97a2668)" starting for the first time
+   63.235 D "-javaagent:D:/vv/multiMC cracked/UltimMC/injectors/authlib-injector-1.1.47.jar=http://localhost:61030 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UltimMC/instances/UU/natives -cp D:/vv/multiMC cracked/UltimMC/jars/NewLaunch.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UltimMC/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UltimMC/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UltimMC/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UltimMC/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar org.multimc.EntryPoint"
+   65.871 D Read  154  bytes
+   65.871 D Processing request
+   68.041 D Component list save performed now for "UU"
+  110.666 D Read  241  bytes
+  110.666 D Processing request
+  143.734 D Read  226  bytes
+  143.734 D Processing request
+  143.734 D Read  226  bytes
+  143.734 D Processing request
+  143.735 D Read  226  bytes
+  143.735 D Processing request
+ 6795.100 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/mods"
+ 6795.103 C Task "ScanModFolders(0x97875b8)" succeeded while not running!!!!
+ 6796.830 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/mods"
+ 6798.529 D Started watching  "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/mods"
+ 6798.530 C Task "ScanModFolders(0x97875b8)" succeeded while not running!!!!
+ 6800.263 D Opening directory "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/config"
+ 6810.501 D Opening directory "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/config"
+ 6986.564 D Read  241  bytes
+ 6986.564 D Processing request
+ 9098.227 D Task "LauncherPartLaunch(0x97a2668)" succeeded
+ 9098.237 D Task "LaunchTask(0x6337438)" succeeded
+ 9098.237 D Task "LaunchController(0x97a21f0)" succeeded
+ 9360.447 D Stopped watching  "D:/vv/multiMC cracked/UltimMC/instances/UU/.minecraft/mods"

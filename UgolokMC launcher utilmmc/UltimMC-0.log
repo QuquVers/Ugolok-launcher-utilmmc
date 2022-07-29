@@ -1,0 +1,1454 @@
+    0.007 D <> Log initialized.
+    0.008 D "UltimMC 5" , (c) 2013-2021  "MultiMC Contributors"
+    0.008 D Version                    :  "0.6.13-develop-2852"
+    0.008 D Git commit                 :  "66bb7105db93e0977bb64a59a12b001f780e0566"
+    0.008 D Git refspec                :  "refs/heads/develop"
+    0.008 D Work dir before adjustment :  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc"
+    0.008 D Work dir after adjustment  :  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc"
+    0.008 D Adjusted by                :  "Fallback to binary path D:/vv/multiMC cracked/UgolokMC launcher utilmmc"
+    0.008 D Binary path                :  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc"
+    0.008 D Application root path      :  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc"
+    0.008 D <> Paths set.
+    0.012 D Detected default console font: "Courier" , substitutions: ""
+    0.013 D <> Settings loaded.
+    0.025 D Loading Application Language File for ru ...
+    0.025 D Your language is "ru"
+    0.025 D <> Translations loaded.
+    0.025 D Initializing updater with platform:  "win32"  --  "https://files.multimc.org/update/win32/channels.json"
+    0.025 D <> Updater started.
+    0.028 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/icons"
+    0.028 D Adding  "icons/7abfcb8aed4794842f4b4751ddc2f073 (1).png"
+    0.096 D <> Instance icons intialized.
+    0.096 D <> Icon themes initialized.
+    0.096 D Determining System Theme...
+    0.096 D System theme seems to be: "windowsvista"
+    0.096 D Considering theme from theme factory: "windows"
+    0.096 D Considering theme from theme factory: "windowsxp"
+    0.096 D Considering theme from theme factory: "windowsvista"
+    0.096 D System theme has been determined to be: "WindowsVista"
+    0.097 D Loading theme "custom"
+    0.101 D <> Widget themes initialized.
+    0.101 D Instance path              :  "instances"
+    0.102 D Loading Instances...
+    0.102 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+    0.102 D Found instance ID "1 18 2"
+    0.103 D Found instance ID "1 18 21"
+    0.104 D Found instance ID "1.12.2"
+    0.104 D Found instance ID "1.12.21"
+    0.104 D Found instance ID "1.18.1 play.universemc.ru"
+    0.104 D Found instance ID "1.18.11"
+    0.104 D Found instance ID "111"
+    0.104 D Found instance ID "20w14infinite"
+    0.105 D Found instance ID "4k"
+    0.105 D Found instance ID "a1.2.6"
+    0.105 D Found instance ID "cheats 1 15 2"
+    0.105 D Found instance ID "cheats 1.12.2"
+    0.105 D Found instance ID "chts 119"
+    0.105 D Found instance ID "Future"
+    0.106 D Found instance ID "inf-20100618"
+    0.106 D Found instance ID "paqckii add"
+    0.106 D Found instance ID "rd-132211"
+    0.106 D Found instance ID "UU"
+    0.106 D Found instance ID "VVV"
+    0.106 D Found instance ID "азаза"
+    0.106 D Found instance ID "билд сборка"
+    0.106 D Found instance ID "реплей мод 1 18 1"
+    0.106 D Found instance ID "сборка модов 1"
+    0.106 D Will load group list now.
+    0.110 D Group list loaded.
+    0.113 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1 18 2"
+    0.115 D Loaded instance  "1 18 2"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1 18 21"
+    0.117 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1.12.2"
+    0.120 D Loaded instance  "1.12.2"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1.12.21"
+    0.122 D Loaded instance  "1.18.1 play.universemc.ru"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1.18.1 play.universemc.ru"
+    0.125 D Loaded instance  "bleanch hack 1 18 1"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/1.18.11"
+    0.127 D Loaded instance  "111"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/111"
+    0.130 D Loaded instance  "20w14infinite"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/20w14infinite"
+    0.133 D Loaded instance  "4k"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/4k"
+    0.135 D Loaded instance  "a1.2.6"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/a1.2.6"
+    0.137 D Loaded instance  "cheats 1 15 2"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/cheats 1 15 2"
+    0.139 D Loaded instance  "multi cheats"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/cheats 1.12.2"
+    0.141 D Loaded instance  "chts 119"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/chts 119"
+    0.144 D Loaded instance  "Future"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/Future"
+    0.147 D Loaded instance  "inf-20100618"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/inf-20100618"
+    0.149 D Loaded instance  "paqckii add"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/paqckii add"
+    0.152 D Loaded instance  "rd-132211"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/rd-132211"
+    0.154 D Loaded instance  "UU"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU"
+    0.157 D Loaded instance  "VVV"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/VVV"
+    0.160 D Loaded instance  "азаза"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/азаза"
+    0.164 D Loaded instance  "билд сборка"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/билд сборка"
+    0.167 D Loaded instance  "реплей мод 1 18 1"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/реплей мод 1 18 1"
+    0.170 D Loaded instance  "сборка модов 1"  from  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/сборка модов 1"
+    0.170 D <> Instances loaded.
+    0.175 D <> Auth server started.
+    0.175 D Loading accounts...
+    0.181 D LOOKUP AUTH_PROVIDER "dummy"
+    0.181 D LOOKUP AUTH_PROVIDER "dummy"
+    0.181 D <> Accounts loaded.
+    0.184 D <> Cache initialized.
+    0.184 D Detecting proxy settings...
+    0.191 D Using no proxy is an option!
+    0.191 D <> Proxy settings done.
+    0.191 D Downloading Translations Index...
+    0.191 D Task "NetJob(Translations Index)" starting for the first time
+    0.195 D <> Icon theme set.
+    0.196 D <> Application theme set.
+    0.196 D <> Initialized analytics with tid "UA-87731965-2"
+    0.223 W QMetaObject::connectSlotsByName: No matching signal for on_actionREDDIT_triggered()
+    0.223 W QMetaObject::connectSlotsByName: No matching signal for on_actionDISCORD_triggered()
+    0.223 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    0.223 W QMetaObject::connectSlotsByName: No matching signal for on_actionReportBug_triggered()
+    0.240 D Reloading news.
+    0.240 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.240 D Checking for updates.
+    0.240 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    0.240 D Loading the channel list.
+    0.240 D Task "NetJob(Update System Channel List)" starting for the first time
+    0.240 D Task "NetJob(Checking for notifications)" starting for the first time
+    0.294 D Viewport size "800x600"
+    0.294 D RAM size is 15789 MB
+    0.294 D [Analytics] "ScreenView: Main Window"
+    0.294 D <> Main window shown.
+    0.316 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    1.035 D Downloading  "https://multimc.org/rss.xml"
+    1.035 D Downloading  "https://files.multimc.org/update/win32/channels.json"
+    1.036 D Downloading  "https://files.multimc.org/notifications.json"
+    1.068 D Dir changed: "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/translations"
+    1.069 D Loading Application Language File for ru ...
+    1.405 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.405 D Task "NetJob(Translations Index)" succeeded
+    1.405 D Got translations index!
+    1.406 D Task "NetJob(Translation for ru)" starting for the first time
+    1.406 D Dir changed: "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/translations"
+    1.407 D Loading Application Language File for ru ...
+    1.407 D Downloading  "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    1.408 D Dir changed: "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/translations"
+    1.409 D Loading Application Language File for ru ...
+    1.446 D Download succeeded: "https://files.multimc.org/update/win32/channels.json"
+    1.446 D Task "NetJob(Update System Channel List)" succeeded
+    1.446 D Successfully loaded UpdateChecker channel list.
+    1.446 D Checking for updates.
+    1.447 D channelEntry =  "stable"
+    1.447 D channelEntry =  "develop"
+    1.447 D is intended update channel:  "develop"
+    1.447 D is current update channel:  "develop"
+    1.447 D channelEntry =  "main"
+    1.447 D m_repoUrl =  "http://files.multimc.org/update/win32/develop/"
+    1.447 D Task "NetJob(GoUpdate Repository Index)" starting for the first time
+    1.447 D Downloading  "http://files.multimc.org/update/win32/develop/index.json"
+    1.450 D Download succeeded: "https://files.multimc.org/notifications.json"
+    1.453 D Task "NetJob(Checking for notifications)" succeeded
+    1.477 D Download succeeded: "https://files.multimc.org/translations/5053c7f8ca62082dc893b290288ad9b7add90535.class"
+    1.477 D Task "NetJob(Translation for ru)" succeeded
+    1.478 D Got translation: "ru"
+    1.478 D Loading Application Language File for ru ...
+    1.478 D Dir changed: "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/translations"
+    1.479 D Loading Application Language File for ru ...
+    1.606 D Location header: QUrl("https://files.multimc.org/update/win32/develop/index.json")
+    1.606 D Following redirect to  "https://files.multimc.org/update/win32/develop/index.json"
+    1.606 D Downloading  "https://files.multimc.org/update/win32/develop/index.json"
+    1.607 D Download redirected: "https://files.multimc.org/update/win32/develop/index.json"
+    1.714 D Download succeeded: "https://files.multimc.org/update/win32/develop/index.json"
+    1.714 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    1.714 D Finished downloading repo index. Checking for new versions.
+    1.714 D Processing repository version list.
+    1.715 D Found newer version with ID 3524
+    1.715 D Task "NetJob(Changelog)" starting for the first time
+    1.726 D Downloading  "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    1.858 D Download succeeded: "https://multimc.org/rss.xml"
+    1.859 D Task "NetJob(News RSS Feed)" succeeded
+    1.859 D Finished loading RSS feed.
+    1.859 D Loaded news entry "0.6.16 - The Modpack Apocalypse"
+    1.859 D Loaded news entry "Migration to Microsoft account is required"
+    1.859 D Loaded news entry "IMPORTANT MESSAGE - Security vulnerability in Minecraft"
+    1.859 D Loaded news entry "0.6.14 - Microsoft account refinement, Forge 1.17+ and other fixes"
+    1.859 D Loaded news entry "0.6.13 - Microsoft account integration"
+    1.860 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+    1.860 D Loaded news entry "About Microsoft accounts"
+    1.860 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+    1.860 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+    1.860 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+    1.860 D Loaded news entry "0.6.3 - The Big Sync"
+    1.860 D Loaded news entry "0.6.2 Released!"
+    1.860 D Loaded news entry "0.6.1 Released!"
+    1.860 D Loaded news entry "0.6.0 Released!"
+    1.860 D Loaded news entry "Introducing the Archive"
+    1.860 D Loaded news entry "0.5.1 - Bugfixes."
+    1.860 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+    1.860 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    1.860 D Loaded news entry "0.4.10 - Another wifi fix"
+    1.860 D Loaded news entry "0.4.9 - the Windows wifi fix."
+    1.860 D Loaded news entry "0.4.8 - Worlds and more."
+    1.860 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+    1.860 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+    1.860 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+    1.860 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+    1.860 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    1.860 D Loaded news entry "Support us on Patreon!"
+    1.860 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    1.860 D Loaded news entry "Announcing MultiMC 6"
+    1.860 D Loaded news entry "0.3 - The big feature update."
+    1.860 D Loaded news entry "First official MultiMC 5 release!"
+    1.860 D Loaded news entry "MultiMC Status Update"
+    1.860 D News loading succeeded.
+    2.562 D Download succeeded: "https://api.github.com/repos/MultiMC/Launcher/compare/66bb7105db93e0977bb64a59a12b001f780e0566...develop"
+    2.562 D Task "NetJob(Changelog)" succeeded
+    3.509 D Update will be installed later.
+   10.780 D Will save group list now.
+   10.782 D Group list saved.
+   10.783 D Will delete instance "chts 119"
+   10.817 D Instance "chts 119" has been deleted by the launcher.
+   10.818 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   10.818 D Found instance ID "1 18 2"
+   10.818 D Found instance ID "1 18 21"
+   10.818 D Found instance ID "1.12.2"
+   10.818 D Found instance ID "1.12.21"
+   10.818 D Found instance ID "1.18.1 play.universemc.ru"
+   10.818 D Found instance ID "1.18.11"
+   10.818 D Found instance ID "111"
+   10.818 D Found instance ID "20w14infinite"
+   10.818 D Found instance ID "4k"
+   10.819 D Found instance ID "a1.2.6"
+   10.819 D Found instance ID "cheats 1 15 2"
+   10.819 D Found instance ID "cheats 1.12.2"
+   10.819 D Found instance ID "Future"
+   10.819 D Found instance ID "inf-20100618"
+   10.819 D Found instance ID "paqckii add"
+   10.819 D Found instance ID "rd-132211"
+   10.819 D Found instance ID "UU"
+   10.819 D Found instance ID "VVV"
+   10.819 D Found instance ID "азаза"
+   10.819 D Found instance ID "билд сборка"
+   10.819 D Found instance ID "реплей мод 1 18 1"
+   10.819 D Found instance ID "сборка модов 1"
+   10.819 D Should keep and soft-reload "1 18 2"
+   10.819 D Should keep and soft-reload "1 18 21"
+   10.819 D Should keep and soft-reload "1.12.2"
+   10.819 D Should keep and soft-reload "1.12.21"
+   10.819 D Should keep and soft-reload "1.18.1 play.universemc.ru"
+   10.819 D Should keep and soft-reload "1.18.11"
+   10.819 D Should keep and soft-reload "111"
+   10.819 D Should keep and soft-reload "20w14infinite"
+   10.819 D Should keep and soft-reload "4k"
+   10.819 D Should keep and soft-reload "a1.2.6"
+   10.819 D Should keep and soft-reload "cheats 1 15 2"
+   10.819 D Should keep and soft-reload "cheats 1.12.2"
+   10.819 D Should keep and soft-reload "Future"
+   10.819 D Should keep and soft-reload "inf-20100618"
+   10.819 D Should keep and soft-reload "paqckii add"
+   10.819 D Should keep and soft-reload "rd-132211"
+   10.819 D Should keep and soft-reload "UU"
+   10.819 D Should keep and soft-reload "VVV"
+   10.819 D Should keep and soft-reload "азаза"
+   10.819 D Should keep and soft-reload "билд сборка"
+   10.819 D Should keep and soft-reload "реплей мод 1 18 1"
+   10.819 D Should keep and soft-reload "сборка модов 1"
+   10.819 D Instance "chts 119" has been invalidated.
+   14.220 D Will save group list now.
+   14.222 D Group list saved.
+   14.223 D Will delete instance "1.18.1 play.universemc.ru"
+   14.496 D Instance "1.18.1 play.universemc.ru" has been deleted by the launcher.
+   14.496 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   14.496 D Found instance ID "1 18 2"
+   14.496 D Found instance ID "1 18 21"
+   14.496 D Found instance ID "1.12.2"
+   14.496 D Found instance ID "1.12.21"
+   14.496 D Found instance ID "1.18.11"
+   14.496 D Found instance ID "111"
+   14.496 D Found instance ID "20w14infinite"
+   14.496 D Found instance ID "4k"
+   14.496 D Found instance ID "a1.2.6"
+   14.496 D Found instance ID "cheats 1 15 2"
+   14.496 D Found instance ID "cheats 1.12.2"
+   14.496 D Found instance ID "Future"
+   14.496 D Found instance ID "inf-20100618"
+   14.496 D Found instance ID "paqckii add"
+   14.496 D Found instance ID "rd-132211"
+   14.496 D Found instance ID "UU"
+   14.497 D Found instance ID "VVV"
+   14.497 D Found instance ID "азаза"
+   14.497 D Found instance ID "билд сборка"
+   14.497 D Found instance ID "реплей мод 1 18 1"
+   14.497 D Found instance ID "сборка модов 1"
+   14.497 D Should keep and soft-reload "1 18 2"
+   14.497 D Should keep and soft-reload "1 18 21"
+   14.497 D Should keep and soft-reload "1.12.2"
+   14.497 D Should keep and soft-reload "1.12.21"
+   14.497 D Should keep and soft-reload "1.18.11"
+   14.497 D Should keep and soft-reload "111"
+   14.497 D Should keep and soft-reload "20w14infinite"
+   14.497 D Should keep and soft-reload "4k"
+   14.497 D Should keep and soft-reload "a1.2.6"
+   14.497 D Should keep and soft-reload "cheats 1 15 2"
+   14.497 D Should keep and soft-reload "cheats 1.12.2"
+   14.497 D Should keep and soft-reload "Future"
+   14.497 D Should keep and soft-reload "inf-20100618"
+   14.497 D Should keep and soft-reload "paqckii add"
+   14.497 D Should keep and soft-reload "rd-132211"
+   14.497 D Should keep and soft-reload "UU"
+   14.497 D Should keep and soft-reload "VVV"
+   14.497 D Should keep and soft-reload "азаза"
+   14.497 D Should keep and soft-reload "билд сборка"
+   14.497 D Should keep and soft-reload "реплей мод 1 18 1"
+   14.497 D Should keep and soft-reload "сборка модов 1"
+   14.497 D Instance "1.18.1 play.universemc.ru" has been invalidated.
+   16.446 D Will save group list now.
+   16.447 D Group list saved.
+   16.448 D Will delete instance "1.12.2"
+   16.696 D Instance "1.12.2" has been deleted by the launcher.
+   16.696 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   16.696 D Found instance ID "1 18 2"
+   16.696 D Found instance ID "1 18 21"
+   16.696 D Found instance ID "1.12.21"
+   16.696 D Found instance ID "1.18.11"
+   16.696 D Found instance ID "111"
+   16.696 D Found instance ID "20w14infinite"
+   16.696 D Found instance ID "4k"
+   16.696 D Found instance ID "a1.2.6"
+   16.696 D Found instance ID "cheats 1 15 2"
+   16.696 D Found instance ID "cheats 1.12.2"
+   16.696 D Found instance ID "Future"
+   16.696 D Found instance ID "inf-20100618"
+   16.696 D Found instance ID "paqckii add"
+   16.696 D Found instance ID "rd-132211"
+   16.696 D Found instance ID "UU"
+   16.697 D Found instance ID "VVV"
+   16.697 D Found instance ID "азаза"
+   16.697 D Found instance ID "билд сборка"
+   16.697 D Found instance ID "реплей мод 1 18 1"
+   16.697 D Found instance ID "сборка модов 1"
+   16.697 D Should keep and soft-reload "1 18 2"
+   16.697 D Should keep and soft-reload "1 18 21"
+   16.697 D Should keep and soft-reload "1.12.21"
+   16.697 D Should keep and soft-reload "1.18.11"
+   16.697 D Should keep and soft-reload "111"
+   16.697 D Should keep and soft-reload "20w14infinite"
+   16.697 D Should keep and soft-reload "4k"
+   16.697 D Should keep and soft-reload "a1.2.6"
+   16.697 D Should keep and soft-reload "cheats 1 15 2"
+   16.697 D Should keep and soft-reload "cheats 1.12.2"
+   16.697 D Should keep and soft-reload "Future"
+   16.697 D Should keep and soft-reload "inf-20100618"
+   16.697 D Should keep and soft-reload "paqckii add"
+   16.697 D Should keep and soft-reload "rd-132211"
+   16.697 D Should keep and soft-reload "UU"
+   16.697 D Should keep and soft-reload "VVV"
+   16.697 D Should keep and soft-reload "азаза"
+   16.697 D Should keep and soft-reload "билд сборка"
+   16.697 D Should keep and soft-reload "реплей мод 1 18 1"
+   16.697 D Should keep and soft-reload "сборка модов 1"
+   16.697 D Instance "1.12.2" has been invalidated.
+   18.936 D Will save group list now.
+   18.937 D Group list saved.
+   18.938 D Will delete instance "1 18 21"
+   19.125 D Instance "1 18 21" has been deleted by the launcher.
+   19.125 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   19.125 D Found instance ID "1 18 2"
+   19.125 D Found instance ID "1.12.21"
+   19.125 D Found instance ID "1.18.11"
+   19.125 D Found instance ID "111"
+   19.125 D Found instance ID "20w14infinite"
+   19.125 D Found instance ID "4k"
+   19.126 D Found instance ID "a1.2.6"
+   19.126 D Found instance ID "cheats 1 15 2"
+   19.126 D Found instance ID "cheats 1.12.2"
+   19.126 D Found instance ID "Future"
+   19.126 D Found instance ID "inf-20100618"
+   19.126 D Found instance ID "paqckii add"
+   19.126 D Found instance ID "rd-132211"
+   19.126 D Found instance ID "UU"
+   19.126 D Found instance ID "VVV"
+   19.126 D Found instance ID "азаза"
+   19.126 D Found instance ID "билд сборка"
+   19.126 D Found instance ID "реплей мод 1 18 1"
+   19.126 D Found instance ID "сборка модов 1"
+   19.126 D Should keep and soft-reload "1 18 2"
+   19.126 D Should keep and soft-reload "1.12.21"
+   19.126 D Should keep and soft-reload "1.18.11"
+   19.126 D Should keep and soft-reload "111"
+   19.126 D Should keep and soft-reload "20w14infinite"
+   19.126 D Should keep and soft-reload "4k"
+   19.126 D Should keep and soft-reload "a1.2.6"
+   19.126 D Should keep and soft-reload "cheats 1 15 2"
+   19.126 D Should keep and soft-reload "cheats 1.12.2"
+   19.126 D Should keep and soft-reload "Future"
+   19.126 D Should keep and soft-reload "inf-20100618"
+   19.126 D Should keep and soft-reload "paqckii add"
+   19.126 D Should keep and soft-reload "rd-132211"
+   19.126 D Should keep and soft-reload "UU"
+   19.126 D Should keep and soft-reload "VVV"
+   19.126 D Should keep and soft-reload "азаза"
+   19.126 D Should keep and soft-reload "билд сборка"
+   19.126 D Should keep and soft-reload "реплей мод 1 18 1"
+   19.126 D Should keep and soft-reload "сборка модов 1"
+   19.126 D Instance "1 18 21" has been invalidated.
+   20.546 D Will save group list now.
+   20.547 D Group list saved.
+   20.549 D Will delete instance "VVV"
+   20.629 D Instance "VVV" has been deleted by the launcher.
+   20.629 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   20.629 D Found instance ID "1 18 2"
+   20.629 D Found instance ID "1.12.21"
+   20.629 D Found instance ID "1.18.11"
+   20.629 D Found instance ID "111"
+   20.629 D Found instance ID "20w14infinite"
+   20.630 D Found instance ID "4k"
+   20.630 D Found instance ID "a1.2.6"
+   20.630 D Found instance ID "cheats 1 15 2"
+   20.630 D Found instance ID "cheats 1.12.2"
+   20.630 D Found instance ID "Future"
+   20.630 D Found instance ID "inf-20100618"
+   20.630 D Found instance ID "paqckii add"
+   20.630 D Found instance ID "rd-132211"
+   20.630 D Found instance ID "UU"
+   20.630 D Found instance ID "азаза"
+   20.630 D Found instance ID "билд сборка"
+   20.630 D Found instance ID "реплей мод 1 18 1"
+   20.630 D Found instance ID "сборка модов 1"
+   20.630 D Should keep and soft-reload "1 18 2"
+   20.630 D Should keep and soft-reload "1.12.21"
+   20.630 D Should keep and soft-reload "1.18.11"
+   20.630 D Should keep and soft-reload "111"
+   20.630 D Should keep and soft-reload "20w14infinite"
+   20.630 D Should keep and soft-reload "4k"
+   20.630 D Should keep and soft-reload "a1.2.6"
+   20.630 D Should keep and soft-reload "cheats 1 15 2"
+   20.630 D Should keep and soft-reload "cheats 1.12.2"
+   20.630 D Should keep and soft-reload "Future"
+   20.630 D Should keep and soft-reload "inf-20100618"
+   20.630 D Should keep and soft-reload "paqckii add"
+   20.630 D Should keep and soft-reload "rd-132211"
+   20.630 D Should keep and soft-reload "UU"
+   20.630 D Should keep and soft-reload "азаза"
+   20.630 D Should keep and soft-reload "билд сборка"
+   20.630 D Should keep and soft-reload "реплей мод 1 18 1"
+   20.630 D Should keep and soft-reload "сборка модов 1"
+   20.630 D Instance "VVV" has been invalidated.
+   22.801 D Group "моды" collapsed
+   22.801 D Will save group list now.
+   22.802 D Group list saved.
+   29.086 D Will save group list now.
+   29.088 D Group list saved.
+   29.090 D Will delete instance "paqckii add"
+   29.123 D Instance "paqckii add" has been deleted by the launcher.
+   29.124 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   29.124 D Found instance ID "1 18 2"
+   29.124 D Found instance ID "1.12.21"
+   29.124 D Found instance ID "1.18.11"
+   29.124 D Found instance ID "111"
+   29.124 D Found instance ID "20w14infinite"
+   29.124 D Found instance ID "4k"
+   29.124 D Found instance ID "a1.2.6"
+   29.124 D Found instance ID "cheats 1 15 2"
+   29.124 D Found instance ID "cheats 1.12.2"
+   29.124 D Found instance ID "Future"
+   29.124 D Found instance ID "inf-20100618"
+   29.124 D Found instance ID "rd-132211"
+   29.124 D Found instance ID "UU"
+   29.124 D Found instance ID "азаза"
+   29.124 D Found instance ID "билд сборка"
+   29.124 D Found instance ID "реплей мод 1 18 1"
+   29.124 D Found instance ID "сборка модов 1"
+   29.124 D Should keep and soft-reload "1 18 2"
+   29.124 D Should keep and soft-reload "1.12.21"
+   29.124 D Should keep and soft-reload "1.18.11"
+   29.124 D Should keep and soft-reload "111"
+   29.124 D Should keep and soft-reload "20w14infinite"
+   29.124 D Should keep and soft-reload "4k"
+   29.124 D Should keep and soft-reload "a1.2.6"
+   29.125 D Should keep and soft-reload "cheats 1 15 2"
+   29.125 D Should keep and soft-reload "cheats 1.12.2"
+   29.125 D Should keep and soft-reload "Future"
+   29.125 D Should keep and soft-reload "inf-20100618"
+   29.125 D Should keep and soft-reload "rd-132211"
+   29.125 D Should keep and soft-reload "UU"
+   29.125 D Should keep and soft-reload "азаза"
+   29.125 D Should keep and soft-reload "билд сборка"
+   29.125 D Should keep and soft-reload "реплей мод 1 18 1"
+   29.125 D Should keep and soft-reload "сборка модов 1"
+   29.125 D Instance "paqckii add" has been invalidated.
+   30.188 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=f3ee13c7-d32a-48a3-a32e-eda2bdd8dafd&t=screenview&ul=ru-ru&vp=800x600&sr=1280x720&aip=1&cd=Main Window&an=UltimMC&av=0.6.13-develop-2852&cd1=17.0.3.1&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=15789&qt=29894"
+   30.418 D [Analytics] "Message sent"
+   31.468 D Group "моды" expanded
+   31.468 D Will save group list now.
+   31.470 D Group list saved.
+   34.371 D Will save group list now.
+   34.373 D Group list saved.
+   34.374 D Will delete instance "20w14infinite"
+   34.527 D Instance "20w14infinite" has been deleted by the launcher.
+   34.527 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   34.527 D Found instance ID "1 18 2"
+   34.527 D Found instance ID "1.12.21"
+   34.527 D Found instance ID "1.18.11"
+   34.527 D Found instance ID "111"
+   34.527 D Found instance ID "4k"
+   34.527 D Found instance ID "a1.2.6"
+   34.527 D Found instance ID "cheats 1 15 2"
+   34.527 D Found instance ID "cheats 1.12.2"
+   34.527 D Found instance ID "Future"
+   34.527 D Found instance ID "inf-20100618"
+   34.528 D Found instance ID "rd-132211"
+   34.528 D Found instance ID "UU"
+   34.528 D Found instance ID "азаза"
+   34.528 D Found instance ID "билд сборка"
+   34.528 D Found instance ID "реплей мод 1 18 1"
+   34.528 D Found instance ID "сборка модов 1"
+   34.528 D Should keep and soft-reload "1 18 2"
+   34.528 D Should keep and soft-reload "1.12.21"
+   34.528 D Should keep and soft-reload "1.18.11"
+   34.528 D Should keep and soft-reload "111"
+   34.528 D Should keep and soft-reload "4k"
+   34.528 D Should keep and soft-reload "a1.2.6"
+   34.528 D Should keep and soft-reload "cheats 1 15 2"
+   34.528 D Should keep and soft-reload "cheats 1.12.2"
+   34.528 D Should keep and soft-reload "Future"
+   34.528 D Should keep and soft-reload "inf-20100618"
+   34.528 D Should keep and soft-reload "rd-132211"
+   34.528 D Should keep and soft-reload "UU"
+   34.528 D Should keep and soft-reload "азаза"
+   34.528 D Should keep and soft-reload "билд сборка"
+   34.528 D Should keep and soft-reload "реплей мод 1 18 1"
+   34.528 D Should keep and soft-reload "сборка модов 1"
+   34.528 D Instance "20w14infinite" has been invalidated.
+   37.192 D Will save group list now.
+   37.194 D Group list saved.
+   37.195 D Will delete instance "сборка модов 1"
+   37.199 D Instance "сборка модов 1" has been deleted by the launcher.
+   37.201 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   37.201 D Found instance ID "1 18 2"
+   37.201 D Found instance ID "1.12.21"
+   37.202 D Found instance ID "1.18.11"
+   37.202 D Found instance ID "111"
+   37.202 D Found instance ID "4k"
+   37.202 D Found instance ID "a1.2.6"
+   37.202 D Found instance ID "cheats 1 15 2"
+   37.202 D Found instance ID "cheats 1.12.2"
+   37.202 D Found instance ID "Future"
+   37.202 D Found instance ID "inf-20100618"
+   37.202 D Found instance ID "rd-132211"
+   37.202 D Found instance ID "UU"
+   37.202 D Found instance ID "азаза"
+   37.202 D Found instance ID "билд сборка"
+   37.202 D Found instance ID "реплей мод 1 18 1"
+   37.202 D Should keep and soft-reload "1 18 2"
+   37.202 D Should keep and soft-reload "1.12.21"
+   37.202 D Should keep and soft-reload "1.18.11"
+   37.202 D Should keep and soft-reload "111"
+   37.202 D Should keep and soft-reload "4k"
+   37.202 D Should keep and soft-reload "a1.2.6"
+   37.202 D Should keep and soft-reload "cheats 1 15 2"
+   37.202 D Should keep and soft-reload "cheats 1.12.2"
+   37.202 D Should keep and soft-reload "Future"
+   37.202 D Should keep and soft-reload "inf-20100618"
+   37.202 D Should keep and soft-reload "rd-132211"
+   37.202 D Should keep and soft-reload "UU"
+   37.202 D Should keep and soft-reload "азаза"
+   37.202 D Should keep and soft-reload "билд сборка"
+   37.202 D Should keep and soft-reload "реплей мод 1 18 1"
+   37.202 D Instance "сборка модов 1" has been invalidated.
+   38.854 D Will save group list now.
+   38.856 D Group list saved.
+   38.857 D Will delete instance "реплей мод 1 18 1"
+   38.931 D Instance "реплей мод 1 18 1" has been deleted by the launcher.
+   38.932 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   38.932 D Found instance ID "1 18 2"
+   38.932 D Found instance ID "1.12.21"
+   38.932 D Found instance ID "1.18.11"
+   38.932 D Found instance ID "111"
+   38.932 D Found instance ID "4k"
+   38.932 D Found instance ID "a1.2.6"
+   38.932 D Found instance ID "cheats 1 15 2"
+   38.932 D Found instance ID "cheats 1.12.2"
+   38.932 D Found instance ID "Future"
+   38.932 D Found instance ID "inf-20100618"
+   38.932 D Found instance ID "rd-132211"
+   38.932 D Found instance ID "UU"
+   38.932 D Found instance ID "азаза"
+   38.932 D Found instance ID "билд сборка"
+   38.932 D Should keep and soft-reload "1 18 2"
+   38.932 D Should keep and soft-reload "1.12.21"
+   38.932 D Should keep and soft-reload "1.18.11"
+   38.932 D Should keep and soft-reload "111"
+   38.932 D Should keep and soft-reload "4k"
+   38.932 D Should keep and soft-reload "a1.2.6"
+   38.932 D Should keep and soft-reload "cheats 1 15 2"
+   38.932 D Should keep and soft-reload "cheats 1.12.2"
+   38.932 D Should keep and soft-reload "Future"
+   38.932 D Should keep and soft-reload "inf-20100618"
+   38.932 D Should keep and soft-reload "rd-132211"
+   38.933 D Should keep and soft-reload "UU"
+   38.933 D Should keep and soft-reload "азаза"
+   38.933 D Should keep and soft-reload "билд сборка"
+   38.933 D Instance "реплей мод 1 18 1" has been invalidated.
+   41.151 D Will save group list now.
+   41.152 D Group list saved.
+   41.154 D Will delete instance "билд сборка"
+   41.957 D Instance "билд сборка" has been deleted by the launcher.
+   41.957 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   41.957 D Found instance ID "1 18 2"
+   41.957 D Found instance ID "1.12.21"
+   41.957 D Found instance ID "1.18.11"
+   41.957 D Found instance ID "111"
+   41.957 D Found instance ID "4k"
+   41.957 D Found instance ID "a1.2.6"
+   41.957 D Found instance ID "cheats 1 15 2"
+   41.957 D Found instance ID "cheats 1.12.2"
+   41.957 D Found instance ID "Future"
+   41.957 D Found instance ID "inf-20100618"
+   41.958 D Found instance ID "rd-132211"
+   41.958 D Found instance ID "UU"
+   41.958 D Found instance ID "азаза"
+   41.958 D Should keep and soft-reload "1 18 2"
+   41.958 D Should keep and soft-reload "1.12.21"
+   41.958 D Should keep and soft-reload "1.18.11"
+   41.958 D Should keep and soft-reload "111"
+   41.958 D Should keep and soft-reload "4k"
+   41.958 D Should keep and soft-reload "a1.2.6"
+   41.958 D Should keep and soft-reload "cheats 1 15 2"
+   41.958 D Should keep and soft-reload "cheats 1.12.2"
+   41.958 D Should keep and soft-reload "Future"
+   41.958 D Should keep and soft-reload "inf-20100618"
+   41.958 D Should keep and soft-reload "rd-132211"
+   41.958 D Should keep and soft-reload "UU"
+   41.958 D Should keep and soft-reload "азаза"
+   41.958 D Instance "билд сборка" has been invalidated.
+   44.020 D Will save group list now.
+   44.022 D Group list saved.
+   44.024 D Will delete instance "азаза"
+   44.057 D Instance "азаза" has been deleted by the launcher.
+   44.057 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   44.057 D Found instance ID "1 18 2"
+   44.057 D Found instance ID "1.12.21"
+   44.057 D Found instance ID "1.18.11"
+   44.057 D Found instance ID "111"
+   44.057 D Found instance ID "4k"
+   44.057 D Found instance ID "a1.2.6"
+   44.057 D Found instance ID "cheats 1 15 2"
+   44.057 D Found instance ID "cheats 1.12.2"
+   44.057 D Found instance ID "Future"
+   44.058 D Found instance ID "inf-20100618"
+   44.058 D Found instance ID "rd-132211"
+   44.058 D Found instance ID "UU"
+   44.058 D Should keep and soft-reload "1 18 2"
+   44.058 D Should keep and soft-reload "1.12.21"
+   44.058 D Should keep and soft-reload "1.18.11"
+   44.058 D Should keep and soft-reload "111"
+   44.058 D Should keep and soft-reload "4k"
+   44.058 D Should keep and soft-reload "a1.2.6"
+   44.058 D Should keep and soft-reload "cheats 1 15 2"
+   44.058 D Should keep and soft-reload "cheats 1.12.2"
+   44.058 D Should keep and soft-reload "Future"
+   44.058 D Should keep and soft-reload "inf-20100618"
+   44.058 D Should keep and soft-reload "rd-132211"
+   44.058 D Should keep and soft-reload "UU"
+   44.058 D Instance "азаза" has been invalidated.
+   46.477 D Will save group list now.
+   46.478 D Group list saved.
+   46.480 D Will delete instance "111"
+   46.514 D Instance "111" has been deleted by the launcher.
+   46.515 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   46.515 D Found instance ID "1 18 2"
+   46.515 D Found instance ID "1.12.21"
+   46.515 D Found instance ID "1.18.11"
+   46.515 D Found instance ID "4k"
+   46.515 D Found instance ID "a1.2.6"
+   46.515 D Found instance ID "cheats 1 15 2"
+   46.515 D Found instance ID "cheats 1.12.2"
+   46.515 D Found instance ID "Future"
+   46.515 D Found instance ID "inf-20100618"
+   46.515 D Found instance ID "rd-132211"
+   46.515 D Found instance ID "UU"
+   46.515 D Should keep and soft-reload "1 18 2"
+   46.516 D Should keep and soft-reload "1.12.21"
+   46.516 D Should keep and soft-reload "1.18.11"
+   46.516 D Should keep and soft-reload "4k"
+   46.516 D Should keep and soft-reload "a1.2.6"
+   46.516 D Should keep and soft-reload "cheats 1 15 2"
+   46.516 D Should keep and soft-reload "cheats 1.12.2"
+   46.516 D Should keep and soft-reload "Future"
+   46.516 D Should keep and soft-reload "inf-20100618"
+   46.516 D Should keep and soft-reload "rd-132211"
+   46.516 D Should keep and soft-reload "UU"
+   46.516 D Instance "111" has been invalidated.
+   50.204 D Will save group list now.
+   50.206 D Group list saved.
+   50.208 D Will delete instance "rd-132211"
+   50.291 D Instance "rd-132211" has been deleted by the launcher.
+   50.294 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   50.294 D Found instance ID "1 18 2"
+   50.294 D Found instance ID "1.12.21"
+   50.294 D Found instance ID "1.18.11"
+   50.294 D Found instance ID "4k"
+   50.294 D Found instance ID "a1.2.6"
+   50.294 D Found instance ID "cheats 1 15 2"
+   50.294 D Found instance ID "cheats 1.12.2"
+   50.294 D Found instance ID "Future"
+   50.294 D Found instance ID "inf-20100618"
+   50.294 D Found instance ID "UU"
+   50.294 D Should keep and soft-reload "1 18 2"
+   50.294 D Should keep and soft-reload "1.12.21"
+   50.294 D Should keep and soft-reload "1.18.11"
+   50.294 D Should keep and soft-reload "4k"
+   50.294 D Should keep and soft-reload "a1.2.6"
+   50.294 D Should keep and soft-reload "cheats 1 15 2"
+   50.294 D Should keep and soft-reload "cheats 1.12.2"
+   50.294 D Should keep and soft-reload "Future"
+   50.294 D Should keep and soft-reload "inf-20100618"
+   50.294 D Should keep and soft-reload "UU"
+   50.294 D Instance "rd-132211" has been invalidated.
+   51.907 D Will save group list now.
+   51.909 D Group list saved.
+   51.910 D Will delete instance "inf-20100618"
+   52.294 D Instance "inf-20100618" has been deleted by the launcher.
+   52.294 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   52.295 D Found instance ID "1 18 2"
+   52.295 D Found instance ID "1.12.21"
+   52.295 D Found instance ID "1.18.11"
+   52.295 D Found instance ID "4k"
+   52.295 D Found instance ID "a1.2.6"
+   52.295 D Found instance ID "cheats 1 15 2"
+   52.295 D Found instance ID "cheats 1.12.2"
+   52.295 D Found instance ID "Future"
+   52.295 D Found instance ID "UU"
+   52.295 D Should keep and soft-reload "1 18 2"
+   52.295 D Should keep and soft-reload "1.12.21"
+   52.295 D Should keep and soft-reload "1.18.11"
+   52.295 D Should keep and soft-reload "4k"
+   52.295 D Should keep and soft-reload "a1.2.6"
+   52.295 D Should keep and soft-reload "cheats 1 15 2"
+   52.295 D Should keep and soft-reload "cheats 1.12.2"
+   52.295 D Should keep and soft-reload "Future"
+   52.295 D Should keep and soft-reload "UU"
+   52.295 D Instance "inf-20100618" has been invalidated.
+   54.626 D Will save group list now.
+   54.628 D Group list saved.
+   54.630 D Will delete instance "a1.2.6"
+   55.119 D Instance "a1.2.6" has been deleted by the launcher.
+   55.119 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   55.119 D Found instance ID "1 18 2"
+   55.119 D Found instance ID "1.12.21"
+   55.119 D Found instance ID "1.18.11"
+   55.119 D Found instance ID "4k"
+   55.119 D Found instance ID "cheats 1 15 2"
+   55.119 D Found instance ID "cheats 1.12.2"
+   55.119 D Found instance ID "Future"
+   55.119 D Found instance ID "UU"
+   55.119 D Should keep and soft-reload "1 18 2"
+   55.119 D Should keep and soft-reload "1.12.21"
+   55.119 D Should keep and soft-reload "1.18.11"
+   55.119 D Should keep and soft-reload "4k"
+   55.119 D Should keep and soft-reload "cheats 1 15 2"
+   55.119 D Should keep and soft-reload "cheats 1.12.2"
+   55.119 D Should keep and soft-reload "Future"
+   55.119 D Should keep and soft-reload "UU"
+   55.119 D Instance "a1.2.6" has been invalidated.
+   57.467 D Will save group list now.
+   57.469 D Group list saved.
+   57.470 D Will delete instance "4k"
+   57.472 D Instance "4k" has been deleted by the launcher.
+   57.472 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   57.472 D Found instance ID "1 18 2"
+   57.472 D Found instance ID "1.12.21"
+   57.472 D Found instance ID "1.18.11"
+   57.472 D Found instance ID "cheats 1 15 2"
+   57.472 D Found instance ID "cheats 1.12.2"
+   57.472 D Found instance ID "Future"
+   57.472 D Found instance ID "UU"
+   57.472 D Should keep and soft-reload "1 18 2"
+   57.473 D Should keep and soft-reload "1.12.21"
+   57.473 D Should keep and soft-reload "1.18.11"
+   57.473 D Should keep and soft-reload "cheats 1 15 2"
+   57.473 D Should keep and soft-reload "cheats 1.12.2"
+   57.473 D Should keep and soft-reload "Future"
+   57.473 D Should keep and soft-reload "UU"
+   57.473 D Instance "4k" has been invalidated.
+   60.579 D Will save group list now.
+   60.581 D Group list saved.
+   60.583 D Will delete instance "1.12.21"
+   60.593 D Instance "1.12.21" has been deleted by the launcher.
+   60.593 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   60.593 D Found instance ID "1 18 2"
+   60.593 D Found instance ID "1.18.11"
+   60.593 D Found instance ID "cheats 1 15 2"
+   60.593 D Found instance ID "cheats 1.12.2"
+   60.593 D Found instance ID "Future"
+   60.593 D Found instance ID "UU"
+   60.593 D Should keep and soft-reload "1 18 2"
+   60.594 D Should keep and soft-reload "1.18.11"
+   60.594 D Should keep and soft-reload "cheats 1 15 2"
+   60.594 D Should keep and soft-reload "cheats 1.12.2"
+   60.594 D Should keep and soft-reload "Future"
+   60.594 D Should keep and soft-reload "UU"
+   60.594 D Instance "1.12.21" has been invalidated.
+   63.821 D Will save group list now.
+   63.823 D Group list saved.
+   63.824 D Will delete instance "1 18 2"
+   63.834 D Instance "1 18 2" has been deleted by the launcher.
+   63.834 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   63.834 D Found instance ID "1.18.11"
+   63.835 D Found instance ID "cheats 1 15 2"
+   63.835 D Found instance ID "cheats 1.12.2"
+   63.835 D Found instance ID "Future"
+   63.835 D Found instance ID "UU"
+   63.835 D Should keep and soft-reload "1.18.11"
+   63.835 D Should keep and soft-reload "cheats 1 15 2"
+   63.835 D Should keep and soft-reload "cheats 1.12.2"
+   63.835 D Should keep and soft-reload "Future"
+   63.835 D Should keep and soft-reload "UU"
+   63.835 D Instance "1 18 2" has been invalidated.
+   66.225 D Will save group list now.
+   66.227 D Group list saved.
+   66.228 D Will delete instance "1.18.11"
+   66.235 D Instance "1.18.11" has been deleted by the launcher.
+   66.235 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   66.236 D Found instance ID "cheats 1 15 2"
+   66.236 D Found instance ID "cheats 1.12.2"
+   66.236 D Found instance ID "Future"
+   66.236 D Found instance ID "UU"
+   66.236 D Should keep and soft-reload "cheats 1 15 2"
+   66.236 D Should keep and soft-reload "cheats 1.12.2"
+   66.236 D Should keep and soft-reload "Future"
+   66.236 D Should keep and soft-reload "UU"
+   66.236 D Instance "1.18.11" has been invalidated.
+   68.536 D Will save group list now.
+   68.538 D Group list saved.
+   68.540 D Will delete instance "cheats 1 15 2"
+   68.559 D Instance "cheats 1 15 2" has been deleted by the launcher.
+   68.559 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   68.559 D Found instance ID "cheats 1.12.2"
+   68.559 D Found instance ID "Future"
+   68.559 D Found instance ID "UU"
+   68.559 D Should keep and soft-reload "cheats 1.12.2"
+   68.559 D Should keep and soft-reload "Future"
+   68.559 D Should keep and soft-reload "UU"
+   68.559 D Instance "cheats 1 15 2" has been invalidated.
+   71.305 D Will save group list now.
+   71.307 D Group list saved.
+   71.310 D Will delete instance "Future"
+   71.311 D Instance "Future" has been deleted by the launcher.
+   71.311 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   71.311 D Found instance ID "cheats 1.12.2"
+   71.312 D Found instance ID "UU"
+   71.312 D Should keep and soft-reload "cheats 1.12.2"
+   71.312 D Should keep and soft-reload "UU"
+   71.312 D Instance "Future" has been invalidated.
+   73.654 D Will save group list now.
+   73.655 D Group list saved.
+   73.656 D Will delete instance "cheats 1.12.2"
+   73.903 D Instance "cheats 1.12.2" has been deleted by the launcher.
+   73.903 D Discovering instances in "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances"
+   73.903 D Found instance ID "UU"
+   73.903 D Should keep and soft-reload "UU"
+   73.903 D Instance "cheats 1.12.2" has been invalidated.
+   81.142 D Task "ComponentUpdateTask(0x38bf648)" starting for the first time
+   81.142 D Loading components
+   81.145 D Task "NetJob(Получение метафайла: index.json)" starting for the first time
+   81.146 D Remote loading is being run for metadata index
+   81.150 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" starting for the first time
+   81.150 D Remote loading is being run for "LWJGL 3"
+   81.157 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" starting for the first time
+   81.157 D Remote loading is being run for "Minecraft"
+   81.160 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" starting for the first time
+   81.160 D Remote loading is being run for "Intermediary Mappings"
+   81.164 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" starting for the first time
+   81.164 D Remote loading is being run for "Fabric Loader"
+   81.168 D Task "NetJob(Получение метафайла: org.lwjgl3/index.json)" starting for the first time
+   81.170 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.174 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.176 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.177 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.179 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.181 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+   81.228 D Applying "org.lwjgl3" GOOD
+   81.229 D Applying "net.minecraft" GOOD
+   81.229 D Applying "net.fabricmc.intermediary" GOOD
+   81.229 D Applying "net.fabricmc.fabric-loader" GOOD
+   81.279 D Downloading  "https://meta.multimc.org/v1/index.json"
+   81.279 D Downloading  "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+   81.280 D Downloading  "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+   81.280 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+   81.281 D Downloading  "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+   81.282 D Downloading  "https://meta.multimc.org/v1/org.lwjgl3/index.json"
+   81.632 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.intermediary/1.19.json"
+   81.632 D Task "NetJob(Получение метафайла: net.fabricmc.intermediary/1.19.json)" succeeded
+   81.632 D Remote task 3 succeeded
+   81.633 D Component list save is scheduled for "UU"
+   81.633 D Download succeeded: "https://meta.multimc.org/v1/index.json"
+   81.633 D Task "NetJob(Получение метафайла: index.json)" succeeded
+   81.633 D Remote task 0 succeeded
+   81.645 D Download succeeded: "https://meta.multimc.org/v1/net.minecraft/1.19.json"
+   81.645 D Task "NetJob(Получение метафайла: net.minecraft/1.19.json)" succeeded
+   81.645 D Remote task 2 succeeded
+   81.646 D Download succeeded: "https://meta.multimc.org/v1/net.fabricmc.fabric-loader/0.14.8.json"
+   81.646 D Task "NetJob(Получение метафайла: net.fabricmc.fabric-loader/0.14.8.json)" succeeded
+   81.646 D Remote task 4 succeeded
+   81.648 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl3/3.3.1.json"
+   81.648 D Task "NetJob(Получение метафайла: org.lwjgl3/3.3.1.json)" succeeded
+   81.648 D Remote task 1 succeeded
+   81.648 D Resolving dependencies
+   81.648 D "Req: net.fabricmc.intermediary" Is met.
+   81.648 D "Req: net.minecraft == 1.19" Is met.
+   81.648 D "Req: org.lwjgl3 == 3.3.1" Is met.
+   81.648 D Task "ComponentUpdateTask(0x38bf648)" succeeded
+   81.648 D Component list update/resolve task succeeded for "UU"
+   81.666 D Download succeeded: "https://meta.multimc.org/v1/org.lwjgl3/index.json"
+   81.666 D Task "NetJob(Получение метафайла: org.lwjgl3/index.json)" succeeded
+   86.643 D Component list save performed now for "UU"
+  108.978 D Task "JavaListLoadTask(0x392da28)" starting for the first time
+  108.978 D Probing the following Java paths: 
+  108.978 D   "C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe"
+  108.978 D   "C:/Program Files/Java/jre8/bin/javaw.exe"
+  108.978 D   "C:/Program Files/Java/jre7/bin/javaw.exe"
+  108.978 D   "C:/Program Files/Java/jre6/bin/javaw.exe"
+  108.978 D   "C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe"
+  108.978 D   "C:/Program Files (x86)/Java/jre8/bin/javaw.exe"
+  108.978 D   "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
+  108.978 D   "C:/Program Files (x86)/Java/jre6/bin/javaw.exe"
+  108.978 D   "javaw"
+  108.978 D Task "JavaCheckerJob(0x392da98)" starting for the first time
+  108.978 D "Java detection"  started.
+  108.978 D "Running java checker: C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.197 D "Running java checker: C:/Program Files/Java/jre8/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.197 D Java checker has failed to start.
+  109.197 D Process environment:
+  109.197 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.197 D Native environment:
+  109.197 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.197 D "Java detection" progress: 1 / 9
+  109.204 D "Running java checker: C:/Program Files/Java/jre7/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.204 D Java checker has failed to start.
+  109.204 D Process environment:
+  109.204 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.204 D Native environment:
+  109.204 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.204 D "Java detection" progress: 2 / 9
+  109.204 D "Running java checker: C:/Program Files/Java/jre6/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.204 D Java checker has failed to start.
+  109.204 D Process environment:
+  109.204 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.204 D Native environment:
+  109.204 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.204 D "Java detection" progress: 3 / 9
+  109.204 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.213 D "Running java checker: C:/Program Files (x86)/Java/jre8/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.213 D Java checker has failed to start.
+  109.213 D Process environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D Native environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D "Java detection" progress: 4 / 9
+  109.213 D "Running java checker: C:/Program Files (x86)/Java/jre7/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.213 D Java checker has failed to start.
+  109.213 D Process environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D Native environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D "Java detection" progress: 5 / 9
+  109.213 D "Running java checker: C:/Program Files (x86)/Java/jre6/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.213 D Java checker has failed to start.
+  109.213 D Process environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "SystemRoot=C:\\WINDOWS", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D Native environment:
+  109.213 D ("CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files", "SystemRoot=C:\\WINDOWS", "USERDOMAIN_ROAMINGPROFILE=DESKTOP-KRHAPDJ", "__COMPAT_LAYER=DetectorsAppHealth", "ProgramW6432=C:\\Program Files", "ProgramData=C:\\ProgramData", "SESSIONNAME=Console", "COMPUTERNAME=DESKTOP-KRHAPDJ", "LOCALAPPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Local", "ProgramFiles=C:\\Program Files (x86)", "windir=C:\\WINDOWS", "FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer", "PROCESSOR_ARCHITECTURE=x86", "PROCESSOR_ARCHITEW6432=AMD64", "PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC", "INTEL_DEV_REDIST=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\", "CommonProgramFiles=C:\\Program Files (x86)\\Common Files", "TMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "MIC_LD_LIBRARY_PATH=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\mic", "ComSpec=C:\\WINDOWS\\system32\\cmd.exe", "OneDrive=C:\\Users\\ASUS ROG 2021\\OneDrive", "ALLUSERSPROFILE=C:\\ProgramData", "=::=::\\", "Path=C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\ASUS ROG 2021\\AppData\\Local\\Microsoft\\WindowsApps;", "USERDOMAIN=DESKTOP-KRHAPDJ", "USERNAME=ASUS ROG 2021", "DriverData=C:\\Windows\\System32\\Drivers\\DriverData", "CommonProgramW6432=C:\\Program Files\\Common Files", "ProgramFiles(x86)=C:\\Program Files (x86)", "PUBLIC=C:\\Users\\Public", "PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD", "TEMP=C:\\Users\\ASUSRO~1\\AppData\\Local\\Temp", "PROCESSOR_REVISION=6001", "LOGONSERVER=\\\\DESKTOP-KRHAPDJ", "HOMEDRIVE=C:", "SystemDrive=C:", "PROCESSOR_LEVEL=23", "USERPROFILE=C:\\Users\\ASUS ROG 2021", "APPDATA=C:\\Users\\ASUS ROG 2021\\AppData\\Roaming", "NUMBER_OF_PROCESSORS=16", "OS=Windows_NT", "PSModulePath=C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules", "HOMEPATH=\\Users\\ASUS ROG 2021", "FPS_BROWSER_USER_PROFILE_STRING=Default")
+  109.213 D "Java detection" progress: 6 / 9
+  109.213 D "Running java checker: javaw-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  109.319 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+  109.319 W STDERR ""
+  109.319 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  109.319 D Java checker succeeded.
+  109.319 D "Java detection" progress: 7 / 9
+  109.382 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+  109.382 W STDERR ""
+  109.382 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  109.382 D Java checker succeeded.
+  109.382 D "Java detection" progress: 8 / 9
+  109.429 D STDOUT "os.arch=amd64\njava.version=1.8.0_51\njava.vendor=Oracle Corporation\n"
+  109.429 W STDERR ""
+  109.429 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  109.429 D Java checker succeeded.
+  109.429 D "Java detection" progress: 9 / 9
+  109.429 D Task "JavaCheckerJob(0x392da98)" succeeded
+  109.429 D Found the following valid Java installations:
+  109.429 D   "1.8.0_51" "64" "C:/Program Files/Java/jre1.8.0_51/bin/javaw.exe"
+  109.429 D   "17.0.3.1" "64" "C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe"
+  109.429 D   "17.0.3.1" "64" "javaw"
+  109.429 D Task "JavaListLoadTask(0x392da28)" succeeded
+  124.800 C "Error changing setting PermGenVisible. Setting doesn't exist."
+  132.920 C "Error changing setting PermGenVisible. Setting doesn't exist."
+  156.150 D Task "ComponentUpdateTask(0x974c5c0)" starting for the first time
+  156.150 D Loading components
+  156.150 D Index is already loaded
+  156.150 D Component list save is scheduled for "UU"
+  156.150 D Resolving dependencies
+  156.150 D "Req: net.fabricmc.intermediary" Is met.
+  156.150 D "Req: net.minecraft == 1.19" Is met.
+  156.150 D "Req: org.lwjgl3 == 3.3.1" Is met.
+  156.150 D Task "ComponentUpdateTask(0x974c5c0)" succeeded
+  156.150 D Component list update/resolve task succeeded for "UU"
+  156.151 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.152 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.154 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.155 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.156 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.158 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  156.187 D Applying "org.lwjgl3" GOOD
+  156.188 D Applying "net.minecraft" GOOD
+  156.188 D Applying "net.fabricmc.intermediary" GOOD
+  156.188 D Applying "net.fabricmc.fabric-loader" GOOD
+  161.140 D Component list save performed now for "UU"
+  198.581 D Opening directory "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft"
+  204.446 D Task "ComponentUpdateTask(0x567b640)" starting for the first time
+  204.446 D Loading components
+  204.446 D Index is already loaded
+  204.446 D Component list save is scheduled for "Ugolok play"
+  204.446 D Resolving dependencies
+  204.446 D "Req: net.fabricmc.intermediary" Is met.
+  204.446 D "Req: net.minecraft == 1.19" Is met.
+  204.446 D "Req: org.lwjgl3 == 3.3.1" Is met.
+  204.446 D Task "ComponentUpdateTask(0x567b640)" succeeded
+  204.446 D Component list update/resolve task succeeded for "Ugolok play"
+  204.447 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.448 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.450 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.451 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.452 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.454 W QMetaObject::connectSlotsByName: No matching signal for on_RunningState_changed(bool)
+  204.483 D Applying "org.lwjgl3" GOOD
+  204.483 D Applying "net.minecraft" GOOD
+  204.483 D Applying "net.fabricmc.intermediary" GOOD
+  204.483 D Applying "net.fabricmc.fabric-loader" GOOD
+  206.003 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  209.439 D Component list save performed now for "Ugolok play"
+  222.578 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  222.578 D World Name: "Новый мир"
+  222.578 D Last Played: "Ср июл 27 14:25:14 2022"
+  222.578 D Seed: -5763953005790264190
+  222.578 D GameType: "Creative"
+  222.578 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/saves"
+  227.369 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/saves"
+  227.381 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/saves"
+  260.451 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/saves"
+  260.453 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  266.270 D installing:  "C:/Users/ASUS ROG 2021/Downloads/Sodium-mc1.19-0.4.2.jar"
+  308.832 D installing:  "C:/Users/ASUS ROG 2021/Downloads/sodium-extra-0.4.6mc1.19-build.47.jar"
+  335.228 D installing:  "C:/Users/ASUS ROG 2021/Downloads/Iris-1.2.6-for-Minecraft-1.19.1.jar"
+  346.607 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  346.609 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/shaderpacks"
+  443.567 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/BSL_v7.1.05p3.zip"
+  443.576 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/BSL_v7.1.05p3.zip.txt"
+  443.579 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/complementaryshaders_3.13.zip"
+  443.581 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/complementaryshaders_3.13.zip.txt"
+  443.582 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/ComplementaryShaders_v4.1.zip"
+  443.586 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/ComplementaryShaders_v4.1.zip.txt"
+  443.586 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/continuum_2.1_alpha_build_10.zip"
+  443.600 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/continuum_2.1_alpha_build_10.zip.txt"
+  443.600 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/seus_ptgi_e12.zip"
+  443.604 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/seus-ptgi-e8.zip"
+  443.612 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/SEUS-Renewed-1.0.0.zip"
+  443.618 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/SEUS-Renewed-1.0.0.zip.txt"
+  443.619 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/sildurs-enhanced-default-v1.10.zip"
+  443.620 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/sildurs-vibrant-shaders-v1.27-medium.zip"
+  443.621 D installing:  "D:/vv/multiMC cracked/UltimMC/instances/cheats 1.12.2/.minecraft/shaderpacks/Ultra_4k_shaders.zip"
+  448.372 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/shaderpacks"
+  448.375 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  450.790 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  459.879 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/resourcepacks"
+  506.110 D installing:  "C:/Users/ASUS ROG 2021/Downloads/mini-items.zip"
+  509.995 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/resourcepacks"
+  509.997 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  534.536 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  555.279 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/resourcepacks"
+  556.179 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/resourcepacks"
+  556.181 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  559.204 D Task "LaunchController(0x93552d8)" starting for the first time
+  559.205 D Task "MojangRefresh(0x9355000)" starting for the first time
+  559.205 D Task "Yggdrasil(0x96a15c0)" starting for the first time
+  559.520 D Read  217  bytes
+  559.521 D Read  116  bytes
+  559.521 D Processing request
+  559.521 D Processing authentication response.
+  559.521 D Getting access token.
+  559.521 D Finished reading authentication response.
+  559.521 D Task "Yggdrasil(0x96a15c0)" succeeded
+  559.521 D Getting Xbox profile...
+  559.846 W AuthRequest::onRequestError: Error 204
+  559.846 W AuthRequest::onRequestError: Error string:  "Host requires authentication"
+  559.846 W AuthRequest::onRequestError: HTTP status 401 "Unauthorized"
+  559.846 D Parsing Minecraft entitlements...
+  559.846 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+  560.522 D Task "MojangRefresh(0x9355000)" succeeded
+  560.522 D Writing account list to "accounts.json"
+  560.522 D Building JSON data structure.
+  560.522 D Building account array.
+  560.522 D Writing account list to file.
+  560.523 D Saved account list to "accounts.json"
+  560.582 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+  560.584 W QString::arg: Argument missing: "http://localhost:51257" , 51257
+  560.698 D Task "LaunchTask(0x9530a88)" starting for the first time
+  560.698 D Task "TextPrint(0x628ead8)" starting for the first time
+  560.699 D Task "TextPrint(0x628ead8)" succeeded
+  560.699 D Task "TextPrint(0x628e988)" starting for the first time
+  560.699 D Task "TextPrint(0x628e988)" succeeded
+  560.699 D Task "TextPrint(0x628e480)" starting for the first time
+  560.699 D Task "TextPrint(0x628e480)" succeeded
+  560.699 D Task "TextPrint(0x63baaf8)" starting for the first time
+  560.699 D Task "TextPrint(0x63baaf8)" succeeded
+  560.700 D Task "CheckJava(0x5676000)" starting for the first time
+  560.700 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  560.804 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+  560.804 W STDERR ""
+  560.804 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  560.804 D Java checker succeeded.
+  560.810 C "Error changing setting JavaVendor. Setting doesn't exist."
+  560.812 D Task "CheckJava(0x5676000)" succeeded
+  560.812 D Task "CreateGameFolders(0x9a4a2d8)" starting for the first time
+  560.812 D Task "CreateGameFolders(0x9a4a2d8)" succeeded
+  560.812 D Task "ClaimAccount(0x55b6c50)" starting for the first time
+  560.812 D Writing account list to "accounts.json"
+  560.812 D Building JSON data structure.
+  560.812 D Building account array.
+  560.812 D Writing account list to file.
+  560.813 D Saved account list to "accounts.json"
+  560.814 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is now in use.
+  560.814 D Task "ClaimAccount(0x55b6c50)" succeeded
+  560.814 D Task "Update(0x56758c0)" starting for the first time
+  560.814 D Task "MinecraftUpdate(0x5675280)" starting for the first time
+  560.814 D Task "ComponentUpdateTask(0x633e3d8)" starting for the first time
+  560.814 D Loading components
+  560.814 D Index is already loaded
+  560.814 D Component list save is scheduled for "Ugolok play"
+  560.814 D Resolving dependencies
+  560.814 D "Req: net.fabricmc.intermediary" Is met.
+  560.814 D "Req: net.minecraft == 1.19" Is met.
+  560.814 D "Req: org.lwjgl3 == 3.3.1" Is met.
+  560.814 D Task "ComponentUpdateTask(0x633e3d8)" succeeded
+  560.814 D Component list update/resolve task succeeded for "Ugolok play"
+  560.814 D Task "FoldersTask(0x6302324)" starting for the first time
+  560.814 D Task "FoldersTask(0x6302324)" succeeded
+  560.814 D Task "LibrariesTask(0x644503c)" starting for the first time
+  560.814 D "Ugolok play" : downloading libraries
+  560.815 D Applying "org.lwjgl3" GOOD
+  560.815 D Applying "net.minecraft" GOOD
+  560.815 D Applying "net.fabricmc.intermediary" GOOD
+  560.815 D Applying "net.fabricmc.fabric-loader" GOOD
+  560.817 D Task "NetJob(Библиотеки для сборки Ugolok play)" starting for the first time
+  560.826 D Task "NetJob(Библиотеки для сборки Ugolok play)" succeeded
+  560.826 D Task "LibrariesTask(0x644503c)" succeeded
+  560.826 D Task "FMLLibrariesTask(0x9449ac4)" starting for the first time
+  560.826 D Task "FMLLibrariesTask(0x9449ac4)" succeeded
+  560.826 D Task "AssetUpdateTask(0x64450bc)" starting for the first time
+  560.827 D Asset index SHA1: "b5c7548ddb9e584e84a5f762da5b78211c715a63"
+  560.827 D "Ugolok play" : Starting asset index download
+  560.827 D Task "NetJob(Индекс ресурса для Ugolok play)" starting for the first time
+  560.832 D Downloading  "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+  561.107 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+  561.107 D Task "NetJob(Индекс ресурса для Ugolok play)" succeeded
+  561.107 D "Ugolok play" : Finished asset index download
+  561.288 D Task "AssetUpdateTask(0x64450bc)" succeeded
+  561.288 D Task "MinecraftUpdate(0x5675280)" succeeded
+  561.288 D Task "Update(0x56758c0)" succeeded
+  561.292 D Task "ModMinecraftJar(0x9a4a128)" starting for the first time
+  561.292 D Task "ModMinecraftJar(0x9a4a128)" succeeded
+  561.292 D Task "ScanModFolders(0x9a4a158)" starting for the first time
+  561.292 W QCoreApplication::postEvent: Unexpected null receiver
+  561.294 D Task "ScanModFolders(0x9a4a158)" succeeded
+  561.294 D Task "PrintInstanceInfo(0x56753c0)" starting for the first time
+  561.321 D Task "PrintInstanceInfo(0x56753c0)" succeeded
+  561.321 D Task "ExtractNatives(0x9a4a338)" starting for the first time
+  561.516 D Task "ExtractNatives(0x9a4a338)" succeeded
+  561.516 D Task "ReconstructAssets(0x9a4a3c8)" starting for the first time
+  561.516 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.19"
+  561.526 D Task "ReconstructAssets(0x9a4a3c8)" succeeded
+  561.526 D Task "VerifyJavaInstall(0x9a4a2a8)" starting for the first time
+  561.526 D Task "VerifyJavaInstall(0x9a4a2a8)" succeeded
+  561.526 D Task "InjectAuthlib(0x628cc40)" starting for the first time
+  561.527 D Task "NetJob(Injector versions info download)" starting for the first time
+  561.533 D Downloading  "https://authlib-injector.yushi.moe/artifact/latest.json"
+  561.874 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/latest.json"
+  561.874 D Task "NetJob(Injector versions info download)" succeeded
+  561.878 D Authlib injector version: "authlib-injector-1.1.47.jar"
+  561.878 D Task "NetJob(Injector download)" starting for the first time
+  561.879 D Downloading  "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+  561.940 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+  561.940 D Task "NetJob(Injector download)" succeeded
+  561.940 D Injecting  "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+  561.940 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+  561.940 D Task "InjectAuthlib(0x628cc40)" succeeded
+  561.940 D Task "LauncherPartLaunch(0x9355208)" starting for the first time
+  561.951 D "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms1500m -Xmx1600m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/natives -cp D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar org.multimc.EntryPoint"
+  564.461 D Read  154  bytes
+  564.461 D Processing request
+  565.813 D Component list save performed now for "Ugolok play"
+  624.969 D Task "LauncherPartLaunch(0x9355208)" succeeded
+  624.975 D Writing account list to "accounts.json"
+  624.975 D Building JSON data structure.
+  624.975 D Building account array.
+  624.975 D Writing account list to file.
+  624.977 D Saved account list to "accounts.json"
+  624.977 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is no longer in use.
+  624.983 D Task "LaunchTask(0x9530a88)" succeeded
+  624.983 D Task "LaunchController(0x93552d8)" succeeded
+  637.177 D Task "LaunchController(0x56b4958)" starting for the first time
+  637.177 D Task "MojangRefresh(0x56b4e38)" starting for the first time
+  637.177 D Task "Yggdrasil(0x96a1890)" starting for the first time
+  637.188 D Read  217  bytes
+  637.193 D Read  116  bytes
+  637.193 D Processing request
+  637.194 D Processing authentication response.
+  637.194 D Getting access token.
+  637.194 D Finished reading authentication response.
+  637.194 D Task "Yggdrasil(0x96a1890)" succeeded
+  637.194 D Getting Xbox profile...
+  637.341 W AuthRequest::onRequestError: Error 204
+  637.341 W AuthRequest::onRequestError: Error string:  "Host requires authentication"
+  637.341 W AuthRequest::onRequestError: HTTP status 401 "Unauthorized"
+  637.341 D Parsing Minecraft entitlements...
+  637.341 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+  637.429 D Task "MojangRefresh(0x56b4e38)" succeeded
+  637.429 D Writing account list to "accounts.json"
+  637.429 D Building JSON data structure.
+  637.429 D Building account array.
+  637.429 D Writing account list to file.
+  637.431 D Saved account list to "accounts.json"
+  637.499 W QString::arg: Argument missing: "http://localhost:51257" , 51257
+  637.613 D Task "LaunchTask(0x95620e8)" starting for the first time
+  637.613 D Task "TextPrint(0x625df28)" starting for the first time
+  637.613 D Task "TextPrint(0x625df28)" succeeded
+  637.613 D Task "TextPrint(0x6427a40)" starting for the first time
+  637.613 D Task "TextPrint(0x6427a40)" succeeded
+  637.613 D Task "TextPrint(0x6427f80)" starting for the first time
+  637.614 D Task "TextPrint(0x6427f80)" succeeded
+  637.614 D Task "TextPrint(0xc42a4d0)" starting for the first time
+  637.614 D Task "TextPrint(0xc42a4d0)" succeeded
+  637.614 D Task "CheckJava(0x64440b0)" starting for the first time
+  637.614 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+  637.711 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+  637.711 W STDERR ""
+  637.711 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+  637.711 D Java checker succeeded.
+  637.717 C "Error changing setting JavaVendor. Setting doesn't exist."
+  637.719 D Task "CheckJava(0x64440b0)" succeeded
+  637.719 D Task "CreateGameFolders(0x6373630)" starting for the first time
+  637.720 D Task "CreateGameFolders(0x6373630)" succeeded
+  637.720 D Task "ClaimAccount(0xc42aab8)" starting for the first time
+  637.720 D Writing account list to "accounts.json"
+  637.720 D Building JSON data structure.
+  637.720 D Building account array.
+  637.720 D Writing account list to file.
+  637.721 D Saved account list to "accounts.json"
+  637.721 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is now in use.
+  637.721 D Task "ClaimAccount(0xc42aab8)" succeeded
+  637.722 D Task "Update(0x64441f0)" starting for the first time
+  637.722 D Task "MinecraftUpdate(0x64447b0)" starting for the first time
+  637.722 D Task "ComponentUpdateTask(0x633e8b8)" starting for the first time
+  637.722 D Loading components
+  637.722 D Index is already loaded
+  637.722 D Component list save is scheduled for "Ugolok play"
+  637.722 D Resolving dependencies
+  637.722 D "Req: net.fabricmc.intermediary" Is met.
+  637.722 D "Req: net.minecraft == 1.19" Is met.
+  637.722 D "Req: org.lwjgl3 == 3.3.1" Is met.
+  637.722 D Task "ComponentUpdateTask(0x633e8b8)" succeeded
+  637.722 D Component list update/resolve task succeeded for "Ugolok play"
+  637.722 D Task "FoldersTask(0x97f7ee4)" starting for the first time
+  637.723 D Task "FoldersTask(0x97f7ee4)" succeeded
+  637.723 D Task "LibrariesTask(0x644497c)" starting for the first time
+  637.723 D "Ugolok play" : downloading libraries
+  637.723 D Applying "org.lwjgl3" GOOD
+  637.723 D Applying "net.minecraft" GOOD
+  637.723 D Applying "net.fabricmc.intermediary" GOOD
+  637.723 D Applying "net.fabricmc.fabric-loader" GOOD
+  637.724 D Task "NetJob(Библиотеки для сборки Ugolok play)" starting for the first time
+  637.736 D Task "NetJob(Библиотеки для сборки Ugolok play)" succeeded
+  637.736 D Task "LibrariesTask(0x644497c)" succeeded
+  637.736 D Task "FMLLibrariesTask(0x9a4cf1c)" starting for the first time
+  637.736 D Task "FMLLibrariesTask(0x9a4cf1c)" succeeded
+  637.736 D Task "AssetUpdateTask(0x64449bc)" starting for the first time
+  637.737 D Asset index SHA1: "b5c7548ddb9e584e84a5f762da5b78211c715a63"
+  637.737 D "Ugolok play" : Starting asset index download
+  637.737 D Task "NetJob(Индекс ресурса для Ugolok play)" starting for the first time
+  637.742 D Downloading  "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+  637.809 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+  637.809 D Task "NetJob(Индекс ресурса для Ugolok play)" succeeded
+  637.809 D "Ugolok play" : Finished asset index download
+  637.843 D Task "AssetUpdateTask(0x64449bc)" succeeded
+  637.843 D Task "MinecraftUpdate(0x64447b0)" succeeded
+  637.843 D Task "Update(0x64441f0)" succeeded
+  637.848 D Task "ModMinecraftJar(0x63738d0)" starting for the first time
+  637.848 D Task "ModMinecraftJar(0x63738d0)" succeeded
+  637.848 D Task "ScanModFolders(0x6373660)" starting for the first time
+  637.849 W QCoreApplication::postEvent: Unexpected null receiver
+  637.851 D Task "ScanModFolders(0x6373660)" succeeded
+  637.851 D Task "PrintInstanceInfo(0x6444130)" starting for the first time
+  637.875 D Task "PrintInstanceInfo(0x6444130)" succeeded
+  637.875 D Task "ExtractNatives(0x6373690)" starting for the first time
+  637.916 D Task "ExtractNatives(0x6373690)" succeeded
+  637.916 D Task "ReconstructAssets(0x63736c0)" starting for the first time
+  637.916 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.19"
+  637.926 D Task "ReconstructAssets(0x63736c0)" succeeded
+  637.926 D Task "VerifyJavaInstall(0x63736f0)" starting for the first time
+  637.926 D Task "VerifyJavaInstall(0x63736f0)" succeeded
+  637.926 D Task "InjectAuthlib(0xc236e60)" starting for the first time
+  637.926 D Task "NetJob(Injector versions info download)" starting for the first time
+  637.931 D Downloading  "https://authlib-injector.yushi.moe/artifact/latest.json"
+  637.992 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/latest.json"
+  637.992 D Task "NetJob(Injector versions info download)" succeeded
+  637.992 D Authlib injector version: "authlib-injector-1.1.47.jar"
+  637.992 D Task "NetJob(Injector download)" starting for the first time
+  637.993 D Downloading  "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+  638.053 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+  638.053 D Task "NetJob(Injector download)" succeeded
+  638.053 D Injecting  "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+  638.053 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+  638.053 D Task "InjectAuthlib(0xc236e60)" succeeded
+  638.053 D Task "LauncherPartLaunch(0x56b4fd8)" starting for the first time
+  638.064 D "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms1500m -Xmx1600m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/natives -cp D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar org.multimc.EntryPoint"
+  638.254 D Read  154  bytes
+  638.255 D Processing request
+  642.733 D Component list save performed now for "Ugolok play"
+  801.466 D Read  226  bytes
+  801.466 D Processing request
+ 1760.812 D Task "LauncherPartLaunch(0x56b4fd8)" succeeded
+ 1760.818 D Writing account list to "accounts.json"
+ 1760.818 D Building JSON data structure.
+ 1760.818 D Building account array.
+ 1760.818 D Writing account list to file.
+ 1760.819 D Saved account list to "accounts.json"
+ 1760.820 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is no longer in use.
+ 1760.825 D Task "LaunchTask(0x95620e8)" succeeded
+ 1760.825 D Task "LaunchController(0x56b4958)" succeeded
+ 1790.066 D Started watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+ 1790.067 C Task "ScanModFolders(0x6373660)" succeeded while not running!!!!
+ 1794.404 D installing:  "C:/Users/ASUS ROG 2021/Downloads/jei-1.19-fabric-11.0.2.230.jar"
+ 1794.412 C Task "ScanModFolders(0x6373660)" succeeded while not running!!!!
+ 1794.419 C Task "ScanModFolders(0x6373660)" succeeded while not running!!!!
+ 1796.505 D Task "LaunchController(0x9818f30)" starting for the first time
+ 1796.505 D Task "MojangRefresh(0x9818ec8)" starting for the first time
+ 1796.505 D Task "Yggdrasil(0x96a07b0)" starting for the first time
+ 1796.844 D Read  217  bytes
+ 1796.845 D Read  116  bytes
+ 1796.845 D Processing request
+ 1796.845 D Processing authentication response.
+ 1796.845 D Getting access token.
+ 1796.845 D Finished reading authentication response.
+ 1796.845 D Task "Yggdrasil(0x96a07b0)" succeeded
+ 1796.845 D Getting Xbox profile...
+ 1797.187 W AuthRequest::onRequestError: Error 204
+ 1797.188 W AuthRequest::onRequestError: Error string:  "Host requires authentication"
+ 1797.188 W AuthRequest::onRequestError: HTTP status 401 "Unauthorized"
+ 1797.188 D Parsing Minecraft entitlements...
+ 1797.188 W Failed to parse response from user.auth.xboxlive.com as JSON:  "illegal value"
+ 1797.816 D Task "MojangRefresh(0x9818ec8)" succeeded
+ 1797.817 D Writing account list to "accounts.json"
+ 1797.817 D Building JSON data structure.
+ 1797.817 D Building account array.
+ 1797.817 D Writing account list to file.
+ 1797.818 D Saved account list to "accounts.json"
+ 1797.878 D Stopped watching  "D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/.minecraft/mods"
+ 1797.880 W QString::arg: Argument missing: "http://localhost:51257" , 51257
+ 1797.997 D Task "LaunchTask(0x9521d90)" starting for the first time
+ 1797.997 D Task "TextPrint(0x94f8d00)" starting for the first time
+ 1797.998 D Task "TextPrint(0x94f8d00)" succeeded
+ 1797.998 D Task "TextPrint(0x94f8c20)" starting for the first time
+ 1797.998 D Task "TextPrint(0x94f8c20)" succeeded
+ 1797.998 D Task "TextPrint(0x94f8b08)" starting for the first time
+ 1797.998 D Task "TextPrint(0x94f8b08)" succeeded
+ 1797.998 D Task "TextPrint(0x948ea10)" starting for the first time
+ 1797.998 D Task "TextPrint(0x948ea10)" succeeded
+ 1797.998 D Task "CheckJava(0x3924a18)" starting for the first time
+ 1797.999 D "Running java checker: C:/Program Files/Java/jdk-17.0.3.1/bin/javaw.exe-jar D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/JavaCheck.jar"
+ 1798.105 D STDOUT "os.arch=amd64\njava.version=17.0.3.1\njava.vendor=Oracle Corporation\n"
+ 1798.105 W STDERR ""
+ 1798.106 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+ 1798.106 D Java checker succeeded.
+ 1798.111 C "Error changing setting JavaVendor. Setting doesn't exist."
+ 1798.113 D Task "CheckJava(0x3924a18)" succeeded
+ 1798.113 D Task "CreateGameFolders(0x9501f70)" starting for the first time
+ 1798.113 D Task "CreateGameFolders(0x9501f70)" succeeded
+ 1798.113 D Task "ClaimAccount(0x948ef50)" starting for the first time
+ 1798.113 D Writing account list to "accounts.json"
+ 1798.113 D Building JSON data structure.
+ 1798.113 D Building account array.
+ 1798.113 D Writing account list to file.
+ 1798.114 D Saved account list to "accounts.json"
+ 1798.115 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is now in use.
+ 1798.115 D Task "ClaimAccount(0x948ef50)" succeeded
+ 1798.115 D Task "Update(0x3924318)" starting for the first time
+ 1798.115 D Task "MinecraftUpdate(0x3924658)" starting for the first time
+ 1798.115 D Task "ComponentUpdateTask(0x639c6e0)" starting for the first time
+ 1798.115 D Loading components
+ 1798.115 D Index is already loaded
+ 1798.115 D Component list save is scheduled for "Ugolok play"
+ 1798.115 D Resolving dependencies
+ 1798.115 D "Req: net.fabricmc.intermediary" Is met.
+ 1798.115 D "Req: net.minecraft == 1.19" Is met.
+ 1798.115 D "Req: org.lwjgl3 == 3.3.1" Is met.
+ 1798.115 D Task "ComponentUpdateTask(0x639c6e0)" succeeded
+ 1798.115 D Component list update/resolve task succeeded for "Ugolok play"
+ 1798.115 D Task "FoldersTask(0x948eb6c)" starting for the first time
+ 1798.116 D Task "FoldersTask(0x948eb6c)" succeeded
+ 1798.116 D Task "LibrariesTask(0x3924764)" starting for the first time
+ 1798.116 D "Ugolok play" : downloading libraries
+ 1798.116 D Applying "org.lwjgl3" GOOD
+ 1798.116 D Applying "net.minecraft" GOOD
+ 1798.116 D Applying "net.fabricmc.intermediary" GOOD
+ 1798.116 D Applying "net.fabricmc.fabric-loader" GOOD
+ 1798.117 D Task "NetJob(Библиотеки для сборки Ugolok play)" starting for the first time
+ 1798.128 D Task "NetJob(Библиотеки для сборки Ugolok play)" succeeded
+ 1798.128 D Task "LibrariesTask(0x3924764)" succeeded
+ 1798.128 D Task "FMLLibrariesTask(0x97f4b04)" starting for the first time
+ 1798.128 D Task "FMLLibrariesTask(0x97f4b04)" succeeded
+ 1798.128 D Task "AssetUpdateTask(0x3924864)" starting for the first time
+ 1798.128 D Asset index SHA1: "b5c7548ddb9e584e84a5f762da5b78211c715a63"
+ 1798.128 D "Ugolok play" : Starting asset index download
+ 1798.128 D Task "NetJob(Индекс ресурса для Ugolok play)" starting for the first time
+ 1798.134 D Downloading  "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+ 1798.433 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/b5c7548ddb9e584e84a5f762da5b78211c715a63/1.19.json"
+ 1798.433 D Task "NetJob(Индекс ресурса для Ugolok play)" succeeded
+ 1798.433 D "Ugolok play" : Finished asset index download
+ 1798.467 D Task "AssetUpdateTask(0x3924864)" succeeded
+ 1798.467 D Task "MinecraftUpdate(0x3924658)" succeeded
+ 1798.467 D Task "Update(0x3924318)" succeeded
+ 1798.472 D Task "ModMinecraftJar(0x95024b0)" starting for the first time
+ 1798.472 D Task "ModMinecraftJar(0x95024b0)" succeeded
+ 1798.472 D Task "ScanModFolders(0x9503200)" starting for the first time
+ 1798.472 W QCoreApplication::postEvent: Unexpected null receiver
+ 1798.474 D Task "ScanModFolders(0x9503200)" succeeded
+ 1798.474 D Task "PrintInstanceInfo(0x3924958)" starting for the first time
+ 1798.499 D Task "PrintInstanceInfo(0x3924958)" succeeded
+ 1798.499 D Task "ExtractNatives(0x95033b0)" starting for the first time
+ 1798.541 D Task "ExtractNatives(0x95033b0)" succeeded
+ 1798.541 D Task "ReconstructAssets(0x95035c0)" starting for the first time
+ 1798.541 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/1.19"
+ 1798.552 D Task "ReconstructAssets(0x95035c0)" succeeded
+ 1798.552 D Task "VerifyJavaInstall(0x9503080)" starting for the first time
+ 1798.552 D Task "VerifyJavaInstall(0x9503080)" succeeded
+ 1798.552 D Task "InjectAuthlib(0x97f4bd0)" starting for the first time
+ 1798.552 D Task "NetJob(Injector versions info download)" starting for the first time
+ 1798.559 D Downloading  "https://authlib-injector.yushi.moe/artifact/latest.json"
+ 1798.961 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/latest.json"
+ 1798.961 D Task "NetJob(Injector versions info download)" succeeded
+ 1798.961 D Authlib injector version: "authlib-injector-1.1.47.jar"
+ 1798.961 D Task "NetJob(Injector download)" starting for the first time
+ 1798.962 D Downloading  "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+ 1799.031 D Download succeeded: "https://authlib-injector.yushi.moe/artifact/47/authlib-injector-1.1.47.jar"
+ 1799.031 D Task "NetJob(Injector download)" succeeded
+ 1799.031 D Injecting  "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+ 1799.031 D NEW INJECTOR "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257"
+ 1799.031 D Task "InjectAuthlib(0x97f4bd0)" succeeded
+ 1799.031 D Task "LauncherPartLaunch(0x9818d90)" starting for the first time
+ 1799.043 D "-javaagent:D:/vv/multiMC cracked/UgolokMC launcher utilmmc/injectors/authlib-injector-1.1.47.jar=http://localhost:51257 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms1500m -Xmx1600m -Duser.language=en -Djava.library.path=D:/vv/multiMC cracked/UgolokMC launcher utilmmc/instances/UU/natives -cp D:/vv/multiMC cracked/UgolokMC launcher utilmmc/jars/NewLaunch.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/authlib/3.5.41/authlib-3.5.41.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/intermediary/1.19/intermediary-1.19.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm/9.3/asm-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/net/fabricmc/fabric-loader/0.14.8/fabric-loader-0.14.8.jar;D:/vv/multiMC cracked/UgolokMC launcher utilmmc/libraries/com/mojang/minecraft/1.19/minecraft-1.19-client.jar org.multimc.EntryPoint"
+ 1799.241 D Read  154  bytes
+ 1799.241 D Processing request
+ 1803.114 D Component list save performed now for "Ugolok play"
+ 1907.068 D Read  226  bytes
+ 1907.068 D Processing request
+ 2119.004 D Task "LauncherPartLaunch(0x9818d90)" succeeded
+ 2119.020 D Writing account list to "accounts.json"
+ 2119.020 D Building JSON data structure.
+ 2119.020 D Building account array.
+ 2119.020 D Writing account list to file.
+ 2119.020 D Saved account list to "accounts.json"
+ 2119.020 W Profile "2f9f8bea53064f99aa5f1767835d79e9" is no longer in use.
+ 2119.020 D Task "LaunchTask(0x9521d90)" succeeded
+ 2119.020 D Task "LaunchController(0x9818f30)" succeeded
